@@ -1,0 +1,447 @@
+/* Atkinson Hyperlegible © Braille Institute. Fraunces © The Fraunces Project Authors.
+   Both under the SIL Open Font License 1.1. Latin subset only. */
+
+@font-face {
+  font-family: "Atkinson Hyperlegible";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../assets/fonts/atkinson-regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Atkinson Hyperlegible";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../assets/fonts/atkinson-italic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Atkinson Hyperlegible";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../assets/fonts/atkinson-bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Fraunces";
+  font-style: normal;
+  font-weight: 500 700;
+  font-display: swap;
+  src: url("../assets/fonts/fraunces-latin.woff2") format("woff2");
+}
+
+:root {
+  --cream: #fdf9f0;
+  --ink: #2c2444;
+  --ink-soft: #4a4166;
+  --purple: #4e3a78;
+  --apple: #7eae2e;
+  --apple-deep: #2f5d12;
+  --apple-soft: #e7f6cf;
+  --apple-mid: #d5eea4;
+  --purple-soft: #ede4f8;
+  --line: #e6dccb;
+  --serif: "Fraunces", "Iowan Old Style", Palatino, Georgia, serif;
+  --sans: "Atkinson Hyperlegible", "Avenir Next", "Segoe UI", sans-serif;
+  --wrap: 70rem;
+  --content: 40rem;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: auto;
+}
+
+body {
+  margin: 0;
+  background: var(--cream);
+  color: var(--ink);
+  font-family: var(--sans);
+  font-size: 1.125rem;
+  line-height: 1.65;
+  overflow-x: clip;
+}
+
+body::before {
+  content: "";
+  display: block;
+  height: 0.55rem;
+  background: linear-gradient(90deg, var(--apple) 0 50%, var(--purple) 50% 100%);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+a {
+  color: var(--purple);
+  text-underline-offset: 0.18em;
+}
+
+a:hover {
+  color: var(--apple-deep);
+}
+
+:focus-visible {
+  outline: 3px solid var(--apple-deep);
+  outline-offset: 3px;
+}
+
+.skip {
+  position: absolute;
+  left: 1rem;
+  top: -4rem;
+  background: var(--ink);
+  color: var(--cream);
+  padding: 0.6rem 0.9rem;
+  border-radius: 0.6rem;
+  z-index: 5;
+}
+
+.skip:focus {
+  top: 0.8rem;
+}
+
+.wrap {
+  width: min(calc(100% - 2rem), var(--wrap));
+  margin-inline: auto;
+}
+
+.site-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1.1rem 0 0.4rem;
+}
+
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.7rem;
+  color: var(--ink);
+  text-decoration: none;
+  font-family: var(--serif);
+  font-size: 1.45rem;
+  font-weight: 650;
+  letter-spacing: -0.02em;
+}
+
+.brand-dot {
+  width: 1.15rem;
+  height: 1.15rem;
+  border-radius: 50%;
+  background: conic-gradient(var(--apple) 0 50%, var(--purple) 50% 100%);
+  flex: none;
+}
+
+.nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.nav a {
+  color: var(--ink);
+  text-decoration: none;
+  font-weight: 700;
+  padding: 0.7rem 0.95rem;
+  border-radius: 999px;
+  min-height: 2.75rem;
+  display: inline-flex;
+  align-items: center;
+}
+
+.nav a[aria-current="page"] {
+  background: var(--purple-soft);
+  color: var(--purple);
+}
+
+.nav a:hover {
+  background: var(--apple-soft);
+  color: var(--apple-deep);
+}
+
+.hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.05fr) minmax(0, 0.95fr);
+  gap: 2rem 2.5rem;
+  align-items: center;
+  padding: 1.5rem 0 2.5rem;
+}
+
+.hero > * {
+  min-width: 0;
+}
+
+.kicker {
+  display: inline-block;
+  margin: 0 0 0.8rem;
+  padding: 0.3rem 0.75rem;
+  border-radius: 999px;
+  background: var(--apple-mid);
+  color: #243016;
+  font-weight: 700;
+  font-size: 0.95rem;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--serif);
+  font-weight: 650;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  margin: 0 0 0.7rem;
+}
+
+h1 {
+  font-size: clamp(2.15rem, 4.4vw, 3.45rem);
+  max-width: 16em;
+}
+
+h2 {
+  font-size: clamp(1.7rem, 3vw, 2.3rem);
+}
+
+h3 {
+  font-size: 1.35rem;
+  margin-bottom: 0.4rem;
+}
+
+.lede {
+  font-size: 1.25rem;
+  max-width: 36rem;
+  margin: 0 0 1.3rem;
+}
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  min-height: 3rem;
+  padding: 0.75rem 1.2rem;
+  border-radius: 999px;
+  background: var(--purple);
+  color: #fff;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.button:hover {
+  background: var(--apple-deep);
+  color: #fff;
+}
+
+.portrait {
+  position: relative;
+  min-height: 18rem;
+  display: grid;
+  place-items: center;
+}
+
+.portrait::before,
+.portrait::after {
+  content: "";
+  position: absolute;
+  border-radius: 2rem;
+}
+
+.portrait::before {
+  inset: 6% 4% 16% 10%;
+  background: var(--apple-soft);
+}
+
+.portrait::after {
+  inset: 20% 8% 0 0;
+  background: var(--purple-soft);
+}
+
+.portrait img {
+  position: relative;
+  z-index: 1;
+  width: min(100%, 28rem);
+  background: var(--cream);
+  border-radius: 1.4rem;
+}
+
+.band {
+  padding: 2.4rem 0;
+}
+
+.band-apple {
+  background: var(--apple-soft);
+}
+
+.band-purple {
+  background: var(--purple-soft);
+}
+
+.section-intro {
+  max-width: var(--content);
+  margin-bottom: 1.3rem;
+}
+
+.section-intro p,
+.prose p {
+  margin: 0 0 0.9rem;
+}
+
+.cards,
+.services {
+  display: grid;
+  gap: 1rem;
+}
+
+.cards {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.services {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.card,
+.service,
+.note {
+  background: #fffdf8;
+  border: 2px solid var(--line);
+  border-radius: 1.4rem;
+  padding: 1.2rem 1.25rem 1.1rem;
+}
+
+.card p,
+.service p,
+.note p {
+  margin: 0;
+}
+
+.service {
+  border-top: 0.45rem solid var(--apple);
+}
+
+.note {
+  border-color: var(--purple);
+}
+
+.note p + p {
+  margin-top: 0.95rem;
+}
+
+.service-postpartum {
+  border-top-color: var(--purple);
+}
+
+.service ul,
+.steps {
+  margin: 0.8rem 0 0;
+  padding-left: 1.15rem;
+}
+
+.service li,
+.steps li {
+  margin: 0.35rem 0;
+}
+
+.prose {
+  max-width: var(--content);
+  padding-bottom: 1rem;
+}
+
+.note {
+  max-width: var(--content);
+  border: 2px solid var(--purple);
+}
+
+.page-intro {
+  padding: 1.7rem 0 0.2rem;
+}
+
+.page-intro h1 {
+  max-width: 18em;
+}
+
+.more {
+  display: inline-block;
+  margin-top: 0.85rem;
+  font-weight: 700;
+}
+
+.site-footer {
+  padding: 1.5rem 0 2.2rem;
+  color: var(--ink-soft);
+}
+
+.footer-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 1.1rem;
+  margin-bottom: 0.85rem;
+}
+
+.footer-nav a {
+  font-weight: 700;
+}
+
+.footer-nav a[aria-current="page"] {
+  color: var(--apple-deep);
+}
+
+.site-footer p {
+  margin: 0;
+}
+
+.footer-contact {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 1.1rem;
+  margin-top: 0.7rem;
+}
+
+.footer-contact a {
+  color: var(--ink);
+  font-weight: 700;
+}
+
+.contact-link {
+  font-size: 1.35rem;
+  font-weight: 700;
+}
+
+@media (max-width: 860px) {
+  .hero,
+  .cards,
+  .services,
+  .site-header {
+    grid-template-columns: minmax(0, 1fr);
+    display: grid;
+  }
+
+  .site-header {
+    justify-items: start;
+  }
+
+  .nav {
+    flex-wrap: wrap;
+    padding-bottom: 0.2rem;
+  }
+
+  h1 {
+    max-width: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
