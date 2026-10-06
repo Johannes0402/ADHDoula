@@ -34,6 +34,6 @@ Je partner of een andere naaste mag erbij zijn. Een pauze is een gewone keuze.
 
 Ik kom bij een thuisbevalling en ik ga mee naar het ziekenhuis, in [Tilburg en tot 30 kilometer](https://www.adhdoula.nl/werkgebied.html). Daarbuiten spreken we de reis vooraf af. De plek verandert mijn rol niet: ik blijf bij je, de verloskundige blijft verantwoordelijk voor de medische zorg.
 
-Ik doe geen onderzoek en ik beslis niet over inleiden, pijnstilling of een keizersnede. [De grens tussen steun en zorg](https://www.adhdoula.nl/wel-en-niet.html) staat uitgeschreven. Korte antwoorden staan bij de [vragen](https://www.adhdoula.nl/vragen.html).
+Ik doe geen medisch onderzoek en ik beslis niet over inleiden, pijnstilling of een keizersnede. De grens tussen steun en zorg staat uitgeschreven in het bevallingsplan.
 
 [Na de kraamweek is er ook postpartum-begeleiding.](https://www.adhdoula.nl/postpartum.html)
