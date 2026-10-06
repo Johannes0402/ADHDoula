@@ -556,6 +556,51 @@ button.button {
 .step-thoughts { background: #b8e0f0; }
 .step-one { background: #d0c8f0; }
 
+.page-net-zwanger .page-intro {
+  padding-bottom: 0.6rem;
+}
+
+.page-net-zwanger .page-intro h1 {
+  margin-bottom: 1.15rem;
+}
+
+.page-net-zwanger .lede {
+  line-height: 1.55;
+  margin-bottom: 0.4rem;
+}
+
+.page-net-zwanger .section-intro h2,
+.page-net-zwanger .prose h2,
+.page-net-zwanger .note h2 {
+  margin-bottom: 1rem;
+}
+
+.page-net-zwanger .prose h2 {
+  margin-top: 2.6rem;
+}
+
+.page-net-zwanger .prose h2:first-child {
+  margin-top: 0.2rem;
+}
+
+.page-net-zwanger .prose p,
+.page-net-zwanger .section-intro p {
+  line-height: 1.6;
+  margin-bottom: 1.05rem;
+}
+
+.page-net-zwanger .prose ul {
+  margin: 0.3rem 0 1.2rem;
+}
+
+.page-net-zwanger .step-note {
+  margin-top: 0.4rem;
+}
+
+.page-net-zwanger .poster-steps {
+  gap: 1rem;
+}
+
 .poster-sign {
   margin: 1.05rem 0 0.15rem;
   text-align: center;
