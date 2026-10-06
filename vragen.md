@@ -16,7 +16,7 @@ Ik doe geen medische handelingen en ik beslis niet over ingrepen. Ik vervang de 
 
 ## Voor wie is ADHDOULA?
 
-De praktijk is er met en voor neurodivergente mensen. Ik heb zelf ADHD en klassiek autisme. Iedereen is welkom. Je hoeft geen diagnose te hebben. [Meer over mij.](https://www.adhdoula.nl/over-mij.html)
+De praktijk is er met en voor neurodivergente mensen. Ik heb zelf ADHD en ik ben autiste. Iedereen is welkom. Je hoeft geen diagnose te hebben. [Meer over mij.](https://www.adhdoula.nl/over-mij.html)
 
 ## Werk je thuis en in het ziekenhuis?
 

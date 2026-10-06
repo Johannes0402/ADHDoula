@@ -56,7 +56,7 @@ Bij de geboorte kom ik [thuis of in het ziekenhuis](https://www.adhdoula.nl/gebo
 
 ## Voor wie
 
-ADHDOULA is er met en voor neurodivergente mensen. Ik heb zelf ADHD en klassiek autisme. Iedereen is welkom. Een diagnose is niet nodig.
+ADHDOULA is er met en voor neurodivergente mensen. Ik heb zelf ADHD en ik ben autiste. Iedereen is welkom. Een diagnose is niet nodig.
 
 Ik hou van duidelijke taal, een voorspelbare afspraak en de ruimte om te pauzeren. Die stijl staat open voor elk gezin. Het gebied is [Tilburg en tot 30 kilometer](https://www.adhdoula.nl/werkgebied.html). Korte antwoorden staan bij de [vragen](https://www.adhdoula.nl/vragen.html).
 
