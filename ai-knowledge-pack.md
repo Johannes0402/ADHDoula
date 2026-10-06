@@ -18,7 +18,7 @@ Ze is opgeleid als doula. De naam van de opleiding staat nog nergens, ook niet h
 ## Wat ze doet
 
 - Geboorte: voorbereiding, een geboorteplan in gewone taal, aanwezig tijdens de weeën, nagesprek. Thuis of in het ziekenhuis. Het plan wordt afgestemd op de wensen en behoeften van het gezin. De partner wordt bij het proces betrokken als het gezin dat wil.
-- Net zwanger: ze vervangt de verloskundige of huisarts niet. De eerste stap is die afspraak, het liefst voor 9 weken, volgens Thuisarts. Daarna kan ze helpen om gedachten te ordenen, één stap tegelijk, en later met voorbereiding, de bevalling en postpartum. Bron voor de medische eerste stap: https://www.thuisarts.nl/zwanger/ik-ben-zwanger-belangrijke-adviezen
+- Net zwanger: ze vervangt de verloskundige of huisarts niet. Het advies is om meteen een afspraak te maken met een verloskundige, het liefst voor 9 weken. Daarna kan ze helpen om gedachten te ordenen, één stap tegelijk, en later met voorbereiding, de bevalling en postpartum.
 - Postpartum, ook wel kraamdoula: steun in huis na de kraamweek, op een vast moment, naast de kraamzorg.
 - Eén onderwerp tegelijk. Een pauze is een gewone keuze. Partner of een andere naaste is welkom.
 

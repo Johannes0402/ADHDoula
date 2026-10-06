@@ -18,13 +18,13 @@ ADHDoula
 
 ## De verloskundige of de huisarts eerst
 
-[Thuisarts](https://www.thuisarts.nl/zwanger/ik-ben-zwanger-belangrijke-adviezen) adviseert om meteen een afspraak te maken met een verloskundige zodra je weet dat je zwanger bent. Het liefst voordat je 9 weken zwanger bent. Op sommige plaatsen doet een huisarts de zwangerschapszorg. Als het nodig is, komt er een gynaecoloog bij.
+Het advies is om meteen een afspraak te maken met een verloskundige, zodra je weet dat je zwanger bent. Het liefst voordat je 9 weken zwanger bent. Op sommige plaatsen doet een huisarts de zwangerschapszorg. Als het nodig is, komt er een gynaecoloog bij.
 
 Ik doe die zorg niet. Ik doe geen medisch onderzoek en ik beslis niet over inleiden, pijnstilling of een keizersnede.
 
 Foliumzuur, eten, controles en klachten bespreek je daar. Een verloskundige bij jou in de buurt zoeken kan via [deverloskundige.nl](https://deverloskundige.nl/).
 
-Was de zwangerschap niet gepland, en weet je nog niet wat je wilt? Praat met iemand die je vertrouwt, of maak een afspraak met je huisarts of verloskundige. [Thuisarts legt die keuze apart uit.](https://www.thuisarts.nl/onbedoeld-zwanger/ik-ben-onbedoeld-zwanger-wat-kan-ik-doen)
+Was de zwangerschap niet gepland, en weet je nog niet wat je wilt? Praat met iemand die je vertrouwt, of maak een afspraak met je huisarts of verloskundige.
 
 ## Schrijf 3 gedachten op
 
