@@ -266,6 +266,13 @@ h3 {
   background: var(--purple-soft);
 }
 
+.portrait img.portrait-photo {
+  width: min(100%, 22rem);
+  height: 28rem;
+  object-fit: cover;
+  object-position: center 28%;
+}
+
 .portrait img {
   position: relative;
   z-index: 1;
