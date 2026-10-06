@@ -427,6 +427,10 @@ h3 {
   font-weight: 700;
 }
 
+.service .contact-note {
+  margin-top: 0.45rem;
+}
+
 @media (max-width: 860px) {
   .hero,
   .cards,

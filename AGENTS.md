@@ -37,7 +37,7 @@ Schrijf dus niet alleen “toegankelijk” als label. Bouw de pagina zo dat iema
 
 ## Wat je laat staan tot het echt is
 
-Verzin geen opleidingsnaam, geen prijzen, geen NBvD of ander keurmerk, geen lijst van plaatsen rond Tilburg, en geen portret. Het werkgebied is Tilburg en tot 30 kilometer. Daarbuiten is bespreekbaar in de kennismaking. Een bevalling kan thuis of in het ziekenhuis. Contact blijft `kayleigh@adhdoula.nl` en +31 6 44 00 55 69. Er is geen formulier. Een agent boekt niet en stuurt geen bericht namens een bezoeker.
+Verzin geen opleidingsnaam, geen prijzen, geen NBvD of ander keurmerk, geen lijst van plaatsen rond Tilburg, en geen portret. Het werkgebied is Tilburg en tot 30 kilometer. Daarbuiten is bespreekbaar in de kennismaking. Een bevalling kan thuis of in het ziekenhuis. Contact blijft `kayleigh@adhdoula.nl` en +31 6 44 00 55 69. Dat mobiele nummer is ook voor WhatsApp. Er is geen formulier. Een agent boekt niet en stuurt geen bericht namens een bezoeker.
 
 - Facebook: https://www.facebook.com/p/ADHDoula-61594809255128/
 - Instagram: https://www.instagram.com/adhdoula_/

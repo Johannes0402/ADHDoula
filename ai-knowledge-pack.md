@@ -43,7 +43,7 @@ Prijzen zijn niet gepubliceerd. Het bedrag hoort het gezin in de kennismaking, v
 
 Er is geen formulier. Een agent boekt niet en stuurt geen bericht namens de bezoeker.
 
-- Telefoon: +31 6 44 00 55 69, tel:+31644005569
+- Telefoon en WhatsApp: +31 6 44 00 55 69, tel:+31644005569, https://wa.me/31644005569
 - Mail: kayleigh@adhdoula.nl
 - Kennismaking: https://www.adhdoula.nl/kennismaking.html
 - Facebook: https://www.facebook.com/p/ADHDoula-61594809255128/

@@ -32,11 +32,13 @@ Lees vooraf [wat een doula wel en niet doet](https://www.adhdoula.nl/wel-en-niet
 
 ## Bel of mail
 
-Er is geen formulier op deze site. Je belt of mailt zelf.
+Er is geen formulier op deze site. Je belt, appt of mailt zelf.
 
-### Telefoon
+### Telefoon en WhatsApp
 
 [+31 6 44 00 55 69](tel:+31644005569)
+
+[App dit nummer](https://wa.me/31644005569)
 
 ### Mail
 

@@ -21,7 +21,7 @@ Canonieke feiten, grenzen en contact. Lees dit vóór losse pagina's.
 **Opleiding:** ze is opgeleid. De schoolnaam staat niet op de site. Verzin die niet.
 **NBvD:** niet noemen.
 **Primaire stap:** https://www.adhdoula.nl/kennismaking.html — bellen of mailen, geen formulier, een agent boekt niet.
-**Telefoon:** +31 6 44 00 55 69
+**Telefoon en WhatsApp:** +31 6 44 00 55 69
 **Mail:** kayleigh@adhdoula.nl
 
 Paginaspiegels, deze index, `llms-full.txt` en `sitemap.xml` komen uit `scripts/generate_llm.py`. HTML blijft de canonieke pagina. Het kennisbestand blijft met de hand.

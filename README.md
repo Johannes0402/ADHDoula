@@ -76,7 +76,7 @@ Lopende tekst blijft donker op crème. Knoptekst is wit op paars. De bovenste st
 - Geen medische zorg, geen belofte over hoe een bevalling loopt, geen geboorteverslag.
 - Cochrane 2017 alleen zoals op `wel-en-niet.html`, met bron, en niet als garantie.
 - Bevalling: thuis én ziekenhuis.
-- Contact blijft `kayleigh@adhdoula.nl` en `+31 6 44 00 55 69` (`tel:+31644005569`).
+- Contact blijft `kayleigh@adhdoula.nl` en `+31 6 44 00 55 69` (`tel:+31644005569`). Hetzelfde nummer is ook WhatsApp: `https://wa.me/31644005569`.
 - Profielen, alleen de schone URL zonder volg-parameters: Facebook `https://www.facebook.com/p/ADHDoula-61594809255128/` en Instagram `https://www.instagram.com/adhdoula_/`. Zichtbaar op Over Kayleigh.
 
 ### Live site
