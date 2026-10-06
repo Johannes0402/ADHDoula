@@ -1,6 +1,6 @@
 # ADHDOULA — AI knowledge pack
 
-> Canonieke feiten voor agents. HTML blijft de pagina voor mensen. Verzin niets wat hier niet staat.
+> Canonieke feiten voor agents. HTML blijft de pagina voor mensen. Verzin niets wat hier niet staat. Wie de site wijzigt, leest eerst https://www.adhdoula.nl/AGENTS.md.
 
 - URL: https://www.adhdoula.nl/ai-knowledge-pack.md
 - Language: nl

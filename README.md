@@ -2,7 +2,7 @@
 
 Praktijkwebsite van Kayleigh Huijbregts, doula voor geboorte en postpartum. Live op [https://www.adhdoula.nl/](https://www.adhdoula.nl/). `www` is de canonieke host. Het kale domein stuurt daarheen door.
 
-Andere agents: lees hieronder **Voor agents** voordat je iets wijzigt. Citeerbare feiten staan in [ai-knowledge-pack.md](./ai-knowledge-pack.md). De korte index voor taalmodellen is [llms.txt](./llms.txt).
+Andere agents: lees [AGENTS.md](./AGENTS.md) voordat je iets wijzigt. Dat bestand legt uit voor wie de site is, en waarom neurodivergentie de bouw stuurt. Het staat ook live op https://www.adhdoula.nl/AGENTS.md. Hieronder staan dezelfde afspraken, plus de kleuren. Citeerbare feiten staan in [ai-knowledge-pack.md](./ai-knowledge-pack.md). De korte index voor taalmodellen is [llms.txt](./llms.txt).
 
 ## Pagina's
 

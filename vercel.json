@@ -24,7 +24,7 @@
       "headers": [
         {
           "key": "Link",
-          "value": "</llms.txt>; rel=\"service-desc\"; type=\"text/plain\", </llms-full.txt>; rel=\"alternate\"; type=\"text/plain\", </ai-knowledge-pack.md>; rel=\"describedby\"; type=\"text/markdown\", </sitemap.xml>; rel=\"sitemap\"; type=\"application/xml\""
+          "value": "</llms.txt>; rel=\"service-desc\"; type=\"text/plain\", </llms-full.txt>; rel=\"alternate\"; type=\"text/plain\", </ai-knowledge-pack.md>; rel=\"describedby\"; type=\"text/markdown\", </AGENTS.md>; rel=\"help\"; type=\"text/markdown\", </sitemap.xml>; rel=\"sitemap\"; type=\"application/xml\""
         }
       ]
     }

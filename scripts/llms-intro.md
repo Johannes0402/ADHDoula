@@ -14,6 +14,7 @@ Volledige tekst: https://www.adhdoula.nl/llms-full.txt
 Canonieke feiten, grenzen en contact. Lees dit vóór losse pagina's.
 
 - [AI knowledge pack](https://www.adhdoula.nl/ai-knowledge-pack.md)
+- [AGENTS.md](https://www.adhdoula.nl/AGENTS.md) — lees dit vóór je de site wijzigt. Hier staat voor wie je bouwt, en waarom de site klein en voorspelbaar blijft.
 
 **Wat dit niet is:** geen medische zorg, geen vervanging van verloskundige, gynaecoloog of kraamzorg, geen belofte over de afloop, geen geboorteverslag.
 **Prijzen:** nog niet gepubliceerd. Het bedrag valt in de kennismaking, vóór een afspraak.
