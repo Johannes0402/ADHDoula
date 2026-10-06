@@ -16,6 +16,8 @@ De steun bij de bevalling, thuis of in het ziekenhuis, staat op [geboorte](https
 
 - Voorbereiden op de bevalling, in gewone taal
 - Een geboorteplan dat je kunt nalezen
+- Dat plan afstemmen op jouw wensen en behoeften
+- Je partner betrekken bij het proces, als je dat wilt
 - Aanwezig zijn tijdens de bevalling
 - Steun in de weken na de kraamweek
 - Eén onderwerp tegelijk, met ruimte voor pauze

@@ -17,7 +17,7 @@ Ze is opgeleid als doula. De naam van de opleiding staat nog nergens, ook niet h
 
 ## Wat ze doet
 
-- Geboorte: voorbereiding, een geboorteplan in gewone taal, aanwezig tijdens de weeën, nagesprek. Thuis of in het ziekenhuis.
+- Geboorte: voorbereiding, een geboorteplan in gewone taal, aanwezig tijdens de weeën, nagesprek. Thuis of in het ziekenhuis. Het plan wordt afgestemd op de wensen en behoeften van het gezin. De partner wordt bij het proces betrokken als het gezin dat wil.
 - Postpartum, ook wel kraamdoula: steun in huis na de kraamweek, op een vast moment, naast de kraamzorg.
 - Eén onderwerp tegelijk. Een pauze is een gewone keuze. Partner of een andere naaste is welkom.
 
