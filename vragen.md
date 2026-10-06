@@ -1,6 +1,6 @@
 # Vragen over een doula in Tilburg
 
-> ADHDOULA is de praktijk van Kayleigh Huijbregts. Hier staan de vragen die gezinnen het eerst stellen.
+> ADHDoula is de praktijk van Kayleigh Huijbregts. Hier staan de vragen die gezinnen het eerst stellen.
 
 - URL: https://www.adhdoula.nl/vragen.html
 - Language: nl
@@ -14,7 +14,7 @@ Een doula geeft praktische en emotionele steun rond de geboorte en in de weken e
 
 Ik doe geen medische handelingen en ik beslis niet over ingrepen. Ik vervang de verloskundige, de gynaecoloog en de kraamzorg niet. [De volledige grens staat op een eigen pagina.](https://www.adhdoula.nl/wel-en-niet.html)
 
-## Voor wie is ADHDOULA?
+## Voor wie is ADHDoula?
 
 De praktijk is er met en voor neurodivergente mensen. Ik heb zelf ADHD en autiste. Iedereen is welkom. Je hoeft geen diagnose te hebben. [Meer over mij.](https://www.adhdoula.nl/over-mij.html)
 
@@ -38,7 +38,7 @@ Na de kraamweek bied ik steun in huis, op vaste momenten, naast de kraamzorg. [Z
 
 In Tilburg en tot 30 kilometer daaromheen. Daarbuiten is bespreekbaar. [Het werkgebied.](https://www.adhdoula.nl/werkgebied.html)
 
-## Wat kost een doula bij ADHDOULA?
+## Wat kost een doula bij ADHDoula?
 
 De prijs hangt af van het pakket. De bedragen zet ik hier neer zodra ze vaststaan. In de kennismaking hoor je het bedrag voordat je iets afspreekt.
 

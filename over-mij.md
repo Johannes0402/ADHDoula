@@ -6,9 +6,9 @@
 - Language: nl
 - Markdown: https://www.adhdoula.nl/over-mij.md
 
-## Waarom ADHDOULA
+## Waarom ADHDoula
 
-Ik heb ADHD en autiste. Daarom heet de praktijk ADHDOULA. Ik bouw begeleiding zoals ik zelf graag geholpen word: gewone woorden, een vaste volgorde, en afspraken die blijven staan.
+Ik heb ADHD en autiste. Daarom heet de praktijk ADHDoula. Ik bouw begeleiding zoals ik zelf graag geholpen word: gewone woorden, een vaste volgorde, en afspraken die blijven staan.
 
 Die duidelijkheid is er voor neurodivergente gezinnen. Ze is er ook als je gewoon iemand zoekt die rust brengt bij de geboorte of in de weken daarna.
 
@@ -34,7 +34,7 @@ De begeleiding zelf staat op [geboorte](https://www.adhdoula.nl/geboorte.html) e
 
 ## Online
 
-ADHDOULA staat op [Facebook](https://www.facebook.com/p/ADHDoula-61594809255128/) en op [Instagram](https://www.instagram.com/adhdoula_/) (@adhdoula_).
+ADHDoula staat op [Facebook](https://www.facebook.com/p/ADHDoula-61594809255128/) en op [Instagram](https://www.instagram.com/adhdoula_/) (@adhdoula_).
 
 ## De eerste stap
 

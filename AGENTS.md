@@ -1,6 +1,6 @@
 # Instructies voor wie deze website bewerkt
 
-Dit bestand is voor taalmodellen en mensen die ADHDOULA wijzigen. Lees het vóór je een pagina, een kleur of een zin aanpast.
+Dit bestand is voor taalmodellen en mensen die ADHDoula wijzigen. Lees het vóór je een pagina, een kleur of een zin aanpast.
 
 Het staat live op https://www.adhdoula.nl/AGENTS.md.
 
@@ -12,7 +12,7 @@ De eigenaar is Kayleigh Huijbregts. Zij is de doula. Zij moet de site zelf kunne
 
 Dat is publiek, in deze zin, in de ik-vorm:
 
-“Ik heb ADHD en autiste. Daarom heet de praktijk ADHDOULA.”
+“Ik heb ADHD en autiste. Daarom heet de praktijk ADHDoula.”
 
 Die zin blijft zo. Maak er geen pagina over diagnoses van. Gebruik niet het oude woord “klassiek autisme”.
 
@@ -20,7 +20,7 @@ ADHD en autisme betekenen hier iets concreets voor de bouw. Een nieuwe pagina, e
 
 ## Voor wie de site is
 
-ADHDOULA is er met en voor neurodivergente mensen. Iedereen is welkom. Een diagnose is niet nodig. Neurodivergentie is een specialisatie. Het is geen drempel en geen gesloten groep.
+ADHDoula is er met en voor neurodivergente mensen. Iedereen is welkom. Een diagnose is niet nodig. Neurodivergentie is een specialisatie. Het is geen drempel en geen gesloten groep.
 
 Bezoekers kunnen overprikkeld, moe of vol in hun hoofd binnenkomen, rond een geboorte of in de weken daarna. Dezelfde duidelijkheid die Kayleigh zelf fijn vindt, is de duidelijkheid voor hen. Gewone woorden. Eén onderwerp tegelijk. Een vaste volgorde. Ruimte om te pauzeren.
 

@@ -1,6 +1,6 @@
 # Doula in Tilburg en tot 30 kilometer
 
-> ADHDOULA is de praktijk van Kayleigh Huijbregts. Ik begeleid geboorte en postpartum in Tilburg en tot 30 kilometer daaromheen. Daarbuiten is bespreekbaar.
+> ADHDoula is de praktijk van Kayleigh Huijbregts. Ik begeleid geboorte en postpartum in Tilburg en tot 30 kilometer daaromheen. Daarbuiten is bespreekbaar.
 
 - URL: https://www.adhdoula.nl/werkgebied.html
 - Language: nl

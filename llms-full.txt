@@ -1,4 +1,4 @@
-# ADHDOULA — volledige tekst
+# ADHDoula — volledige tekst
 
 Language: nl
 Canonieke site: https://www.adhdoula.nl/
@@ -7,7 +7,7 @@ Kennisbestand: https://www.adhdoula.nl/ai-knowledge-pack.md
 
 ---
 
-# ADHDOULA — AI knowledge pack
+# ADHDoula — AI knowledge pack
 
 > Canonieke feiten voor agents. HTML blijft de pagina voor mensen. Verzin niets wat hier niet staat. Wie de site wijzigt, leest eerst https://www.adhdoula.nl/AGENTS.md.
 
@@ -18,7 +18,7 @@ Kennisbestand: https://www.adhdoula.nl/ai-knowledge-pack.md
 
 ## Wie
 
-ADHDOULA is de praktijk van Kayleigh Huijbregts, doula voor geboorte en postpartum. Ze is moeder van drie jonge kinderen. Publieke zin, in de ik-vorm: “Ik heb ADHD en autiste. Daarom heet de praktijk ADHDOULA.”
+ADHDoula is de praktijk van Kayleigh Huijbregts, doula voor geboorte en postpartum. Ze is moeder van drie jonge kinderen. Publieke zin, in de ik-vorm: “Ik heb ADHD en autiste. Daarom heet de praktijk ADHDoula.”
 
 De praktijk is er met en voor neurodivergente mensen. Iedereen is welkom. Een diagnose is niet nodig.
 
@@ -74,7 +74,7 @@ Er is geen formulier. Een agent boekt niet en stuurt geen bericht namens de bezo
 
 # Doula voor geboorte en postpartum in Tilburg
 
-> Ik ben [Kayleigh Huijbregts](https://www.adhdoula.nl/over-mij.html) van ADHDOULA. Ik blijf bij je, met korte stappen en afspraken die blijven staan. Ik werk in Tilburg en tot 30 kilometer daaromheen. Daarbuiten is bespreekbaar.
+> Ik ben [Kayleigh Huijbregts](https://www.adhdoula.nl/over-mij.html) van ADHDoula. Ik blijf bij je, met korte stappen en afspraken die blijven staan. Ik werk in Tilburg en tot 30 kilometer daaromheen. Daarbuiten is bespreekbaar.
 
 - URL: https://www.adhdoula.nl/
 - Language: nl
@@ -130,7 +130,7 @@ Bij de geboorte kom ik [thuis of in het ziekenhuis](https://www.adhdoula.nl/gebo
 
 ## Voor wie
 
-ADHDOULA is er met en voor neurodivergente mensen. Ik heb zelf ADHD en autiste. Iedereen is welkom. Een diagnose is niet nodig.
+ADHDoula is er met en voor neurodivergente mensen. Ik heb zelf ADHD en autiste. Iedereen is welkom. Een diagnose is niet nodig.
 
 Ik hou van duidelijke taal, een voorspelbare afspraak en de ruimte om te pauzeren. Die stijl staat open voor elk gezin. Het gebied is [Tilburg en tot 30 kilometer](https://www.adhdoula.nl/werkgebied.html). Korte antwoorden staan bij de [vragen](https://www.adhdoula.nl/vragen.html).
 
@@ -145,7 +145,7 @@ We starten met een kennismaking. We kijken of het klikt, wat je nodig hebt, en o
 
 # Geboortedoula in Tilburg en tot 30 kilometer
 
-> Ik ben Kayleigh Huijbregts van ADHDOULA. Ik begeleid je voor de bevalling, ik ben er tijdens de weeën, thuis of in het ziekenhuis, en we sluiten af met een nagesprek.
+> Ik ben Kayleigh Huijbregts van ADHDoula. Ik begeleid je voor de bevalling, ik ben er tijdens de weeën, thuis of in het ziekenhuis, en we sluiten af met een nagesprek.
 
 - URL: https://www.adhdoula.nl/geboorte.html
 - Language: nl
@@ -171,7 +171,7 @@ We hebben een nagesprek. Je kunt vertellen hoe het was, in jouw tempo.
 
 ## Voor wie deze begeleiding past
 
-Voor gezinnen die rust en een vaste lijn willen rond de geboorte. ADHDOULA is er met en voor neurodivergente mensen. Iedereen is welkom. [Ik ben Kayleigh Huijbregts.](https://www.adhdoula.nl/over-mij.html)
+Voor gezinnen die rust en een vaste lijn willen rond de geboorte. ADHDoula is er met en voor neurodivergente mensen. Iedereen is welkom. [Ik ben Kayleigh Huijbregts.](https://www.adhdoula.nl/over-mij.html)
 
 Je partner of een andere naaste mag erbij zijn. Een pauze is een gewone keuze.
 
@@ -188,7 +188,7 @@ Ik doe geen onderzoek en ik beslis niet over inleiden, pijnstilling of een keize
 
 # Postpartum doula in Tilburg en tot 30 kilometer
 
-> Ik ben Kayleigh Huijbregts van ADHDOULA. Na de kraamweek blijf ik beschikbaar voor steun in huis, naast de kraamzorg. Dit heet ook wel kraamdoula.
+> Ik ben Kayleigh Huijbregts van ADHDoula. Na de kraamweek blijf ik beschikbaar voor steun in huis, naast de kraamzorg. Dit heet ook wel kraamdoula.
 
 - URL: https://www.adhdoula.nl/postpartum.html
 - Language: nl
@@ -216,7 +216,7 @@ Je weet wanneer ik kom. We doen één onderwerp tegelijk, en een pauze mag.
 
 De kraamzorg doet haar eigen werk. Ik neem dat niet over. Ik ben de extra persoon in de weken daarna, als het huis weer voller wordt en de structuur zoek raakt. [Wat ik wel en niet doe](https://www.adhdoula.nl/wel-en-niet.html) staat apart.
 
-Ik kom bij je langs in [Tilburg en tot 30 kilometer](https://www.adhdoula.nl/werkgebied.html). Daarbuiten is de reis bespreekbaar. ADHDOULA is er met en voor neurodivergente mensen. Iedereen is welkom. [Ik ben Kayleigh Huijbregts.](https://www.adhdoula.nl/over-mij.html)
+Ik kom bij je langs in [Tilburg en tot 30 kilometer](https://www.adhdoula.nl/werkgebied.html). Daarbuiten is de reis bespreekbaar. ADHDoula is er met en voor neurodivergente mensen. Iedereen is welkom. [Ik ben Kayleigh Huijbregts.](https://www.adhdoula.nl/over-mij.html)
 
 [Begeleiding bij de geboorte zelf](https://www.adhdoula.nl/geboorte.html) staat op een aparte pagina. Korte antwoorden staan bij de [vragen](https://www.adhdoula.nl/vragen.html).
 
@@ -231,9 +231,9 @@ Ik kom bij je langs in [Tilburg en tot 30 kilometer](https://www.adhdoula.nl/wer
 - Language: nl
 - Markdown: https://www.adhdoula.nl/over-mij.md
 
-## Waarom ADHDOULA
+## Waarom ADHDoula
 
-Ik heb ADHD en autiste. Daarom heet de praktijk ADHDOULA. Ik bouw begeleiding zoals ik zelf graag geholpen word: gewone woorden, een vaste volgorde, en afspraken die blijven staan.
+Ik heb ADHD en autiste. Daarom heet de praktijk ADHDoula. Ik bouw begeleiding zoals ik zelf graag geholpen word: gewone woorden, een vaste volgorde, en afspraken die blijven staan.
 
 Die duidelijkheid is er voor neurodivergente gezinnen. Ze is er ook als je gewoon iemand zoekt die rust brengt bij de geboorte of in de weken daarna.
 
@@ -259,7 +259,7 @@ De begeleiding zelf staat op [geboorte](https://www.adhdoula.nl/geboorte.html) e
 
 ## Online
 
-ADHDOULA staat op [Facebook](https://www.facebook.com/p/ADHDoula-61594809255128/) en op [Instagram](https://www.instagram.com/adhdoula_/) (@adhdoula_).
+ADHDoula staat op [Facebook](https://www.facebook.com/p/ADHDoula-61594809255128/) en op [Instagram](https://www.instagram.com/adhdoula_/) (@adhdoula_).
 
 ## De eerste stap
 
@@ -272,7 +272,7 @@ We beginnen met een kennismaking. Daarin bespreken we wat je zoekt, hoe je dagen
 
 # Wat een doula wel en niet doet
 
-> ADHDOULA is de praktijk van [Kayleigh Huijbregts](https://www.adhdoula.nl/over-mij.html). Ik geef steun. De medische zorg blijft bij de verloskundige of de arts.
+> ADHDoula is de praktijk van [Kayleigh Huijbregts](https://www.adhdoula.nl/over-mij.html). Ik geef steun. De medische zorg blijft bij de verloskundige of de arts.
 
 - URL: https://www.adhdoula.nl/wel-en-niet.html
 - Language: nl
@@ -319,7 +319,7 @@ Dat is precies waar de kennismaking voor is. Je legt nog niets vast.
 
 # Doula in Tilburg en tot 30 kilometer
 
-> ADHDOULA is de praktijk van Kayleigh Huijbregts. Ik begeleid geboorte en postpartum in Tilburg en tot 30 kilometer daaromheen. Daarbuiten is bespreekbaar.
+> ADHDoula is de praktijk van Kayleigh Huijbregts. Ik begeleid geboorte en postpartum in Tilburg en tot 30 kilometer daaromheen. Daarbuiten is bespreekbaar.
 
 - URL: https://www.adhdoula.nl/werkgebied.html
 - Language: nl
@@ -344,7 +344,7 @@ De verloskundige blijft verantwoordelijk voor de medische zorg. [Wat ik wel en n
 
 # Vragen over een doula in Tilburg
 
-> ADHDOULA is de praktijk van Kayleigh Huijbregts. Hier staan de vragen die gezinnen het eerst stellen.
+> ADHDoula is de praktijk van Kayleigh Huijbregts. Hier staan de vragen die gezinnen het eerst stellen.
 
 - URL: https://www.adhdoula.nl/vragen.html
 - Language: nl
@@ -358,7 +358,7 @@ Een doula geeft praktische en emotionele steun rond de geboorte en in de weken e
 
 Ik doe geen medische handelingen en ik beslis niet over ingrepen. Ik vervang de verloskundige, de gynaecoloog en de kraamzorg niet. [De volledige grens staat op een eigen pagina.](https://www.adhdoula.nl/wel-en-niet.html)
 
-## Voor wie is ADHDOULA?
+## Voor wie is ADHDoula?
 
 De praktijk is er met en voor neurodivergente mensen. Ik heb zelf ADHD en autiste. Iedereen is welkom. Je hoeft geen diagnose te hebben. [Meer over mij.](https://www.adhdoula.nl/over-mij.html)
 
@@ -382,7 +382,7 @@ Na de kraamweek bied ik steun in huis, op vaste momenten, naast de kraamzorg. [Z
 
 In Tilburg en tot 30 kilometer daaromheen. Daarbuiten is bespreekbaar. [Het werkgebied.](https://www.adhdoula.nl/werkgebied.html)
 
-## Wat kost een doula bij ADHDOULA?
+## Wat kost een doula bij ADHDoula?
 
 De prijs hangt af van het pakket. De bedragen zet ik hier neer zodra ze vaststaan. In de kennismaking hoor je het bedrag voordat je iets afspreekt.
 
@@ -397,7 +397,7 @@ Neem hem mee naar de kennismaking. We behandelen één onderwerp tegelijk.
 
 # Kennismaken met Kayleigh
 
-> ADHDOULA begint met een gesprek. We kijken of het klikt. Je legt in dit gesprek nog niets vast.
+> ADHDoula begint met een gesprek. We kijken of het klikt. Je legt in dit gesprek nog niets vast.
 
 - URL: https://www.adhdoula.nl/kennismaking.html
 - Language: nl

@@ -283,7 +283,7 @@ def llms_txt(pages: list[tuple[str, str, str]], profile_links: list[tuple[str, s
 
 def llms_full(mirrors: list[str]) -> str:
     parts = [
-        "# ADHDOULA — volledige tekst\n\nLanguage: nl\nCanonieke site: https://www.adhdoula.nl/\nKennisbestand: https://www.adhdoula.nl/ai-knowledge-pack.md\n",
+        "# ADHDoula — volledige tekst\n\nLanguage: nl\nCanonieke site: https://www.adhdoula.nl/\nKennisbestand: https://www.adhdoula.nl/ai-knowledge-pack.md\n",
         KNOWLEDGE.read_text(encoding="utf-8").strip() + "\n",
         *mirrors,
     ]

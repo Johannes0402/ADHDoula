@@ -1,6 +1,6 @@
 # Doula voor geboorte en postpartum in Tilburg
 
-> Ik ben [Kayleigh Huijbregts](https://www.adhdoula.nl/over-mij.html) van ADHDOULA. Ik blijf bij je, met korte stappen en afspraken die blijven staan. Ik werk in Tilburg en tot 30 kilometer daaromheen. Daarbuiten is bespreekbaar.
+> Ik ben [Kayleigh Huijbregts](https://www.adhdoula.nl/over-mij.html) van ADHDoula. Ik blijf bij je, met korte stappen en afspraken die blijven staan. Ik werk in Tilburg en tot 30 kilometer daaromheen. Daarbuiten is bespreekbaar.
 
 - URL: https://www.adhdoula.nl/
 - Language: nl
@@ -56,7 +56,7 @@ Bij de geboorte kom ik [thuis of in het ziekenhuis](https://www.adhdoula.nl/gebo
 
 ## Voor wie
 
-ADHDOULA is er met en voor neurodivergente mensen. Ik heb zelf ADHD en autiste. Iedereen is welkom. Een diagnose is niet nodig.
+ADHDoula is er met en voor neurodivergente mensen. Ik heb zelf ADHD en autiste. Iedereen is welkom. Een diagnose is niet nodig.
 
 Ik hou van duidelijke taal, een voorspelbare afspraak en de ruimte om te pauzeren. Die stijl staat open voor elk gezin. Het gebied is [Tilburg en tot 30 kilometer](https://www.adhdoula.nl/werkgebied.html). Korte antwoorden staan bij de [vragen](https://www.adhdoula.nl/vragen.html).
 

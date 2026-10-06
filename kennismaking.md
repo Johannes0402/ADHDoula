@@ -1,6 +1,6 @@
 # Kennismaken met Kayleigh
 
-> ADHDOULA begint met een gesprek. We kijken of het klikt. Je legt in dit gesprek nog niets vast.
+> ADHDoula begint met een gesprek. We kijken of het klikt. Je legt in dit gesprek nog niets vast.
 
 - URL: https://www.adhdoula.nl/kennismaking.html
 - Language: nl
