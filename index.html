@@ -3,28 +3,60 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>ADHDOULA | Doula in Tilburg voor geboorte en postpartum</title>
+  <title>Doula in Tilburg voor geboorte en postpartum | ADHDOULA</title>
   <meta name="description" content="Kayleigh Huijbregts is doula voor geboorte en postpartum in Tilburg en tot 30 kilometer. Daarbuiten is bespreekbaar. Iedereen is welkom.">
   <link rel="icon" href="assets/logo.png" type="image/png">
   <link rel="stylesheet" href="css/styles.css">
   <link rel="canonical" href="https://www.adhdoula.nl/">
   <link rel="alternate" type="text/markdown" href="https://www.adhdoula.nl/index.md" title="Markdown">
+  <meta property="og:title" content="Doula in Tilburg voor geboorte en postpartum | ADHDOULA">
+  <meta property="og:description" content="Kayleigh Huijbregts is doula voor geboorte en postpartum in Tilburg en tot 30 kilometer. Daarbuiten is bespreekbaar. Iedereen is welkom.">
+  <meta property="og:url" content="https://www.adhdoula.nl/">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="nl_NL">
+  <meta property="og:site_name" content="ADHDOULA">
+  <meta property="og:image" content="https://www.adhdoula.nl/assets/logo.png">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "ProfessionalService",
-    "name": "ADHDOULA",
-    "description": "Doula voor geboorte en postpartum in Tilburg en tot 30 kilometer daaromheen.",
-    "areaServed": {
-      "@type": "GeoCircle",
-      "geoMidpoint": { "@type": "GeoCoordinates", "latitude": 51.555, "longitude": 5.091 },
-      "geoRadius": 30000
-    },
-    "founder": { "@type": "Person", "name": "Kayleigh Huijbregts" },
-    "telephone": "+31644005569",
-    "email": "kayleigh@adhdoula.nl",
-    "url": "https://www.adhdoula.nl/",
-    "knowsLanguage": "nl"
+    "@graph": [
+      {
+        "@type": "ProfessionalService",
+        "@id": "https://www.adhdoula.nl/#practice",
+        "name": "ADHDOULA",
+        "description": "Doula voor geboorte en postpartum in Tilburg en tot 30 kilometer daaromheen.",
+        "url": "https://www.adhdoula.nl/",
+        "image": "https://www.adhdoula.nl/assets/logo.png",
+        "telephone": "+31644005569",
+        "email": "kayleigh@adhdoula.nl",
+        "areaServed": [
+          { "@type": "City", "name": "Tilburg", "containedInPlace": { "@type": "Country", "name": "Nederland" } },
+          {
+            "@type": "GeoCircle",
+            "geoMidpoint": { "@type": "GeoCoordinates", "latitude": 51.555, "longitude": 5.091 },
+            "geoRadius": 30000
+          }
+        ],
+        "founder": { "@id": "https://www.adhdoula.nl/over-mij.html#kayleigh" },
+        "knowsLanguage": "nl"
+      },
+      {
+        "@type": "Person",
+        "@id": "https://www.adhdoula.nl/over-mij.html#kayleigh",
+        "name": "Kayleigh Huijbregts",
+        "jobTitle": "Doula",
+        "url": "https://www.adhdoula.nl/over-mij.html",
+        "worksFor": { "@id": "https://www.adhdoula.nl/#practice" }
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://www.adhdoula.nl/#website",
+        "name": "ADHDOULA",
+        "url": "https://www.adhdoula.nl/",
+        "inLanguage": "nl",
+        "publisher": { "@id": "https://www.adhdoula.nl/#practice" }
+      }
+    ]
   }
   </script>
 </head>
@@ -48,7 +80,7 @@
       <div>
         <p class="kicker">Tilburg en 30 km</p>
         <h1>Doula voor geboorte en postpartum in Tilburg</h1>
-        <p class="lede">Ik ben Kayleigh Huijbregts van ADHDOULA. Ik blijf bij je, met korte stappen en afspraken die blijven staan. Ik werk in Tilburg en tot 30 kilometer daaromheen. Daarbuiten is bespreekbaar.</p>
+        <p class="lede">Ik ben <a href="over-mij.html">Kayleigh Huijbregts</a> van ADHDOULA. Ik blijf bij je, met korte stappen en afspraken die blijven staan. Ik werk in Tilburg en tot 30 kilometer daaromheen. Daarbuiten is bespreekbaar.</p>
         <a class="button" href="kennismaking.html">Kennismaking</a>
       </div>
       <div class="portrait">
@@ -73,7 +105,7 @@
           </article>
           <article class="card">
             <h3>Naast de zorg die er al is</h3>
-            <p>Ik werk samen met je verloskundige en de kraamzorg. Medische beslissingen blijven bij hen.</p>
+            <p>Ik werk samen met je verloskundige en de kraamzorg. Medische beslissingen blijven bij hen. <a href="wel-en-niet.html">Wat ik wel en niet doe</a> staat apart.</p>
           </article>
         </div>
       </div>
@@ -110,12 +142,20 @@
       </div>
     </section>
 
+    <section class="band" aria-labelledby="wat-is">
+      <div class="wrap prose">
+        <h2 id="wat-is">Wat een doula hier doet</h2>
+        <p>Een doula geeft praktische en emotionele steun rond de geboorte en in de weken erna. Ik bereid je voor, ik ben bij de bevalling, en ik kan daarna langskomen. De verloskundige blijft verantwoordelijk voor de medische zorg.</p>
+        <p>Bij de geboorte kom ik <a href="geboorte.html">thuis of in het ziekenhuis</a>. Na de kraamweek is er <a href="postpartum.html">steun in huis, naast de kraamzorg</a>.</p>
+      </div>
+    </section>
+
     <section class="band band-purple" aria-labelledby="voor-wie">
       <div class="wrap">
         <div class="section-intro">
           <h2 id="voor-wie">Voor wie</h2>
-          <p>ADHDOULA is er met en voor neurodivergente mensen. Ik heb zelf ADHD en klassiek autisme. Iedereen is welkom.</p>
-          <p>Ik hou van duidelijke taal, een voorspelbare afspraak en de ruimte om te pauzeren. Die stijl staat open voor elk gezin.</p>
+          <p>ADHDOULA is er met en voor neurodivergente mensen. Ik heb zelf ADHD en klassiek autisme. Iedereen is welkom. Een diagnose is niet nodig.</p>
+          <p>Ik hou van duidelijke taal, een voorspelbare afspraak en de ruimte om te pauzeren. Die stijl staat open voor elk gezin. Het gebied is <a href="werkgebied.html">Tilburg en tot 30 kilometer</a>. Korte antwoorden staan bij de <a href="vragen.html">vragen</a>.</p>
         </div>
         <div class="note">
           <h3>Hoe een samenwerking begint</h3>

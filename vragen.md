@@ -16,7 +16,15 @@ Geen medische handelingen en geen beslissing over ingrepen. Ze vervangt de verlo
 
 ## Voor wie is ADHDOULA?
 
-De praktijk is er met en voor neurodivergente mensen. Kayleigh heeft zelf ADHD en klassiek autisme. Iedereen is welkom. Een diagnose is niet nodig.
+De praktijk is er met en voor neurodivergente mensen. Kayleigh heeft zelf ADHD en klassiek autisme. Iedereen is welkom. Een diagnose is niet nodig. Over haar: https://www.adhdoula.nl/over-mij.html
+
+## Werkt ze thuis en in het ziekenhuis?
+
+Ja. Bij een geboorte komt ze thuis of gaat ze mee naar het ziekenhuis. Dat geldt in Tilburg en tot 30 kilometer, of verder als de reis vooraf is afgesproken.
+
+## Mag een partner of naaste erbij zijn?
+
+Ja. Partner of een andere naaste is welkom. Een pauze is een gewone keuze, en ze doen één onderwerp tegelijk.
 
 ## Blijft ze bij de bevalling?
 

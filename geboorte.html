@@ -9,20 +9,39 @@
   <link rel="stylesheet" href="css/styles.css">
   <link rel="canonical" href="https://www.adhdoula.nl/geboorte.html">
   <link rel="alternate" type="text/markdown" href="https://www.adhdoula.nl/geboorte.md" title="Markdown">
+  <meta property="og:title" content="Geboortedoula in Tilburg | ADHDOULA">
+  <meta property="og:description" content="Kayleigh Huijbregts begeleidt als geboortedoula in Tilburg en tot 30 kilometer: voorbereiding, aanwezigheid bij de bevalling en een nagesprek.">
+  <meta property="og:url" content="https://www.adhdoula.nl/geboorte.html">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="nl_NL">
+  <meta property="og:site_name" content="ADHDOULA">
+  <meta property="og:image" content="https://www.adhdoula.nl/assets/logo.png">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Service",
-    "name": "Geboortedoula",
-    "serviceType": "Geboortebegeleiding",
-    "description": "Voorbereiding, aanwezigheid bij de bevalling en een nagesprek in Tilburg en tot 30 kilometer.",
-    "areaServed": {
-      "@type": "GeoCircle",
-      "geoMidpoint": { "@type": "GeoCoordinates", "latitude": 51.555, "longitude": 5.091 },
-      "geoRadius": 30000
-    },
-    "url": "https://www.adhdoula.nl/geboorte.html",
-    "provider": { "@type": "ProfessionalService", "name": "ADHDOULA" }
+    "@graph": [
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.adhdoula.nl/" },
+          { "@type": "ListItem", "position": 2, "name": "Geboorte", "item": "https://www.adhdoula.nl/geboorte.html" }
+        ]
+      },
+      {
+        "@type": "Service",
+        "@id": "https://www.adhdoula.nl/geboorte.html#service",
+        "name": "Geboortedoula",
+        "serviceType": "Geboortebegeleiding",
+        "description": "Voorbereiding, aanwezigheid bij de bevalling en een nagesprek in Tilburg en tot 30 kilometer.",
+        "areaServed": {
+          "@type": "GeoCircle",
+          "geoMidpoint": { "@type": "GeoCoordinates", "latitude": 51.555, "longitude": 5.091 },
+          "geoRadius": 30000
+        },
+        "url": "https://www.adhdoula.nl/geboorte.html",
+        "provider": { "@id": "https://www.adhdoula.nl/#practice" }
+      }
+    ]
   }
   </script>
 </head>
@@ -43,6 +62,7 @@
 
   <main id="inhoud">
     <section class="page-intro wrap">
+      <p class="crumbs"><a href="index.html">Home</a> <span aria-hidden="true">/</span> Geboorte</p>
       <p class="kicker">Geboortedoula · Tilburg</p>
       <h1>Geboortedoula in Tilburg en tot 30 kilometer</h1>
       <p class="lede">Ik ben Kayleigh Huijbregts van ADHDOULA. Ik begeleid je voor de bevalling, ik ben er tijdens de weeën, thuis of in het ziekenhuis, en we sluiten af met een nagesprek.</p>
@@ -75,9 +95,12 @@
     <section class="band">
       <div class="wrap prose">
         <h2>Voor wie deze begeleiding past</h2>
-        <p>Voor gezinnen die rust en een vaste lijn willen rond de geboorte. ADHDOULA is er met en voor neurodivergente mensen. Iedereen is welkom.</p>
+        <p>Voor gezinnen die rust en een vaste lijn willen rond de geboorte. ADHDOULA is er met en voor neurodivergente mensen. Iedereen is welkom. <a href="over-mij.html">Ik ben Kayleigh Huijbregts.</a></p>
         <p>Je partner of een andere naaste mag erbij zijn. Een pauze is een gewone keuze.</p>
-        <p><a href="postpartum.html">Na de geboorte is er ook postpartum-begeleiding.</a></p>
+        <h2>Thuis of in het ziekenhuis</h2>
+        <p>Ik kom bij een thuisbevalling en ik ga mee naar het ziekenhuis, in <a href="werkgebied.html">Tilburg en tot 30 kilometer</a>. Daarbuiten spreken we de reis vooraf af. De plek verandert mijn rol niet: ik blijf bij je, de verloskundige blijft verantwoordelijk voor de medische zorg.</p>
+        <p>Ik doe geen onderzoek en ik beslis niet over inleiden, pijnstilling of een keizersnede. <a href="wel-en-niet.html">De grens tussen steun en zorg</a> staat uitgeschreven. Korte antwoorden staan bij de <a href="vragen.html">vragen</a>.</p>
+        <p><a href="postpartum.html">Na de kraamweek is er ook postpartum-begeleiding.</a></p>
       </div>
     </section>
   </main>

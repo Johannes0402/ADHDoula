@@ -5,7 +5,6 @@ Canonieke site: https://www.adhdoula.nl/
 Kennisbestand: https://www.adhdoula.nl/ai-knowledge-pack.md
 
 
-
 ---
 
 # ADHDOULA — AI knowledge pack
@@ -85,7 +84,13 @@ Drie dingen, steeds dezelfde.
 
 - Aanwezigheid bij de bevalling, en in de weken erna op momenten die vooraf vastliggen.
 - Een plan dat je terugleest. Eén onderwerp tegelijk.
-- Naast de verloskundige en de kraamzorg. Medische beslissingen blijven bij hen.
+- Naast de verloskundige en de kraamzorg. Medische beslissingen blijven bij hen. Wat ze wel en niet doet: https://www.adhdoula.nl/wel-en-niet.html
+
+## Wat een doula hier doet
+
+Een doula geeft praktische en emotionele steun rond de geboorte en in de weken erna. Kayleigh bereidt voor, is bij de bevalling, en kan daarna langskomen. De verloskundige blijft verantwoordelijk voor de medische zorg.
+
+Bij de geboorte komt ze thuis of in het ziekenhuis. Na de kraamweek is er steun in huis, naast de kraamzorg.
 
 ## Geboorte en postpartum
 
@@ -95,7 +100,11 @@ Postpartum: na de kraamweek steun in huis, naast de kraamzorg. https://www.adhdo
 
 ## Voor wie
 
-ADHDOULA is er met en voor neurodivergente mensen. Kayleigh heeft zelf ADHD en klassiek autisme. Iedereen is welkom.
+ADHDOULA is er met en voor neurodivergente mensen. Kayleigh heeft zelf ADHD en klassiek autisme. Iedereen is welkom. Een diagnose is niet nodig.
+
+Het gebied is Tilburg en tot 30 kilometer: https://www.adhdoula.nl/werkgebied.html
+Korte antwoorden: https://www.adhdoula.nl/vragen.html
+Over Kayleigh: https://www.adhdoula.nl/over-mij.html
 
 De eerste stap is een kennismaking. Daarin kijken ze of het klikt, wat het gezin nodig heeft, en of er ruimte is rond de uitgerekende datum. https://www.adhdoula.nl/kennismaking.html
 
@@ -122,6 +131,16 @@ Na de bevalling: een nagesprek, in het tempo van het gezin.
 
 Voor gezinnen die rust en een vaste lijn willen rond de geboorte. ADHDOULA is er met en voor neurodivergente mensen. Iedereen is welkom. Partner of een andere naaste mag erbij zijn. Een pauze is een gewone keuze.
 
+## Thuis of in het ziekenhuis
+
+Ze komt bij een thuisbevalling en gaat mee naar het ziekenhuis, in Tilburg en tot 30 kilometer. Daarbuiten spreken ze de reis vooraf af. De plek verandert haar rol niet: ze blijft bij je, de verloskundige blijft verantwoordelijk voor de medische zorg.
+
+Ze doet geen onderzoek en beslist niet over inleiden, pijnstilling of een keizersnede.
+
+Over Kayleigh: https://www.adhdoula.nl/over-mij.html
+Werkgebied: https://www.adhdoula.nl/werkgebied.html
+Wel en niet: https://www.adhdoula.nl/wel-en-niet.html
+Vragen: https://www.adhdoula.nl/vragen.html
 Postpartum: https://www.adhdoula.nl/postpartum.html
 Kennismaking: https://www.adhdoula.nl/kennismaking.html
 
@@ -148,15 +167,19 @@ Een vast moment: je weet wanneer ze komt. Eén onderwerp tegelijk, en een pauze 
 
 De kraamzorg doet haar eigen werk. Kayleigh neemt dat niet over. Ze is de extra persoon in de weken daarna.
 
-ADHDOULA is er met en voor neurodivergente mensen. Iedereen is welkom.
+Ze komt langs in Tilburg en tot 30 kilometer. Daarbuiten is de reis bespreekbaar. ADHDOULA is er met en voor neurodivergente mensen. Iedereen is welkom.
 
 Geboorte: https://www.adhdoula.nl/geboorte.html
+Werkgebied: https://www.adhdoula.nl/werkgebied.html
+Wel en niet: https://www.adhdoula.nl/wel-en-niet.html
+Over Kayleigh: https://www.adhdoula.nl/over-mij.html
+Vragen: https://www.adhdoula.nl/vragen.html
 Kennismaking: https://www.adhdoula.nl/kennismaking.html
 
 
 ---
 
-# Kayleigh Huijbregts
+# Kayleigh Huijbregts, doula in Tilburg
 
 > Moeder van drie jonge kinderen. Doula voor geboorte en postpartum, in Tilburg en tot 30 kilometer daaromheen.
 
@@ -178,6 +201,11 @@ Ze heeft drie jonge kinderen. Die ervaring neemt ze mee. Het gezin van de cliën
 
 Ze is opgeleid voor begeleiding bij de geboorte en in de postpartum periode. De naam van de opleiding staat niet op de site.
 
+Geboorte: https://www.adhdoula.nl/geboorte.html
+Postpartum: https://www.adhdoula.nl/postpartum.html
+Werkgebied: https://www.adhdoula.nl/werkgebied.html
+Wel en niet: https://www.adhdoula.nl/wel-en-niet.html
+
 Zo werkt ze: je hoort vooraf wat een afspraak inhoudt. Eén onderwerp tegelijk. Een pauze is een gewone keuze. Partner of een andere naaste is welkom. Ze werkt samen met de verloskundige. Medische beslissingen blijven bij de verloskundige of de arts.
 
 Kennismaking: https://www.adhdoula.nl/kennismaking.html
@@ -192,6 +220,15 @@ Kennismaking: https://www.adhdoula.nl/kennismaking.html
 - URL: https://www.adhdoula.nl/wel-en-niet.html
 - Language: nl
 - Markdown: https://www.adhdoula.nl/wel-en-niet.md
+
+## Wat een doula is
+
+Een doula geeft continue steun: uitleg in gewone taal, iemand die blijft, en hulp om overzicht te houden. Kayleigh is geen verloskundige en geen kraamverzorgende.
+
+Geboorte: https://www.adhdoula.nl/geboorte.html
+Postpartum: https://www.adhdoula.nl/postpartum.html
+Werkgebied: https://www.adhdoula.nl/werkgebied.html
+Over Kayleigh: https://www.adhdoula.nl/over-mij.html
 
 ## Dit doet Kayleigh
 
@@ -232,16 +269,19 @@ Kennismaking: https://www.adhdoula.nl/kennismaking.html
 
 ## Waar ze werkt
 
-Haar basis is Tilburg. Ze komt bij gezinnen in de stad en tot 30 kilometer daaromheen.
+Haar basis is Tilburg. Ze komt bij gezinnen in de stad en tot 30 kilometer daaromheen. Ze kijkt naar de afstand vanaf Tilburg, niet naar een vaste lijst van plaatsen. In de kennismaking kijken ze naar het adres en of de reistijd past.
 
-Woon je daarbuiten, dan bespreekt de kennismaking of er ruimte en reistijd is. Er is geen lijst van andere plaatsen.
+Woon je daarbuiten, dan is het bespreekbaar. Ze zegt in dat gesprek of er ruimte en reistijd is. Een plek buiten de 30 kilometer is geen automatische ja.
 
-## Wat ze daar doet
+## Thuis en in het ziekenhuis
 
-Bij een geboorte is ze bij de bevalling. In de postpartum periode komt ze langs, naast de kraamzorg.
+Bij een geboorte is ze thuis of in het ziekenhuis, zolang die plek binnen dit gebied valt of de reis vooraf is afgesproken. Bij postpartum komt ze langs, naast de kraamzorg. De verloskundige blijft verantwoordelijk voor de medische zorg.
 
 Geboorte: https://www.adhdoula.nl/geboorte.html
 Postpartum: https://www.adhdoula.nl/postpartum.html
+Wel en niet: https://www.adhdoula.nl/wel-en-niet.html
+Vragen: https://www.adhdoula.nl/vragen.html
+Over Kayleigh: https://www.adhdoula.nl/over-mij.html
 Kennismaking: https://www.adhdoula.nl/kennismaking.html
 
 
@@ -265,7 +305,15 @@ Geen medische handelingen en geen beslissing over ingrepen. Ze vervangt de verlo
 
 ## Voor wie is ADHDOULA?
 
-De praktijk is er met en voor neurodivergente mensen. Kayleigh heeft zelf ADHD en klassiek autisme. Iedereen is welkom. Een diagnose is niet nodig.
+De praktijk is er met en voor neurodivergente mensen. Kayleigh heeft zelf ADHD en klassiek autisme. Iedereen is welkom. Een diagnose is niet nodig. Over haar: https://www.adhdoula.nl/over-mij.html
+
+## Werkt ze thuis en in het ziekenhuis?
+
+Ja. Bij een geboorte komt ze thuis of gaat ze mee naar het ziekenhuis. Dat geldt in Tilburg en tot 30 kilometer, of verder als de reis vooraf is afgesproken.
+
+## Mag een partner of naaste erbij zijn?
+
+Ja. Partner of een andere naaste is welkom. Een pauze is een gewone keuze, en ze doen één onderwerp tegelijk.
 
 ## Blijft ze bij de bevalling?
 
@@ -303,6 +351,16 @@ Wat je zoekt: geboorte, postpartum, of allebei. En wat je vooral nodig hebt: rus
 Jouw dagen: uitgerekende datum, waar je woont, en hoe een afspraak haalbaar is.
 
 Of het past: Kayleigh zegt of ze ruimte heeft. Jij zegt of haar manier van werken past. Eén onderwerp tegelijk. Een pauze mag.
+
+## Wat je vooraf kunt weten
+
+De prijs staat nog niet op de site. In de kennismaking hoor je het bedrag voordat je iets afspreekt.
+
+Het gesprek gaat over geboorte, postpartum of allebei, en of je binnen Tilburg en 30 kilometer woont. Daarbuiten is bespreekbaar.
+
+Wel en niet: https://www.adhdoula.nl/wel-en-niet.html
+Vragen: https://www.adhdoula.nl/vragen.html
+Werkgebied: https://www.adhdoula.nl/werkgebied.html
 
 ## Bel of mail
 

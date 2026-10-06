@@ -362,6 +362,16 @@ h3 {
   border: 2px solid var(--purple);
 }
 
+.crumbs {
+  margin: 0 0 0.7rem;
+  color: var(--ink-soft);
+  font-size: 0.95rem;
+}
+
+.crumbs a {
+  font-weight: 700;
+}
+
 .page-intro {
   padding: 1.7rem 0 0.2rem;
 }

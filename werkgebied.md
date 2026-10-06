@@ -8,14 +8,17 @@
 
 ## Waar ze werkt
 
-Haar basis is Tilburg. Ze komt bij gezinnen in de stad en tot 30 kilometer daaromheen.
+Haar basis is Tilburg. Ze komt bij gezinnen in de stad en tot 30 kilometer daaromheen. Ze kijkt naar de afstand vanaf Tilburg, niet naar een vaste lijst van plaatsen. In de kennismaking kijken ze naar het adres en of de reistijd past.
 
-Woon je daarbuiten, dan bespreekt de kennismaking of er ruimte en reistijd is. Er is geen lijst van andere plaatsen.
+Woon je daarbuiten, dan is het bespreekbaar. Ze zegt in dat gesprek of er ruimte en reistijd is. Een plek buiten de 30 kilometer is geen automatische ja.
 
-## Wat ze daar doet
+## Thuis en in het ziekenhuis
 
-Bij een geboorte is ze bij de bevalling. In de postpartum periode komt ze langs, naast de kraamzorg.
+Bij een geboorte is ze thuis of in het ziekenhuis, zolang die plek binnen dit gebied valt of de reis vooraf is afgesproken. Bij postpartum komt ze langs, naast de kraamzorg. De verloskundige blijft verantwoordelijk voor de medische zorg.
 
 Geboorte: https://www.adhdoula.nl/geboorte.html
 Postpartum: https://www.adhdoula.nl/postpartum.html
+Wel en niet: https://www.adhdoula.nl/wel-en-niet.html
+Vragen: https://www.adhdoula.nl/vragen.html
+Over Kayleigh: https://www.adhdoula.nl/over-mij.html
 Kennismaking: https://www.adhdoula.nl/kennismaking.html

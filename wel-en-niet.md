@@ -6,6 +6,15 @@
 - Language: nl
 - Markdown: https://www.adhdoula.nl/wel-en-niet.md
 
+## Wat een doula is
+
+Een doula geeft continue steun: uitleg in gewone taal, iemand die blijft, en hulp om overzicht te houden. Kayleigh is geen verloskundige en geen kraamverzorgende.
+
+Geboorte: https://www.adhdoula.nl/geboorte.html
+Postpartum: https://www.adhdoula.nl/postpartum.html
+Werkgebied: https://www.adhdoula.nl/werkgebied.html
+Over Kayleigh: https://www.adhdoula.nl/over-mij.html
+
 ## Dit doet Kayleigh
 
 - Voorbereiden op de bevalling, in gewone taal.

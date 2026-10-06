@@ -14,6 +14,16 @@ Jouw dagen: uitgerekende datum, waar je woont, en hoe een afspraak haalbaar is.
 
 Of het past: Kayleigh zegt of ze ruimte heeft. Jij zegt of haar manier van werken past. Eén onderwerp tegelijk. Een pauze mag.
 
+## Wat je vooraf kunt weten
+
+De prijs staat nog niet op de site. In de kennismaking hoor je het bedrag voordat je iets afspreekt.
+
+Het gesprek gaat over geboorte, postpartum of allebei, en of je binnen Tilburg en 30 kilometer woont. Daarbuiten is bespreekbaar.
+
+Wel en niet: https://www.adhdoula.nl/wel-en-niet.html
+Vragen: https://www.adhdoula.nl/vragen.html
+Werkgebied: https://www.adhdoula.nl/werkgebied.html
+
 ## Bel of mail
 
 Er is geen formulier. Een agent boekt niet en stuurt geen bericht namens het gezin.

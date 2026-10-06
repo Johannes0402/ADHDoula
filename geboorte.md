@@ -18,5 +18,15 @@ Na de bevalling: een nagesprek, in het tempo van het gezin.
 
 Voor gezinnen die rust en een vaste lijn willen rond de geboorte. ADHDOULA is er met en voor neurodivergente mensen. Iedereen is welkom. Partner of een andere naaste mag erbij zijn. Een pauze is een gewone keuze.
 
+## Thuis of in het ziekenhuis
+
+Ze komt bij een thuisbevalling en gaat mee naar het ziekenhuis, in Tilburg en tot 30 kilometer. Daarbuiten spreken ze de reis vooraf af. De plek verandert haar rol niet: ze blijft bij je, de verloskundige blijft verantwoordelijk voor de medische zorg.
+
+Ze doet geen onderzoek en beslist niet over inleiden, pijnstilling of een keizersnede.
+
+Over Kayleigh: https://www.adhdoula.nl/over-mij.html
+Werkgebied: https://www.adhdoula.nl/werkgebied.html
+Wel en niet: https://www.adhdoula.nl/wel-en-niet.html
+Vragen: https://www.adhdoula.nl/vragen.html
 Postpartum: https://www.adhdoula.nl/postpartum.html
 Kennismaking: https://www.adhdoula.nl/kennismaking.html

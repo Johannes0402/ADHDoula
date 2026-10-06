@@ -18,7 +18,11 @@ Een vast moment: je weet wanneer ze komt. Eén onderwerp tegelijk, en een pauze 
 
 De kraamzorg doet haar eigen werk. Kayleigh neemt dat niet over. Ze is de extra persoon in de weken daarna.
 
-ADHDOULA is er met en voor neurodivergente mensen. Iedereen is welkom.
+Ze komt langs in Tilburg en tot 30 kilometer. Daarbuiten is de reis bespreekbaar. ADHDOULA is er met en voor neurodivergente mensen. Iedereen is welkom.
 
 Geboorte: https://www.adhdoula.nl/geboorte.html
+Werkgebied: https://www.adhdoula.nl/werkgebied.html
+Wel en niet: https://www.adhdoula.nl/wel-en-niet.html
+Over Kayleigh: https://www.adhdoula.nl/over-mij.html
+Vragen: https://www.adhdoula.nl/vragen.html
 Kennismaking: https://www.adhdoula.nl/kennismaking.html
