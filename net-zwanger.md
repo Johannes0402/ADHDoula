@@ -1,14 +1,14 @@
 # Net zwanger? Alles tegelijk. Dat mag.
 
-> Je hoeft vandaag niet alles te regelen. Hier staan drie stappen, in deze volgorde. Ik ben Kayleigh Huijbregts van ADHDoula. De medische zorg blijft bij de verloskundige of de huisarts.
+> Je hoeft vandaag niet alles te regelen. Ik ben Kayleigh Huijbregts van ADHDoula.
 
 - URL: https://www.adhdoula.nl/net-zwanger.html
 - Language: nl
 - Markdown: https://www.adhdoula.nl/net-zwanger.md
 
-## Drie stappen, in deze volgorde
+## Eén klein stapje is genoeg
 
-Eén stap is genoeg voor vandaag.
+De rest mag wachten.
 
 1. Verloskundige of huisarts De eerste afspraak. Het liefst voor je 9 weken zwanger bent.
 2. Schrijf 3 gedachten op Drie zinnen. Wat je voelt, wat je wilt weten, wat kan wachten.
