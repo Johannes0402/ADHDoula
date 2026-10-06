@@ -496,6 +496,75 @@ button.button {
   display: none;
 }
 
+.poster {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 1.4rem 1.2rem 1.15rem;
+  background: #fffdf8;
+  border: 2px solid var(--line);
+  border-radius: 1.6rem;
+}
+
+.poster-lilies {
+  width: min(18rem, 78%);
+  height: auto;
+  margin: 0.2rem auto 1.15rem;
+}
+
+.poster-steps {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.8rem;
+}
+
+.poster-steps li {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  gap: 0.35rem 0.95rem;
+  align-items: center;
+  margin: 0;
+  padding: 0.95rem 1.1rem;
+  border-radius: 1.25rem;
+}
+
+.step-num {
+  font-family: var(--serif);
+  font-weight: 650;
+  font-size: 2.5rem;
+  line-height: 1;
+  min-width: 1.5rem;
+}
+
+.step-title {
+  margin: 0;
+  font-weight: 700;
+  font-size: 1.2rem;
+  line-height: 1.3;
+}
+
+.step-note {
+  margin: 0.15rem 0 0;
+  color: var(--ink-soft);
+  font-size: 1.05rem;
+  line-height: 1.4;
+}
+
+/* Alleen deze poster, dezelfde drie pastels als de social post. Geen nieuwe huiskleur. */
+.step-midwife { background: #d0e8c8; }
+.step-thoughts { background: #b8e0f0; }
+.step-one { background: #d0c8f0; }
+
+.poster-sign {
+  margin: 1.05rem 0 0.15rem;
+  text-align: center;
+  font-family: var(--serif);
+  font-weight: 650;
+  font-size: 1.55rem;
+  letter-spacing: -0.02em;
+}
+
 @media (max-width: 860px) {
   .hero,
   .cards,

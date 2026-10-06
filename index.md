@@ -54,6 +54,8 @@ Een doula geeft praktische en emotionele steun rond de geboorte en in de weken e
 
 Bij de geboorte kom ik [thuis of in het ziekenhuis](https://www.adhdoula.nl/geboorte.html). Na de kraamweek is er [steun in huis, naast de kraamzorg](https://www.adhdoula.nl/postpartum.html).
 
+[Net zwanger?](https://www.adhdoula.nl/net-zwanger.html) Eerst de verloskundige of huisarts. Daarna kan ik ernaast staan.
+
 ## Voor wie
 
 ADHDoula is er met en voor neurodivergente mensen. Ik heb zelf ADHD en autisme. Iedereen is welkom. Een diagnose is niet nodig.

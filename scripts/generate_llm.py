@@ -27,6 +27,7 @@ INTRO = Path(__file__).resolve().parent / "llms-intro.md"
 PAGES = [
     ("index.html", "Home"),
     ("geboorte.html", "Geboorte"),
+    ("net-zwanger.html", "Net zwanger"),
     ("postpartum.html", "Postpartum"),
     ("over-mij.html", "Over Kayleigh"),
     ("wel-en-niet.html", "Wel en niet"),
@@ -114,6 +115,8 @@ def inline(nodes: list[Node | str]) -> str:
             parts.append(collapse(child))
             continue
         if "crumbs" in classes(child) or child.tag == "img":
+            continue
+        if child.attrs.get("aria-hidden") == "true":
             continue
         if child.tag == "a":
             label = inline(child.children).strip()

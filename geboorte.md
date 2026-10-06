@@ -36,4 +36,6 @@ Ik kom bij een thuisbevalling en ik ga mee naar het ziekenhuis, in [Tilburg en t
 
 Ik doe geen medisch onderzoek en ik beslis niet over inleiden, pijnstilling of een keizersnede. De grens tussen steun en zorg staat uitgeschreven in het bevallingsplan.
 
+[Ben je net zwanger?](https://www.adhdoula.nl/net-zwanger.html) Drie stappen, één per keer. De verloskundige of huisarts blijft de eerste.
+
 [Na de kraamweek is er ook postpartum-begeleiding.](https://www.adhdoula.nl/postpartum.html)

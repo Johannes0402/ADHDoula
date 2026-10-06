@@ -8,6 +8,7 @@ Andere agents: lees [AGENTS.md](./AGENTS.md) voordat je iets wijzigt. Dat bestan
 
 - `index.html` — home
 - `geboorte.html` — geboortedoula
+- `net-zwanger.html` — net zwanger: drie stappen, verloskundige of huisarts eerst
 - `postpartum.html` — postpartum doula
 - `over-mij.html` — bio
 - `wel-en-niet.html` — grens van het werk

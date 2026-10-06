@@ -10,6 +10,10 @@
 
 Een doula geeft praktische en emotionele steun rond de geboorte en in de weken erna. Ik bereid je voor, ik ben bij de bevalling, en ik kan daarna langskomen. De verloskundige blijft verantwoordelijk voor de medische zorg.
 
+## Ik ben net zwanger. Wat nu?
+
+Eerst een afspraak met de verloskundige of de huisarts. Daarna mag je drie gedachten opschrijven en één kleine stap zetten. [Die drie stappen staan op een eigen pagina.](https://www.adhdoula.nl/net-zwanger.html)
+
 ## Wat doe je niet?
 
 Ik doe geen medische handelingen en ik beslis niet over ingrepen. Ik vervang de verloskundige, de gynaecoloog en de kraamzorg niet. [De volledige grens staat op een eigen pagina.](https://www.adhdoula.nl/wel-en-niet.html)
