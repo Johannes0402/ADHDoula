@@ -56,7 +56,7 @@ Er is één formulier op de kennismaking. Berichten gaan naar kayleigh@adhdoula.
 - Geboorte: https://www.adhdoula.nl/geboorte.html
 - Net zwanger: https://www.adhdoula.nl/net-zwanger.html
 - Postpartum: https://www.adhdoula.nl/postpartum.html
-- Over Kayleigh: https://www.adhdoula.nl/over-mij.html
+- Over mij: https://www.adhdoula.nl/over-mij.html
 - Wel en niet: https://www.adhdoula.nl/wel-en-niet.html
 - Werkgebied: https://www.adhdoula.nl/werkgebied.html
 - Vragen: https://www.adhdoula.nl/vragen.html

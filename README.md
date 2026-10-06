@@ -22,7 +22,7 @@ Elke HTML-pagina heeft een markdown-spiegel met hetzelfde pad plus `.md` (home: 
 python3 scripts/generate_llm.py
 ```
 
-Na een HTML-wijziging draai je dat commando en zet je de uitvoer mee in git. `python3 scripts/generate_llm.py --check` stopt met een fout als de uitvoer achterloopt. In deze repo weigert de pre-commit hook zo'n commit zodra `git config core.hooksPath scripts/git-hooks` gezet is. `ai-knowledge-pack.md` blijft met de hand: de generator eist dat de profiel-URL's van Over Kayleigh daar ook in staan. `scripts/` staat in `robots.txt` op Disallow.
+Na een HTML-wijziging draai je dat commando en zet je de uitvoer mee in git. `python3 scripts/generate_llm.py --check` stopt met een fout als de uitvoer achterloopt. In deze repo weigert de pre-commit hook zo'n commit zodra `git config core.hooksPath scripts/git-hooks` gezet is. `ai-knowledge-pack.md` blijft met de hand: de generator eist dat de profiel-URL's van Over mij daar ook in staan. `scripts/` staat in `robots.txt` op Disallow.
 
 Lokaal bekijken, alleen vanuit deze map:
 
@@ -78,7 +78,7 @@ Lopende tekst blijft donker op crème. Knoptekst is wit op paars. De bovenste st
 - Cochrane 2017 alleen zoals op `wel-en-niet.html`, met bron, en niet als garantie.
 - Bevalling: thuis én ziekenhuis.
 - Contact blijft `kayleigh@adhdoula.nl` en `+31 6 44 00 55 69` (`tel:+31644005569`). Hetzelfde nummer is ook WhatsApp: `https://wa.me/31644005569`.
-- Profielen, alleen de schone URL zonder volg-parameters: Facebook `https://www.facebook.com/p/ADHDoula-61594809255128/` en Instagram `https://www.instagram.com/adhdoula_/`. Zichtbaar op Over Kayleigh.
+- Profielen, alleen de schone URL zonder volg-parameters: Facebook `https://www.facebook.com/p/ADHDoula-61594809255128/` en Instagram `https://www.instagram.com/adhdoula_/`. Zichtbaar op Over mij.
 
 ### Live site
 

@@ -28,7 +28,7 @@ De prijs staat nog niet op de site. In de kennismaking hoor je het bedrag voorda
 
 We bespreken of je [geboorte](https://www.adhdoula.nl/geboorte.html), [postpartum](https://www.adhdoula.nl/postpartum.html) of allebei zoekt, en of je binnen [Tilburg en 30 kilometer](https://www.adhdoula.nl/werkgebied.html) woont. Daarbuiten is bespreekbaar.
 
-Lees vooraf [wat een doula wel en niet doet](https://www.adhdoula.nl/wel-en-niet.html) en de [korte vragen](https://www.adhdoula.nl/vragen.html). Wil je eerst weten wie je spreekt, lees dan [over Kayleigh](https://www.adhdoula.nl/over-mij.html).
+Lees vooraf [wat een doula wel en niet doet](https://www.adhdoula.nl/wel-en-niet.html) en de [korte vragen](https://www.adhdoula.nl/vragen.html). Wil je eerst weten wie je spreekt, lees dan [over mij](https://www.adhdoula.nl/over-mij.html).
 
 ## Bel, app of mail
 
