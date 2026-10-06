@@ -12,7 +12,7 @@ De eigenaar is Kayleigh Huijbregts. Zij is de doula. Zij moet de site zelf kunne
 
 Dat is publiek, in deze zin, in de ik-vorm:
 
-“Ik heb ADHD en ik ben autiste. Daarom heet de praktijk ADHDOULA.”
+“Ik heb ADHD en autiste. Daarom heet de praktijk ADHDOULA.”
 
 Die zin blijft zo. Maak er geen pagina over diagnoses van. Gebruik niet het oude woord “klassiek autisme”.
 
