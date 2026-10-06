@@ -267,10 +267,9 @@ h3 {
 }
 
 .portrait img.portrait-photo {
-  width: min(100%, 22rem);
-  height: 28rem;
-  object-fit: cover;
-  object-position: center 28%;
+  width: min(100%, 24rem);
+  height: auto;
+  object-fit: contain;
 }
 
 .portrait img {
