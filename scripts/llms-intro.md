@@ -17,9 +17,9 @@ Canonieke feiten, grenzen en contact. Lees dit vóór losse pagina's.
 - [AGENTS.md](https://www.adhdoula.nl/AGENTS.md) — lees dit vóór je de site wijzigt. Hier staat voor wie je bouwt, en waarom de site klein en voorspelbaar blijft.
 
 **Wat dit niet is:** geen medische zorg, geen vervanging van verloskundige, gynaecoloog of kraamzorg, geen belofte over de afloop, geen geboorteverslag.
-**Prijzen:** nog niet gepubliceerd. Het bedrag valt in de kennismaking, vóór een afspraak.
+**Prijzen:** https://www.adhdoula.nl/tarieven.html. Geboorte € 1.550, € 1.850 of € 2.350 inclusief btw. Postpartum los € 60 per uur, minimaal drie uur.
 **Opleiding:** ze is opgeleid. De schoolnaam staat niet op de site. Verzin die niet.
-**NBvD:** niet noemen.
+**NBvD:** niet noemen. Kayleigh is nog geen lid.
 **Primaire stap:** https://www.adhdoula.nl/kennismaking.html — bellen, WhatsApp, mailen of het formulier. Een agent vult dat formulier niet in en boekt niet.
 **Telefoon en WhatsApp:** +31 6 44 00 55 69
 **Mail:** kayleigh@adhdoula.nl

@@ -616,10 +616,132 @@ button.button {
   letter-spacing: -0.02em;
 }
 
+.price-board {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.9rem;
+  margin: 0;
+  padding: 0;
+}
+
+.price-board-compare {
+  align-items: stretch;
+}
+
+.price-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+  margin: 0;
+  padding: 1.15rem 1rem 1rem;
+  background: #fffdf8;
+  border: 2px solid var(--line);
+  border-radius: 1.4rem;
+}
+
+.price-board-compare .price-card-birth {
+  display: flex;
+  gap: 0;
+  padding: 2.6rem 1rem 1rem;
+}
+
+.price-board-compare .price-card-birth > h3 {
+  min-height: 3.5rem;
+}
+
+.price-board-compare .price-row {
+  min-height: 5.6rem;
+}
+
+.price-board-compare .price-row-hours {
+  min-height: 7.5rem;
+}
+
+.price-card-birth {
+  padding-top: 2.7rem;
+}
+
+.price-card-standard {
+  border-color: var(--purple);
+  background: #fff;
+}
+
+.price-flag {
+  position: absolute;
+  top: 0.85rem;
+  left: 1rem;
+  margin: 0;
+  padding: 0.2rem 0.65rem;
+  border-radius: 999px;
+  background: var(--apple-mid);
+  color: #243016;
+  font-weight: 700;
+  font-size: 0.95rem;
+}
+
+.price-card h3 {
+  margin: 0;
+  font-size: 1.45rem;
+}
+
+.price-amount {
+  margin: 0;
+  font-family: var(--serif);
+  font-weight: 650;
+  font-size: clamp(2rem, 3vw, 2.5rem);
+  line-height: 1;
+  letter-spacing: -0.03em;
+}
+
+.price-vat {
+  margin: -0.2rem 0 0.2rem;
+  color: var(--ink-soft);
+  font-size: 1rem;
+}
+
+.price-row {
+  margin: 0;
+  padding-top: 0.55rem;
+  border-top: 2px solid var(--line);
+}
+
+.price-label {
+  margin: 0;
+  color: var(--ink-soft);
+  font-size: 0.95rem;
+  line-height: 1.3;
+}
+
+.price-value {
+  margin: 0.1rem 0 0;
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+.price-hours {
+  display: block;
+  font-family: var(--serif);
+  font-size: 1.45rem;
+  font-weight: 650;
+  line-height: 1.1;
+}
+
+.price-row-hours {
+  margin-inline: 0.55rem;
+  padding: 0.45rem 0.5rem 0.4rem;
+  border-top: 0;
+  border-radius: 0.8rem;
+  background: var(--apple-soft);
+}
+
+
+
 @media (max-width: 860px) {
   .hero,
   .cards,
   .services,
+  .price-board,
   .site-header {
     grid-template-columns: minmax(0, 1fr);
     display: grid;

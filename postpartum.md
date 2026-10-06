@@ -30,4 +30,4 @@ De kraamzorg doet haar eigen werk. Ik neem dat niet over. Ik ben de extra persoo
 
 Ik kom bij je langs in [Tilburg en tot 30 kilometer](https://www.adhdoula.nl/werkgebied.html). Daarbuiten is de reis bespreekbaar. ADHDoula is er met en voor neurodivergente mensen. Iedereen is welkom. [Ik ben Kayleigh Huijbregts.](https://www.adhdoula.nl/over-mij.html)
 
-[Begeleiding bij de geboorte zelf](https://www.adhdoula.nl/geboorte.html) staat op een aparte pagina. Korte antwoorden staan bij de [vragen](https://www.adhdoula.nl/vragen.html).
+[Begeleiding bij de geboorte zelf](https://www.adhdoula.nl/geboorte.html) staat op een aparte pagina. De bedragen staan bij de [tarieven](https://www.adhdoula.nl/tarieven.html). Korte antwoorden staan bij de [vragen](https://www.adhdoula.nl/vragen.html).

@@ -14,6 +14,7 @@ Andere agents: lees [AGENTS.md](./AGENTS.md) voordat je iets wijzigt. Dat bestan
 - `wel-en-niet.html` — grens van het werk
 - `werkgebied.html` — Tilburg en tot 30 km, daarbuiten bespreekbaar
 - `vragen.html` — veelgestelde vragen
+- `tarieven.html` — pakketten en bedragen
 - `kennismaking.html` — eerste stap
 
 Elke HTML-pagina heeft een markdown-spiegel met hetzelfde pad plus `.md` (home: `index.md`). HTML blijft de pagina voor bezoekers. Die spiegels, `llms.txt`, `llms-full.txt` en `sitemap.xml` worden gemaakt door de generator. Niet met de hand bewerken.
@@ -71,7 +72,7 @@ Lopende tekst blijft donker op crème. Knoptekst is wit op paars. De bovenste st
 ### Wat je niet verzint
 
 - Geen opleidingsnaam, school of certificaat tot de letterlijke naam is aangeleverd.
-- Geen prijzen en geen NBvD, AGB of keurmerk.
+- Geen NBvD, AGB of ander keurmerk. Kayleigh is nog geen NBvD-lid. Prijzen staan op `tarieven.html`. Verzin geen andere bedragen.
 - Geen lijst van dorpen of steden rond Tilburg. Het werkgebied is Tilburg en tot 30 km. Daarbuiten is bespreekbaar in de kennismaking.
 - Geen portret. Er is alleen het logo.
 - Geen medische zorg, geen belofte over hoe een bevalling loopt, geen geboorteverslag.
@@ -88,4 +89,4 @@ Lopende tekst blijft donker op crème. Knoptekst is wit op paars. De bovenste st
 
 ## Nog niet ingevuld
 
-Opleidingsnaam en een portretfoto. Prijzen en NBvD niet publiceren tot ze vaststaan.
+Opleidingsnaam en een portretfoto. NBvD niet noemen tot ze lid is.

@@ -44,7 +44,7 @@ In Tilburg en tot 30 kilometer daaromheen. Daarbuiten is bespreekbaar. [Het werk
 
 ## Wat kost een doula bij ADHDoula?
 
-De prijs hangt af van het pakket. De bedragen zet ik hier neer zodra ze vaststaan. In de kennismaking hoor je het bedrag voordat je iets afspreekt.
+Een geboortepakket kost € 1.550, € 1.850 of € 2.350, inclusief btw. Postpartum los kost € 60 per uur, minimaal drie uur. [Alle pakketten staan bij de tarieven.](https://www.adhdoula.nl/tarieven.html) In de kennismaking kijken we welk pakket bij je past, voordat je iets afspreekt.
 
 ## Staat jouw vraag er niet bij?
 

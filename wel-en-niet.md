@@ -19,6 +19,8 @@ De steun bij de bevalling, thuis of in het ziekenhuis, staat op [geboorte](https
 - Dat plan afstemmen op jouw wensen en behoeften
 - Je partner betrekken bij het proces, als je dat wilt
 - Aanwezig zijn tijdens de bevalling
+- Een TENS meenemen naar de bevalling
+- Foto's maken tijdens de bevalling, als je dat wilt
 - Steun in de weken na de kraamweek
 - Eén onderwerp tegelijk, met ruimte voor pauze
 - Samenwerken met je verloskundige en de kraamzorg

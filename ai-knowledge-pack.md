@@ -21,6 +21,7 @@ Ze is opgeleid als doula. De naam van de opleiding staat nog nergens, ook niet h
 - Net zwanger: ze vervangt de verloskundige of huisarts niet. Het advies is om meteen een afspraak te maken met een verloskundige, het liefst voor 9 weken. Daarna kan ze helpen om gedachten te ordenen, één stap tegelijk, en later met voorbereiding, de bevalling en postpartum.
 - Postpartum, ook wel kraamdoula: steun in huis na de kraamweek, op een vast moment, naast de kraamzorg.
 - Eén onderwerp tegelijk. Een pauze is een gewone keuze. Partner of een andere naaste is welkom.
+- Tijdens de bevalling neemt ze een TENS mee. Foto's maakt ze als het gezin dat wil. Geen geboorteverslag.
 
 ## Wat ze niet doet
 
@@ -38,7 +39,16 @@ Tilburg en tot 30 kilometer daaromheen. Daarbuiten is bespreekbaar in de kennism
 
 ## Prijs en lidmaatschap
 
-Prijzen zijn niet gepubliceerd. Het bedrag hoort het gezin in de kennismaking, voordat iets wordt vastgelegd. NBvD of een ander keurmerk niet noemen.
+Prijzen staan op https://www.adhdoula.nl/tarieven.html. Alle bedragen inclusief 21% btw. Reiskosten binnen 30 km zitten erin. Daarbuiten € 0,25 per km. Parkeerkosten bij het ziekenhuis apart.
+
+- Geboorte compact: € 1.550. Gratis kennismaking, 2 prenatale sessies, TENS, foto's als het gezin dat wil, on-call van week 37 tot en met week 42, aanwezig vanaf de actieve fase tot ongeveer twee uur na de geboorte, 12 uur inbegrepen, daarna € 75 per uur, 1 nagesprek.
+- Geboorte helder: € 1.850. Het standaardpakket. Alles van compact, plus een derde prenatale sessie, meegaan naar één controle als het gezin dat wil, 15 uur bij de bevalling, en 1 bezoek na de kraamweek.
+- Geboorte en postpartum: € 2.350. Helder, plus 3 bezoeken van 3 uur na de kraamweek.
+- Postpartum los: € 60 per uur, minimaal 3 uur. Drie bezoeken (9 uur) € 525. Vier bezoeken (12 uur) € 680.
+- Last-minute, vanaf week 37 en alleen als de agenda het toelaat: € 1.200, met één voorbereidingssessie als dat nog kan, 12 uur inbegrepen, daarna € 75 per uur.
+- Betaling: 50% bij het afspreken, 50% rond week 36.
+- Eén gezin per uitgerekende periode.
+- De basisverzekering vergoedt een doula niet. Een aanvullende verzekering soms wel een deel. De bezoeker checkt de eigen polis. NBvD niet noemen: Kayleigh is nog geen lid.
 
 ## Contact
 
@@ -60,4 +70,5 @@ Er is één formulier op de kennismaking. Berichten gaan naar kayleigh@adhdoula.
 - Wel en niet: https://www.adhdoula.nl/wel-en-niet.html
 - Werkgebied: https://www.adhdoula.nl/werkgebied.html
 - Vragen: https://www.adhdoula.nl/vragen.html
+- Tarieven: https://www.adhdoula.nl/tarieven.html
 - Kennismaking: https://www.adhdoula.nl/kennismaking.html

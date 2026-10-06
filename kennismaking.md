@@ -24,7 +24,7 @@ Ik zeg of ik ruimte heb. Jij zegt of mijn manier van werken bij je past.
 
 ## Wat je vooraf kunt weten
 
-De prijs staat nog niet op de site. In de kennismaking hoor je het bedrag voordat je iets afspreekt.
+De bedragen staan bij de [tarieven](https://www.adhdoula.nl/tarieven.html). In de kennismaking kijken we welk pakket bij je past, voordat je iets afspreekt.
 
 We bespreken of je [geboorte](https://www.adhdoula.nl/geboorte.html), [postpartum](https://www.adhdoula.nl/postpartum.html) of allebei zoekt, en of je binnen [Tilburg en 30 kilometer](https://www.adhdoula.nl/werkgebied.html) woont. Daarbuiten is bespreekbaar.
 
