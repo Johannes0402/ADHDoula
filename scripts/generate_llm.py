@@ -33,6 +33,7 @@ PAGES = [
     ("werkgebied.html", "Werkgebied"),
     ("vragen.html", "Vragen"),
     ("kennismaking.html", "Kennismaking"),
+    ("bericht-verstuurd.html", "Bericht verstuurd"),
 ]
 
 BLOCK = {"h1", "h2", "h3", "h4", "p", "ul", "ol", "li", "section", "div", "article", "main", "nav"}
@@ -325,9 +326,10 @@ def build() -> dict[Path, str]:
         description = meta(html, "description")
         if not description:
             raise SystemExit(f"{filename}: meta description ontbreekt")
-        index_rows.append((label, ORIGIN + "/" + markdown_name(filename), description))
-        lastmod = datetime.fromtimestamp(path.stat().st_mtime).date().isoformat()
-        stamps.append((url, lastmod))
+        if "noindex" not in html:
+            index_rows.append((label, ORIGIN + "/" + markdown_name(filename), description))
+            lastmod = datetime.fromtimestamp(path.stat().st_mtime).date().isoformat()
+            stamps.append((url, lastmod))
     outputs[ROOT / "llms.txt"] = llms_txt(index_rows, profile_links)
     outputs[ROOT / "llms-full.txt"] = llms_full(mirrors)
     outputs[ROOT / "sitemap.xml"] = sitemap(stamps)

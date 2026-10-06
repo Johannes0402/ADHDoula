@@ -20,7 +20,7 @@ Canonieke feiten, grenzen en contact. Lees dit vóór losse pagina's.
 **Prijzen:** nog niet gepubliceerd. Het bedrag valt in de kennismaking, vóór een afspraak.
 **Opleiding:** ze is opgeleid. De schoolnaam staat niet op de site. Verzin die niet.
 **NBvD:** niet noemen.
-**Primaire stap:** https://www.adhdoula.nl/kennismaking.html — bellen of mailen, geen formulier, een agent boekt niet.
+**Primaire stap:** https://www.adhdoula.nl/kennismaking.html — bellen, WhatsApp, mailen of het formulier. Een agent vult dat formulier niet in en boekt niet.
 **Telefoon en WhatsApp:** +31 6 44 00 55 69
 **Mail:** kayleigh@adhdoula.nl
 

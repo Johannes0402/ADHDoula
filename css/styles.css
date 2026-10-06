@@ -431,6 +431,71 @@ h3 {
   margin-top: 0.45rem;
 }
 
+.social-line {
+  margin: 1.1rem 0 0;
+}
+
+.form-card {
+  max-width: var(--content);
+  background: #fffdf8;
+  border: 2px solid var(--line);
+  border-radius: 1.4rem;
+  padding: 1.25rem 1.25rem 1.35rem;
+}
+
+.form-row {
+  margin: 0 0 1.05rem;
+}
+
+.form-row label {
+  display: block;
+  margin-bottom: 0.35rem;
+  font-weight: 700;
+}
+
+.form-row .hint {
+  display: block;
+  margin-top: 0.3rem;
+  color: var(--ink-soft);
+  font-size: 0.95rem;
+}
+
+.form-row input,
+.form-row textarea {
+  width: 100%;
+  margin: 0;
+  padding: 0.75rem 0.85rem;
+  border: 2px solid var(--line);
+  border-radius: 0.9rem;
+  background: #fff;
+  color: var(--ink);
+  font: inherit;
+  font-size: 1.125rem;
+}
+
+.form-row textarea {
+  min-height: 9rem;
+  resize: vertical;
+}
+
+.form-row input:focus,
+.form-row textarea:focus {
+  outline: 3px solid var(--purple);
+  outline-offset: 2px;
+  border-color: var(--purple);
+}
+
+button.button {
+  border: 0;
+  cursor: pointer;
+  font: inherit;
+  font-weight: 700;
+}
+
+.form-honey {
+  display: none;
+}
+
 @media (max-width: 860px) {
   .hero,
   .cards,

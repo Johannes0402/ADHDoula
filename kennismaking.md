@@ -30,9 +30,9 @@ We bespreken of je [geboorte](https://www.adhdoula.nl/geboorte.html), [postpartu
 
 Lees vooraf [wat een doula wel en niet doet](https://www.adhdoula.nl/wel-en-niet.html) en de [korte vragen](https://www.adhdoula.nl/vragen.html). Wil je eerst weten wie je spreekt, lees dan [over Kayleigh](https://www.adhdoula.nl/over-mij.html).
 
-## Bel of mail
+## Bel, app of mail
 
-Er is geen formulier op deze site. Je belt, appt of mailt zelf.
+Je belt, appt of mailt zelf. Of je vult het formulier hieronder in. Er wordt nog niets vastgelegd.
 
 ### Telefoon en WhatsApp
 
@@ -43,3 +43,11 @@ Er is geen formulier op deze site. Je belt, appt of mailt zelf.
 ### Mail
 
 [kayleigh@adhdoula.nl](mailto:kayleigh@adhdoula.nl)
+
+ADHDoula staat ook op [Facebook](https://www.facebook.com/p/ADHDoula-61594809255128/) en [Instagram](https://www.instagram.com/adhdoula_/).
+
+## Stuur een bericht
+
+Vier velden, van boven naar beneden. Naam en e-mail zijn nodig, zodat Kayleigh kan antwoorden. Telefoon mag leeg blijven. Na verzenden kom je op een korte bevestiging. Het bericht gaat naar haar mailbox. Deze site bewaart het niet.
+
+Laat dit veld leeg

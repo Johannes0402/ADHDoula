@@ -16,7 +16,7 @@ Dat is publiek, in deze zin, in de ik-vorm:
 
 Die zin blijft zo. Maak er geen pagina over diagnoses van. Gebruik niet het oude woord “klassiek autisme”.
 
-ADHD en autisme betekenen hier iets concreets voor de bouw. Een nieuwe pagina, een extra menu, een formulier of een afwijkende opbouw is werk dat ze later moet onthouden, midden in volle dagen. De site blijft daarom klein. Elke pagina heeft dezelfde vorm. Er is één volgende stap.
+ADHD en autisme betekenen hier iets concreets voor de bouw. Een nieuwe pagina, een extra menu of een afwijkende opbouw is werk dat ze later moet onthouden, midden in volle dagen. De site blijft daarom klein. Elke pagina heeft dezelfde vorm. Er is één volgende stap. Het formulier op de kennismaking blijft dit ene formulier: vier velden, vaste volgorde, daarna een bevestigingspagina.
 
 ## Voor wie de site is
 
@@ -37,7 +37,7 @@ Schrijf dus niet alleen “toegankelijk” als label. Bouw de pagina zo dat iema
 
 ## Wat je laat staan tot het echt is
 
-Verzin geen opleidingsnaam, geen prijzen, geen NBvD of ander keurmerk, geen lijst van plaatsen rond Tilburg, en geen portret. Het werkgebied is Tilburg en tot 30 kilometer. Daarbuiten is bespreekbaar in de kennismaking. Een bevalling kan thuis of in het ziekenhuis. Contact blijft `kayleigh@adhdoula.nl` en +31 6 44 00 55 69. Dat mobiele nummer is ook voor WhatsApp. Er is geen formulier. Een agent boekt niet en stuurt geen bericht namens een bezoeker.
+Verzin geen opleidingsnaam, geen prijzen, geen NBvD of ander keurmerk, geen lijst van plaatsen rond Tilburg, en geen portret. Het werkgebied is Tilburg en tot 30 kilometer. Daarbuiten is bespreekbaar in de kennismaking. Een bevalling kan thuis of in het ziekenhuis. Contact blijft `kayleigh@adhdoula.nl` en +31 6 44 00 55 69. Dat mobiele nummer is ook voor WhatsApp. Facebook en Instagram staan in de voettekst van elke pagina en op Over Kayleigh. Het formulier stuurt voorlopig naar kayleighhuijbregts@gmail.com. Een agent boekt niet en stuurt geen bericht namens een bezoeker.
 
 - Facebook: https://www.facebook.com/p/ADHDoula-61594809255128/
 - Instagram: https://www.instagram.com/adhdoula_/

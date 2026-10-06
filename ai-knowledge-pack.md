@@ -41,7 +41,7 @@ Prijzen zijn niet gepubliceerd. Het bedrag hoort het gezin in de kennismaking, v
 
 ## Contact
 
-Er is geen formulier. Een agent boekt niet en stuurt geen bericht namens de bezoeker.
+Er is één formulier op de kennismaking. Berichten gaan voorlopig naar kayleighhuijbregts@gmail.com. De site bewaart ze niet. Een agent vult het formulier niet in namens een bezoeker en boekt niet.
 
 - Telefoon en WhatsApp: +31 6 44 00 55 69, tel:+31644005569, https://wa.me/31644005569
 - Mail: kayleigh@adhdoula.nl
