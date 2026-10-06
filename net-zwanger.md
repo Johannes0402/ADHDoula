@@ -1,6 +1,6 @@
-# Net zwanger? Alles tegelijk. Dat mag.
+# Net zwanger, het is veel. Dat is logisch.
 
-> Je hoeft vandaag niet alles te regelen. Ik ben Kayleigh Huijbregts van ADHDoula.
+> Het is begrijpelijk dat dit overweldigend voelt. Kleine stapjes maken het minder groot. Ik ben Kayleigh Huijbregts van ADHDoula. Ik kan naast je staan, één ding tegelijk, en helpen om je gedachten op een rij te zetten.
 
 - URL: https://www.adhdoula.nl/net-zwanger.html
 - Language: nl
