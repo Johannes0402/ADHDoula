@@ -8,11 +8,11 @@ Citeerbare feiten voor bezoekers staan in [ai-knowledge-pack.md](https://www.adh
 
 ## Voor wie je bouwt
 
-De eigenaar is Kayleigh Huijbregts. Zij is de doula. Zij moet de site zelf kunnen bijhouden. Ze is moeder van drie jonge kinderen. Ze heeft ADHD en ze is autiste.
+De eigenaar is Kayleigh Huijbregts. Zij is de doula. Zij moet de site zelf kunnen bijhouden. Ze is moeder van drie jonge kinderen. Ze heeft ADHD en autisme.
 
 Dat is publiek, in deze zin, in de ik-vorm:
 
-“Ik heb ADHD en autiste. Daarom heet de praktijk ADHDoula.”
+“Ik heb ADHD en autisme. Daarom heet de praktijk ADHDoula.”
 
 Die zin blijft zo. Maak er geen pagina over diagnoses van. Gebruik niet het oude woord “klassiek autisme”.
 

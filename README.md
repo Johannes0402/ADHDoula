@@ -38,7 +38,7 @@ Daarna: http://127.0.0.1:8765/
 
 - Eigenaar van praktijk en website: **Kayleigh Huijbregts**. Moeder van drie jonge kinderen.
 - Praktijknaam = websitenaam: **ADHDoula**.
-- Publieke zin, ik-vorm, niet herschrijven naar een diagnose-pagina: “Ik heb ADHD en autiste. Daarom heet de praktijk ADHDoula.” Niet “klassiek autisme”.
+- Publieke zin, ik-vorm, niet herschrijven naar een diagnose-pagina: “Ik heb ADHD en autisme. Daarom heet de praktijk ADHDoula.” Niet “klassiek autisme”.
 - Iedereen is welkom. Neurodivergentie is een specialisatie, geen gesloten doelgroep. Een diagnose is niet nodig.
 - De site blijft voor Kayleigh behapbaar: weinig pagina's, dezelfde opbouw, één volgende stap (kennismaking), geen CMS en geen contactformulier.
 
