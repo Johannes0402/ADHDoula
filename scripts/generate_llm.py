@@ -29,7 +29,7 @@ PAGES = [
     ("geboorte.html", "Geboorte"),
     ("net-zwanger.html", "Net zwanger"),
     ("postpartum.html", "Postpartum"),
-    ("over-mij.html", "Over Kayleigh"),
+    ("over-mij.html", "Over mij"),
     ("wel-en-niet.html", "Wel en niet"),
     ("werkgebied.html", "Werkgebied"),
     ("vragen.html", "Vragen"),
@@ -261,7 +261,7 @@ def profiles(html: str) -> list[tuple[str, str]]:
     missing = [href for _, href in found if href not in pack]
     if missing:
         raise SystemExit(
-            "Deze profiel-URL's staan op Over Kayleigh, maar niet in ai-knowledge-pack.md: "
+            "Deze profiel-URL's staan op Over mij, maar niet in ai-knowledge-pack.md: "
             + ", ".join(missing)
         )
     return found
