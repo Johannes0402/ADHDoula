@@ -23,15 +23,20 @@ Canonieke feiten, grenzen en contact. Lees dit vóór losse pagina's.
 **Telefoon:** +31 6 44 00 55 69
 **Mail:** kayleigh@adhdoula.nl
 
+Paginaspiegels, deze index, `llms-full.txt` en `sitemap.xml` komen uit `scripts/generate_llm.py`. HTML blijft de canonieke pagina. Het kennisbestand blijft met de hand.
+
+**Facebook:** https://www.facebook.com/p/ADHDoula-61594809255128/
+**Instagram:** https://www.instagram.com/adhdoula_/
+
 ## Pagina's
 
 Markdown-spiegels (llmstxt.org): hetzelfde pad plus `.md`. Home is `/index.md`. HTML blijft de canonieke URL.
 
-- [Home](https://www.adhdoula.nl/index.md): Doula voor geboorte en postpartum in Tilburg. Korte stappen, aanwezigheid, plan dat je naleest, naast verloskundige en kraamzorg.
-- [Geboorte](https://www.adhdoula.nl/geboorte.md): Voor de bevalling, aanwezig thuis of in het ziekenhuis, nagesprek.
-- [Postpartum](https://www.adhdoula.nl/postpartum.md): Steun in huis na de kraamweek, vast moment, naast de kraamzorg. Ook wel kraamdoula.
-- [Over Kayleigh](https://www.adhdoula.nl/over-mij.md): Moeder van drie. ADHD en klassiek autisme in de ik-vorm. Opgeleid, zonder schoolnaam.
-- [Wel en niet](https://www.adhdoula.nl/wel-en-niet.md): Wat ze wel en niet doet, plus de voorzichtige Cochrane-2017-zin met bron.
-- [Werkgebied](https://www.adhdoula.nl/werkgebied.md): Tilburg en tot 30 km. Daarbuiten bespreekbaar.
-- [Vragen](https://www.adhdoula.nl/vragen.md): Wat een doula doet, voor wie, waar, en dat de prijs nog niet online staat.
-- [Kennismaking](https://www.adhdoula.nl/kennismaking.md): Eerste gesprek. Nog niets vast. Bel of mail.
+- [Home](https://www.adhdoula.nl/index.md): Kayleigh Huijbregts is doula voor geboorte en postpartum in Tilburg en tot 30 kilometer. Daarbuiten is bespreekbaar. Iedereen is welkom.
+- [Geboorte](https://www.adhdoula.nl/geboorte.md): Kayleigh Huijbregts begeleidt als geboortedoula in Tilburg en tot 30 kilometer: voorbereiding, aanwezigheid bij de bevalling en een nagesprek.
+- [Postpartum](https://www.adhdoula.nl/postpartum.md): Kayleigh Huijbregts is postpartum doula in Tilburg en tot 30 kilometer. Steun na de kraamweek, naast de kraamzorg, met vaste momenten.
+- [Over Kayleigh](https://www.adhdoula.nl/over-mij.md): Kayleigh Huijbregts is moeder van drie jonge kinderen en doula bij ADHDOULA. Ze begeleidt geboorte en postpartum in Tilburg en tot 30 kilometer.
+- [Wel en niet](https://www.adhdoula.nl/wel-en-niet.md): ADHDOULA geeft steun bij geboorte en postpartum in Tilburg. Kayleigh doet geen medische zorg en vervangt de verloskundige of kraamzorg niet.
+- [Werkgebied](https://www.adhdoula.nl/werkgebied.md): Kayleigh Huijbregts van ADHDOULA werkt in Tilburg en tot 30 kilometer daaromheen. Daarbuiten is bespreekbaar.
+- [Vragen](https://www.adhdoula.nl/vragen.md): Antwoorden van Kayleigh Huijbregts over doula-begeleiding in Tilburg: wat een doula doet, voor wie ADHDOULA is, en hoe een kennismaking gaat.
+- [Kennismaking](https://www.adhdoula.nl/kennismaking.md): Kennismaken met Kayleigh Huijbregts van ADHDOULA in Tilburg. Bel +31 6 44 00 55 69 of mail kayleigh@adhdoula.nl. Je legt nog niets vast.

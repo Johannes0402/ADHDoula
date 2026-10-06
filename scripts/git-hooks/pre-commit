@@ -1,0 +1,4 @@
+#!/bin/sh
+# Weigert een commit zolang de LLM-bestanden niet uit de HTML zijn gegenereerd.
+cd "$(git rev-parse --show-toplevel)" || exit 1
+python3 scripts/generate_llm.py --check

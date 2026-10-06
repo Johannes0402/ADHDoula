@@ -1,6 +1,6 @@
 # Wat een doula wel en niet doet
 
-> ADHDOULA geeft steun. De medische zorg blijft bij de verloskundige of de arts.
+> ADHDOULA is de praktijk van [Kayleigh Huijbregts](https://www.adhdoula.nl/over-mij.html). Ik geef steun. De medische zorg blijft bij de verloskundige of de arts.
 
 - URL: https://www.adhdoula.nl/wel-en-niet.html
 - Language: nl
@@ -8,35 +8,36 @@
 
 ## Wat een doula is
 
-Een doula geeft continue steun: uitleg in gewone taal, iemand die blijft, en hulp om overzicht te houden. Kayleigh is geen verloskundige en geen kraamverzorgende.
+Een doula geeft continue steun: uitleg in gewone taal, iemand die blijft, en hulp om overzicht te houden. Ik ben geen verloskundige en geen kraamverzorgende.
 
-Geboorte: https://www.adhdoula.nl/geboorte.html
-Postpartum: https://www.adhdoula.nl/postpartum.html
-Werkgebied: https://www.adhdoula.nl/werkgebied.html
-Over Kayleigh: https://www.adhdoula.nl/over-mij.html
+De steun bij de bevalling, thuis of in het ziekenhuis, staat op [geboorte](https://www.adhdoula.nl/geboorte.html). De steun na de kraamweek staat op [postpartum](https://www.adhdoula.nl/postpartum.html). Het gebied is [Tilburg en tot 30 kilometer](https://www.adhdoula.nl/werkgebied.html).
 
-## Dit doet Kayleigh
+## Dit doe ik
 
-- Voorbereiden op de bevalling, in gewone taal.
-- Een geboorteplan dat je kunt nalezen.
-- Aanwezig zijn tijdens de bevalling.
-- Steun in de weken na de kraamweek.
-- Eén onderwerp tegelijk, met ruimte voor pauze.
-- Samenwerken met de verloskundige en de kraamzorg.
+- Voorbereiden op de bevalling, in gewone taal
+- Een geboorteplan dat je kunt nalezen
+- Aanwezig zijn tijdens de bevalling
+- Steun in de weken na de kraamweek
+- Eén onderwerp tegelijk, met ruimte voor pauze
+- Samenwerken met je verloskundige en de kraamzorg
 
-## Dit doet ze niet
+## Dit doe ik niet
 
-- Medische handelingen of onderzoek.
-- Beslissen over inleiden, pijnstilling of een keizersnede.
-- De verloskundige of gynaecoloog vervangen.
-- De kraamzorg vervangen.
-- Beloven hoe een bevalling zal lopen.
-- Een geboorteverslag maken.
+- Medische handelingen of onderzoek
+- Beslissen over inleiden, pijnstilling of een keizersnede
+- De verloskundige of gynaecoloog vervangen
+- De kraamzorg vervangen
+- Beloven hoe jouw bevalling zal lopen
+- Een geboorteverslag maken
 
-## Wat onderzoek zegt
+## Wat onderzoek zegt, en wat het niet zegt
 
-Een Cochrane-review uit 2017 keek naar continue steun tijdens de bevalling. Vrouwen met zo'n steun hadden vaker een spontane vaginale bevalling, een kortere bevalling, en minder vaak een keizersnede. Het bewijs is van lage kwaliteit. Het is geen voorspelling voor één gezin.
+Een grote Cochrane-review uit 2017 keek naar continue steun tijdens de bevalling. Vrouwen met zo'n steun hadden vaker een spontane vaginale bevalling, een kortere bevalling, en minder vaak een keizersnede. Het bewijs is van lage kwaliteit. Het is geen voorspelling voor één gezin.
 
-Bron: https://www.cochrane.org/evidence/CD003766_continuous-support-women-during-childbirth
+[Cochrane: Continuous support for women during childbirth (2017)](https://www.cochrane.org/evidence/CD003766_continuous-support-women-during-childbirth)
 
-Kennismaking: https://www.adhdoula.nl/kennismaking.html
+## Twijfel je of dit bij je past?
+
+Dat is precies waar de kennismaking voor is. Je legt nog niets vast.
+
+[Kennismaking](https://www.adhdoula.nl/kennismaking.html)

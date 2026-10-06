@@ -1,37 +1,67 @@
 # Doula voor geboorte en postpartum in Tilburg
 
-> Kayleigh Huijbregts van ADHDOULA blijft bij je, met korte stappen en afspraken die blijven staan. Ze werkt in Tilburg en tot 30 kilometer. Daarbuiten is bespreekbaar.
+> Ik ben [Kayleigh Huijbregts](https://www.adhdoula.nl/over-mij.html) van ADHDOULA. Ik blijf bij je, met korte stappen en afspraken die blijven staan. Ik werk in Tilburg en tot 30 kilometer daaromheen. Daarbuiten is bespreekbaar.
 
 - URL: https://www.adhdoula.nl/
 - Language: nl
 - Markdown: https://www.adhdoula.nl/index.md
 
-## Wat je van haar kunt verwachten
+[Kennismaking](https://www.adhdoula.nl/kennismaking.html)
 
-Drie dingen, steeds dezelfde.
+## Wat je van mij kunt verwachten
 
-- Aanwezigheid bij de bevalling, en in de weken erna op momenten die vooraf vastliggen.
-- Een plan dat je terugleest. Eén onderwerp tegelijk.
-- Naast de verloskundige en de kraamzorg. Medische beslissingen blijven bij hen. Wat ze wel en niet doet: https://www.adhdoula.nl/wel-en-niet.html
+Drie dingen, steeds dezelfde. Zo weet je waar je aan toe bent.
 
-## Wat een doula hier doet
+### Aanwezigheid
 
-Een doula geeft praktische en emotionele steun rond de geboorte en in de weken erna. Kayleigh bereidt voor, is bij de bevalling, en kan daarna langskomen. De verloskundige blijft verantwoordelijk voor de medische zorg.
+Bij de bevalling blijf ik bij je. In de weken erna kom ik langs op momenten die we vooraf vastleggen.
 
-Bij de geboorte komt ze thuis of in het ziekenhuis. Na de kraamweek is er steun in huis, naast de kraamzorg.
+### Een plan dat je terugleest
+
+We doen één onderwerp tegelijk. Wat we afspreken, kun je later nog eens nalezen.
+
+### Naast de zorg die er al is
+
+Ik werk samen met je verloskundige en de kraamzorg. Medische beslissingen blijven bij hen. [Wat ik wel en niet doe](https://www.adhdoula.nl/wel-en-niet.html) staat apart.
 
 ## Geboorte en postpartum
 
-Geboorte: voorbereiden, aanwezig bij de bevalling, nagesprek. https://www.adhdoula.nl/geboorte.html
+Twee periodes, dezelfde stijl. Helder, rustig, en in jouw tempo.
 
-Postpartum: na de kraamweek steun in huis, naast de kraamzorg. https://www.adhdoula.nl/postpartum.html
+### Geboorte
+
+Ik help je voorbereiden, ik ben bij de bevalling, en we sluiten af met een nagesprek.
+
+- Gesprekken voor de bevalling
+- Een geboorteplan in gewone taal
+- Aanwezig als de weeën komen
+
+[Lees over geboorte](https://www.adhdoula.nl/geboorte.html)
+
+### Postpartum
+
+Na de kraamweek gaat het leven door. Ik bied dan steun, naast de kraamzorg.
+
+- Overzicht in volle dagen
+- Praktische steun in huis
+- Een vast moment, zodat je weet wanneer ik kom
+
+[Lees over postpartum](https://www.adhdoula.nl/postpartum.html)
+
+## Wat een doula hier doet
+
+Een doula geeft praktische en emotionele steun rond de geboorte en in de weken erna. Ik bereid je voor, ik ben bij de bevalling, en ik kan daarna langskomen. De verloskundige blijft verantwoordelijk voor de medische zorg.
+
+Bij de geboorte kom ik [thuis of in het ziekenhuis](https://www.adhdoula.nl/geboorte.html). Na de kraamweek is er [steun in huis, naast de kraamzorg](https://www.adhdoula.nl/postpartum.html).
 
 ## Voor wie
 
-ADHDOULA is er met en voor neurodivergente mensen. Kayleigh heeft zelf ADHD en klassiek autisme. Iedereen is welkom. Een diagnose is niet nodig.
+ADHDOULA is er met en voor neurodivergente mensen. Ik heb zelf ADHD en klassiek autisme. Iedereen is welkom. Een diagnose is niet nodig.
 
-Het gebied is Tilburg en tot 30 kilometer: https://www.adhdoula.nl/werkgebied.html
-Korte antwoorden: https://www.adhdoula.nl/vragen.html
-Over Kayleigh: https://www.adhdoula.nl/over-mij.html
+Ik hou van duidelijke taal, een voorspelbare afspraak en de ruimte om te pauzeren. Die stijl staat open voor elk gezin. Het gebied is [Tilburg en tot 30 kilometer](https://www.adhdoula.nl/werkgebied.html). Korte antwoorden staan bij de [vragen](https://www.adhdoula.nl/vragen.html).
 
-De eerste stap is een kennismaking. Daarin kijken ze of het klikt, wat het gezin nodig heeft, en of er ruimte is rond de uitgerekende datum. https://www.adhdoula.nl/kennismaking.html
+### Hoe een samenwerking begint
+
+We starten met een kennismaking. We kijken of het klikt, wat je nodig hebt, en of ik ruimte heb rond je uitgerekende datum.
+
+[Plan een kennismaking](https://www.adhdoula.nl/kennismaking.html)

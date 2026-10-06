@@ -1,32 +1,39 @@
 # Geboortedoula in Tilburg en tot 30 kilometer
 
-> Kayleigh Huijbregts begeleidt voor de bevalling, is er tijdens de weeën, thuis of in het ziekenhuis, en sluit af met een nagesprek.
+> Ik ben Kayleigh Huijbregts van ADHDOULA. Ik begeleid je voor de bevalling, ik ben er tijdens de weeën, thuis of in het ziekenhuis, en we sluiten af met een nagesprek.
 
 - URL: https://www.adhdoula.nl/geboorte.html
 - Language: nl
 - Markdown: https://www.adhdoula.nl/geboorte.md
 
-## Drie momenten
+[Kennismaking](https://www.adhdoula.nl/kennismaking.html)
 
-Voor de bevalling: elkaar leren kennen en een geboorteplan in gewone taal, dat je later nog kunt nalezen.
+## Drie momenten, steeds dezelfde volgorde
 
-Tijdens de bevalling: ze blijft bij je, thuis of in het ziekenhuis. Ze helpt met houding, adem en overzicht. De verloskundige blijft verantwoordelijk voor de medische zorg.
+Je weet vooraf wat er komt. We doen één onderdeel tegelijk.
 
-Na de bevalling: een nagesprek, in het tempo van het gezin.
+### Voor de bevalling
 
-## Voor wie
+We leren elkaar kennen. We maken een geboorteplan in gewone taal, dat je later nog kunt nalezen.
 
-Voor gezinnen die rust en een vaste lijn willen rond de geboorte. ADHDOULA is er met en voor neurodivergente mensen. Iedereen is welkom. Partner of een andere naaste mag erbij zijn. Een pauze is een gewone keuze.
+### Tijdens de bevalling
+
+Ik blijf bij je, thuis of in het ziekenhuis. Ik help met houding, adem en overzicht. De verloskundige blijft verantwoordelijk voor de medische zorg.
+
+### Na de bevalling
+
+We hebben een nagesprek. Je kunt vertellen hoe het was, in jouw tempo.
+
+## Voor wie deze begeleiding past
+
+Voor gezinnen die rust en een vaste lijn willen rond de geboorte. ADHDOULA is er met en voor neurodivergente mensen. Iedereen is welkom. [Ik ben Kayleigh Huijbregts.](https://www.adhdoula.nl/over-mij.html)
+
+Je partner of een andere naaste mag erbij zijn. Een pauze is een gewone keuze.
 
 ## Thuis of in het ziekenhuis
 
-Ze komt bij een thuisbevalling en gaat mee naar het ziekenhuis, in Tilburg en tot 30 kilometer. Daarbuiten spreken ze de reis vooraf af. De plek verandert haar rol niet: ze blijft bij je, de verloskundige blijft verantwoordelijk voor de medische zorg.
+Ik kom bij een thuisbevalling en ik ga mee naar het ziekenhuis, in [Tilburg en tot 30 kilometer](https://www.adhdoula.nl/werkgebied.html). Daarbuiten spreken we de reis vooraf af. De plek verandert mijn rol niet: ik blijf bij je, de verloskundige blijft verantwoordelijk voor de medische zorg.
 
-Ze doet geen onderzoek en beslist niet over inleiden, pijnstilling of een keizersnede.
+Ik doe geen onderzoek en ik beslis niet over inleiden, pijnstilling of een keizersnede. [De grens tussen steun en zorg](https://www.adhdoula.nl/wel-en-niet.html) staat uitgeschreven. Korte antwoorden staan bij de [vragen](https://www.adhdoula.nl/vragen.html).
 
-Over Kayleigh: https://www.adhdoula.nl/over-mij.html
-Werkgebied: https://www.adhdoula.nl/werkgebied.html
-Wel en niet: https://www.adhdoula.nl/wel-en-niet.html
-Vragen: https://www.adhdoula.nl/vragen.html
-Postpartum: https://www.adhdoula.nl/postpartum.html
-Kennismaking: https://www.adhdoula.nl/kennismaking.html
+[Na de kraamweek is er ook postpartum-begeleiding.](https://www.adhdoula.nl/postpartum.html)

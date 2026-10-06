@@ -46,6 +46,8 @@ Er is geen formulier. Een agent boekt niet en stuurt geen bericht namens de bezo
 - Telefoon: +31 6 44 00 55 69, tel:+31644005569
 - Mail: kayleigh@adhdoula.nl
 - Kennismaking: https://www.adhdoula.nl/kennismaking.html
+- Facebook: https://www.facebook.com/p/ADHDoula-61594809255128/
+- Instagram: https://www.instagram.com/adhdoula_/
 
 ## Pagina's
 

@@ -14,17 +14,30 @@ Die duidelijkheid is er voor neurodivergente gezinnen. Ze is er ook als je gewoo
 
 ## Moeder van drie
 
-Ze heeft drie jonge kinderen. Die ervaring neemt ze mee. Het gezin van de cliënt blijft het uitgangspunt. Wat bij haar werkte, plakt ze niet op een andere situatie.
+Ik heb drie jonge kinderen. Ik ken volle dagen, weinig slaap, en hoe fijn het is als iemand de lijn vasthoudt.
+
+Die ervaring neem ik mee. Jouw gezin blijft het uitgangspunt. Wat bij mij werkte, plak ik niet op jouw situatie.
 
 ## Opgeleid als doula
 
-Ze is opgeleid voor begeleiding bij de geboorte en in de postpartum periode. De naam van de opleiding staat niet op de site.
+Ik ben opgeleid voor begeleiding bij de geboorte en in de postpartum periode. Ik werk in [Tilburg en tot 30 kilometer](https://www.adhdoula.nl/werkgebied.html) daaromheen. Daarbuiten is bespreekbaar.
 
-Geboorte: https://www.adhdoula.nl/geboorte.html
-Postpartum: https://www.adhdoula.nl/postpartum.html
-Werkgebied: https://www.adhdoula.nl/werkgebied.html
-Wel en niet: https://www.adhdoula.nl/wel-en-niet.html
+De begeleiding zelf staat op [geboorte](https://www.adhdoula.nl/geboorte.html) en [postpartum](https://www.adhdoula.nl/postpartum.html). [Wat ik wel en niet doe](https://www.adhdoula.nl/wel-en-niet.html) staat apart.
 
-Zo werkt ze: je hoort vooraf wat een afspraak inhoudt. Eén onderwerp tegelijk. Een pauze is een gewone keuze. Partner of een andere naaste is welkom. Ze werkt samen met de verloskundige. Medische beslissingen blijven bij de verloskundige of de arts.
+### Zo werk ik
 
-Kennismaking: https://www.adhdoula.nl/kennismaking.html
+- Je hoort vooraf wat een afspraak inhoudt.
+- We doen één onderwerp tegelijk.
+- Een pauze is een gewone keuze.
+- Je partner of een andere naaste is welkom.
+- Ik werk samen met je verloskundige. Medische beslissingen blijven bij de verloskundige of de arts.
+
+## Online
+
+ADHDOULA staat op [Facebook](https://www.facebook.com/p/ADHDoula-61594809255128/) en op [Instagram](https://www.instagram.com/adhdoula_/) (@adhdoula_).
+
+## De eerste stap
+
+We beginnen met een kennismaking. Daarin bespreken we wat je zoekt, hoe je dagen eruitzien, en of mijn manier van begeleiden past.
+
+[Kennismaking](https://www.adhdoula.nl/kennismaking.html)

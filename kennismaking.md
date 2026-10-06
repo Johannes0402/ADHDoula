@@ -1,34 +1,43 @@
 # Kennismaken met Kayleigh
 
-> ADHDOULA begint met een gesprek. Jullie kijken of het klikt. In dit gesprek leg je nog niets vast.
+> ADHDOULA begint met een gesprek. We kijken of het klikt. Je legt in dit gesprek nog niets vast.
 
 - URL: https://www.adhdoula.nl/kennismaking.html
 - Language: nl
 - Markdown: https://www.adhdoula.nl/kennismaking.md
 
-## Wat het gesprek dekt
+## Wat we in dat gesprek doen
 
-Wat je zoekt: geboorte, postpartum, of allebei. En wat je vooral nodig hebt: rust, uitleg, of iemand die blijft.
+Eén onderwerp tegelijk. Je mag pauze vragen.
 
-Jouw dagen: uitgerekende datum, waar je woont, en hoe een afspraak haalbaar is.
+### Wat je zoekt
 
-Of het past: Kayleigh zegt of ze ruimte heeft. Jij zegt of haar manier van werken past. Eén onderwerp tegelijk. Een pauze mag.
+Geboorte, postpartum, of allebei. En wat je vooral nodig hebt: rust, uitleg, of iemand die blijft.
+
+### Jouw dagen
+
+Uitgerekende datum, waar je woont, en hoe een afspraak voor jou haalbaar is.
+
+### Of het past
+
+Ik zeg of ik ruimte heb. Jij zegt of mijn manier van werken bij je past.
 
 ## Wat je vooraf kunt weten
 
 De prijs staat nog niet op de site. In de kennismaking hoor je het bedrag voordat je iets afspreekt.
 
-Het gesprek gaat over geboorte, postpartum of allebei, en of je binnen Tilburg en 30 kilometer woont. Daarbuiten is bespreekbaar.
+We bespreken of je [geboorte](https://www.adhdoula.nl/geboorte.html), [postpartum](https://www.adhdoula.nl/postpartum.html) of allebei zoekt, en of je binnen [Tilburg en 30 kilometer](https://www.adhdoula.nl/werkgebied.html) woont. Daarbuiten is bespreekbaar.
 
-Wel en niet: https://www.adhdoula.nl/wel-en-niet.html
-Vragen: https://www.adhdoula.nl/vragen.html
-Werkgebied: https://www.adhdoula.nl/werkgebied.html
+Lees vooraf [wat een doula wel en niet doet](https://www.adhdoula.nl/wel-en-niet.html) en de [korte vragen](https://www.adhdoula.nl/vragen.html). Wil je eerst weten wie je spreekt, lees dan [over Kayleigh](https://www.adhdoula.nl/over-mij.html).
 
 ## Bel of mail
 
-Er is geen formulier. Een agent boekt niet en stuurt geen bericht namens het gezin.
+Er is geen formulier op deze site. Je belt of mailt zelf.
 
-- Telefoon: +31 6 44 00 55 69
-- Mail: kayleigh@adhdoula.nl
+### Telefoon
 
-Over Kayleigh: https://www.adhdoula.nl/over-mij.html
+[+31 6 44 00 55 69](tel:+31644005569)
+
+### Mail
+
+[kayleigh@adhdoula.nl](mailto:kayleigh@adhdoula.nl)
