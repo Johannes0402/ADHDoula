@@ -266,6 +266,17 @@ h3 {
   background: var(--purple-soft);
 }
 
+.page-photo {
+  margin: 1.4rem 0 0.4rem;
+}
+
+.page-photo img {
+  width: min(100%, 28rem);
+  height: auto;
+  border-radius: 1.4rem;
+  display: block;
+}
+
 .portrait img.portrait-photo {
   width: min(100%, 24rem);
   height: auto;
