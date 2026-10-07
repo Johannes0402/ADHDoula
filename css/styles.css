@@ -343,6 +343,10 @@ h3 {
   margin-top: 0.95rem;
 }
 
+.hero .note {
+  margin: 0 0 1.2rem;
+}
+
 .service-postpartum {
   border-top-color: var(--purple);
 }

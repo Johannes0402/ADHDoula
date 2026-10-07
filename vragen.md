@@ -6,6 +6,10 @@
 - Language: nl
 - Markdown: https://www.adhdoula.nl/vragen.md
 
+## Wanneer start ADHDoula?
+
+Ik start op 1 december 2026. Tot die datum kun je een kennismaking plannen en informatie vragen. Begeleiding bij de bevalling, postpartum en last-minute gaat in vanaf die datum. De last-minute optie blijft bij de [tarieven](https://www.adhdoula.nl/tarieven.html) staan.
+
 ## Wat doet een doula?
 
 Een doula geeft praktische en emotionele steun rond de geboorte en in de weken erna. Ik bereid je voor, ik ben bij de bevalling, en ik kan daarna langskomen. De verloskundige blijft verantwoordelijk voor de medische zorg.

@@ -3,7 +3,7 @@
 > ADHDoula is de praktijk van Kayleigh Huijbregts, doula voor geboorte en postpartum in Tilburg en tot 30 kilometer. Daarbuiten is bespreekbaar. Ze is moeder van drie jonge kinderen. Publiek, in de ik-vorm: “Ik heb ADHD en autisme. Daarom heet de praktijk ADHDoula.” Iedereen is welkom. Een diagnose is niet nodig.
 
 Language: nl
-Aanbod: geboortebegeleiding (thuis of ziekenhuis) en postpartumbegeleiding naast de kraamzorg.
+Aanbod: geboortebegeleiding (thuis of ziekenhuis) en postpartumbegeleiding naast de kraamzorg. Start van de begeleiding: 1 december 2026. Tot die datum: kennismaking en informatie. Last-minute gaat in vanaf die datum en blijft op de tarievenpagina staan.
 Werkgebied: Tilburg en tot 30 km. Geen lijst van andere plaatsen.
 Doelgroep: gezinnen die rust en een vaste lijn willen, met en voor neurodivergente mensen, en voor iedereen.
 

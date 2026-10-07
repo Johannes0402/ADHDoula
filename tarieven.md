@@ -1,6 +1,6 @@
 # Tarieven van ADHDoula
 
-> Drie geboortepakketten. De volgorde van de punten is steeds dezelfde. Het standaardpakket is Geboorte helder. Alle bedragen zijn inclusief btw.
+> Drie geboortepakketten. De volgorde van de punten is steeds dezelfde. Het standaardpakket is Geboorte helder. Alle bedragen zijn inclusief btw. De begeleiding start op 1 december 2026. Een kennismaking kan nu al.
 
 - URL: https://www.adhdoula.nl/tarieven.html
 - Language: nl
@@ -224,7 +224,7 @@ Je betaalt de helft als we de afspraak maken, en de helft rond week 36.
 
 Reiskosten binnen [Tilburg en 30 kilometer](https://www.adhdoula.nl/werkgebied.html) zitten in de prijs. Daarbuiten reken ik € 0,25 per kilometer. Parkeerkosten bij het ziekenhuis reken ik apart.
 
-Last-minute kan vanaf week 37, en alleen als mijn agenda het toelaat. Dat kost € 1.200. Er is dan één voorbereidingssessie, als dat nog kan. Er zitten 12 uur bij de bevalling in, daarna € 75 per uur.
+Last-minute blijft beschikbaar. Die optie gaat in vanaf 1 december 2026, vanaf week 37, en alleen als mijn agenda het toelaat. Dat kost € 1.200. Er is dan één voorbereidingssessie, als dat nog kan. Er zitten 12 uur bij de bevalling in, daarna € 75 per uur.
 
 ## Vergoeding
 

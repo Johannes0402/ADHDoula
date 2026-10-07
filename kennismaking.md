@@ -1,6 +1,6 @@
 # Kennismaken met Kayleigh
 
-> ADHDoula begint met een gesprek. We kijken of het klikt. Je legt in dit gesprek nog niets vast.
+> ADHDoula begint met een gesprek. We kijken of het klikt. Je legt in dit gesprek nog niets vast. Een kennismaking kan nu al. De begeleiding zelf start op 1 december 2026.
 
 - URL: https://www.adhdoula.nl/kennismaking.html
 - Language: nl

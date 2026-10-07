@@ -1,6 +1,6 @@
 # Postpartum doula in Tilburg en tot 30 kilometer
 
-> Ik ben Kayleigh Huijbregts van ADHDoula. Na de kraamweek blijf ik beschikbaar voor steun in huis, naast de kraamzorg. Dit heet ook wel kraamdoula.
+> Ik ben Kayleigh Huijbregts van ADHDoula. Na de kraamweek blijf ik beschikbaar voor steun in huis, naast de kraamzorg. Dit heet ook wel kraamdoula. Deze begeleiding start op 1 december 2026. Een kennismaking kan nu al.
 
 - URL: https://www.adhdoula.nl/postpartum.html
 - Language: nl

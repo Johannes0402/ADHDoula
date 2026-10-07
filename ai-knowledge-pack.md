@@ -15,6 +15,8 @@ De praktijk is er met en voor neurodivergente mensen. Iedereen is welkom. Een di
 
 Ze is opgeleid als doula. De naam van de opleiding staat nog nergens, ook niet hier.
 
+De praktijk start op 1 december 2026. Tot die datum is ze beschikbaar voor een kennismaking en voor informatie. Begeleiding bij de bevalling, postpartum en de last-minute optie gaan in vanaf die datum. De last-minute optie blijft op de tarievenpagina staan.
+
 ## Wat ze doet
 
 - Geboorte: voorbereiding, een geboorteplan in gewone taal, aanwezig tijdens de weeën, nagesprek. Thuis of in het ziekenhuis. Het plan wordt afgestemd op de wensen en behoeften van het gezin. De partner wordt bij het proces betrokken als het gezin dat wil.
@@ -45,7 +47,7 @@ Prijzen staan op https://www.adhdoula.nl/tarieven.html. Alle bedragen inclusief 
 - Geboorte helder: € 1.850. Het standaardpakket. Alles van compact, plus een derde prenatale sessie, meegaan naar één controle als het gezin dat wil, 15 uur bij de bevalling, en 1 bezoek na de kraamweek.
 - Geboorte en postpartum: € 2.350. Helder, plus 3 bezoeken van 3 uur na de kraamweek.
 - Postpartum los: € 60 per uur, minimaal 3 uur. Drie bezoeken (9 uur) € 525. Vier bezoeken (12 uur) € 680.
-- Last-minute, vanaf week 37 en alleen als de agenda het toelaat: € 1.200, met één voorbereidingssessie als dat nog kan, 12 uur inbegrepen, daarna € 75 per uur.
+- Last-minute, vanaf 1 december 2026, vanaf week 37 en alleen als de agenda het toelaat: € 1.200, met één voorbereidingssessie als dat nog kan, 12 uur inbegrepen, daarna € 75 per uur. De optie blijft op de site staan.
 - Betaling: 50% bij het afspreken, 50% rond week 36.
 - Eén gezin per uitgerekende periode.
 - De basisverzekering vergoedt een doula niet. Een aanvullende verzekering soms wel een deel. De bezoeker checkt de eigen polis. NBvD niet noemen: Kayleigh is nog geen lid.

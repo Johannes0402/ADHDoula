@@ -1,6 +1,6 @@
 # Geboortedoula in Tilburg en tot 30 kilometer
 
-> Ik ben Kayleigh Huijbregts van ADHDoula. Ik begeleid je voor de bevalling, ik ben er tijdens de weeën, thuis of in het ziekenhuis, en we sluiten af met een nagesprek.
+> Ik ben Kayleigh Huijbregts van ADHDoula. Ik begeleid je voor de bevalling, ik ben er tijdens de weeën, thuis of in het ziekenhuis, en we sluiten af met een nagesprek. Deze begeleiding start op 1 december 2026. Een kennismaking kan nu al.
 
 - URL: https://www.adhdoula.nl/geboorte.html
 - Language: nl
