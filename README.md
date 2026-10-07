@@ -23,12 +23,25 @@ Elke HTML-pagina heeft een markdown-spiegel met hetzelfde pad plus `.md` (home: 
 python3 scripts/generate_llm.py
 ```
 
-Na een HTML-wijziging draai je dat commando en zet je de uitvoer mee in git. `python3 scripts/generate_llm.py --check` stopt met een fout als de uitvoer achterloopt. In deze repo weigert de pre-commit hook zo'n commit zodra `git config core.hooksPath scripts/git-hooks` gezet is. `ai-knowledge-pack.md` blijft met de hand: de generator eist dat de profiel-URL's van Over mij daar ook in staan. `scripts/` staat in `robots.txt` op Disallow.
+Na een HTML-wijziging draai je dat commando en zet je de uitvoer mee in git. `python3 scripts/generate_llm.py --check` stopt met een fout als de uitvoer achterloopt. `ai-knowledge-pack.md` blijft met de hand: de generator eist dat de profiel-URL's van Over mij daar ook in staan. `scripts/` staat in `robots.txt` op Disallow.
 
-Lokaal bekijken, alleen vanuit deze map:
+### Pre-commit hook (eenmalig per clone)
+
+De hook in `scripts/git-hooks/pre-commit` draait `python3 scripts/generate_llm.py --check` vóór elke commit. Git gebruikt die map pas nadat je dit één keer in de clone zet:
 
 ```bash
-cd /Users/johannesaloijsius/websites/doula-test
+git config core.hooksPath scripts/git-hooks
+```
+
+Of: `./scripts/enable-hooks.sh`. Zonder die stap geldt de hook niet. Dat is bewust: zo wordt een gewone clone niet verrast.
+
+### Lokaal bekijken
+
+Vanuit de root van je clone (het pad hieronder is alleen een voorbeeld op de machine van Johannes):
+
+```bash
+# Voorbeeld op de machine van Johannes:
+# cd /Users/johannesaloijsius/websites/doula-test
 python3 -m http.server 8765 --bind 127.0.0.1
 ```
 
@@ -59,6 +72,7 @@ Huiskleuren in Johannes' woorden: **appeltjesgroen** en **blauw-paars**. Crème 
 | `--apple-mid` | `#d5eea4` | Iets sterkere groene band |
 | `--purple` | `#4e3a78` | Blauw-paars, knoppen |
 | `--purple-soft` | `#ede4f8` | Zachte paarse band |
+| `--line` | `#e6dccb` | Lichte lijn, randen |
 
 Lopende tekst blijft donker op crème. Knoptekst is wit op paars. De bovenste streep is half appeltjesgroen, half blauw-paars. Geen nieuwe kleuren, geen carrousel, geen autoplay, geen pop-up.
 
@@ -74,7 +88,7 @@ Lopende tekst blijft donker op crème. Knoptekst is wit op paars. De bovenste st
 - Geen opleidingsnaam, school of certificaat tot de letterlijke naam is aangeleverd.
 - Geen NBvD, AGB of ander keurmerk. Kayleigh is nog geen NBvD-lid. Prijzen staan op `tarieven.html`. Verzin geen andere bedragen.
 - Geen lijst van dorpen of steden rond Tilburg. Het werkgebied is Tilburg en tot 30 km. Daarbuiten is bespreekbaar in de kennismaking.
-- Geen portret. Er is alleen het logo.
+- Geen nieuw portret verzinnen. Op Over mij staat al `assets/kayleigh.jpg`. Vervang die foto niet en voeg geen tweede portret toe. Het logo blijft `assets/logo.png`.
 - Geen medische zorg, geen belofte over hoe een bevalling loopt, geen geboorteverslag.
 - Cochrane 2017 alleen zoals op `wel-en-niet.html`, met bron, en niet als garantie.
 - Bevalling: thuis én ziekenhuis.
@@ -89,4 +103,4 @@ Lopende tekst blijft donker op crème. Knoptekst is wit op paars. De bovenste st
 
 ## Nog niet ingevuld
 
-Opleidingsnaam en een portretfoto. NBvD niet noemen tot ze lid is.
+Opleidingsnaam. NBvD niet noemen tot ze lid is. Het portret op Over mij (`assets/kayleigh.jpg`) staat er al.

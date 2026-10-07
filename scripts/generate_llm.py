@@ -248,14 +248,19 @@ def page_markdown(filename: str, html: str) -> str:
 
 def profiles(html: str) -> list[tuple[str, str]]:
     found: list[tuple[str, str]] = []
+    seen: set[str] = set()
     for href, label in re.findall(
         r'<a[^>]*rel="me"[^>]*href="([^"]+)"[^>]*>(.*?)</a>',
         html,
         flags=re.I | re.S,
     ):
+        href = href.strip()
         clean = re.sub(r"<[^>]+>", "", label)
         clean = collapse(clean).strip()
-        found.append((clean or href, href.strip()))
+        if href in seen:
+            continue
+        seen.add(href)
+        found.append((clean or href, href))
     if not found:
         raise SystemExit("over-mij.html: geen profiel-link met rel=me")
     pack = KNOWLEDGE.read_text(encoding="utf-8")
