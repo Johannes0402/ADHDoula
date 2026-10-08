@@ -8,7 +8,9 @@
 
 ## Wanneer start ADHDoula?
 
-Ik start op 1 december 2026. Tot die datum kun je een kennismaking plannen en informatie vragen. Begeleiding bij de bevalling, postpartum en last-minute gaat in vanaf die datum. De last-minute optie blijft bij de [tarieven](https://www.adhdoula.nl/tarieven.html) staan.
+Ik start op 1 december 2026. Tot die datum kun je een kennismaking plannen en informatie vragen. Begeleiding bij de bevalling, postpartum en last-minute gaat in vanaf die datum.
+
+De last-minute optie blijft bij de [tarieven](https://www.adhdoula.nl/tarieven.html) staan.
 
 ## Wat doet een doula?
 
@@ -20,11 +22,17 @@ Eerst een afspraak met de verloskundige of de huisarts. Daarna mag je drie gedac
 
 ## Wat doe je niet?
 
-Ik doe geen medische handelingen en ik beslis niet over ingrepen. Ik vervang de verloskundige, de gynaecoloog en de kraamzorg niet. [De volledige grens staat op een eigen pagina.](https://www.adhdoula.nl/wel-en-niet.html)
+Ik doe geen medische handelingen, beslis niet over ingrepen, en vervang de verloskundige, de gynaecoloog of de kraamzorg niet.
+
+[De volledige grens staat op een eigen pagina.](https://www.adhdoula.nl/wel-en-niet.html)
 
 ## Voor wie is ADHDoula?
 
-De praktijk is er met en voor neurodivergente mensen. Ik heb zelf ADHD en autisme. Iedereen is welkom. Je hoeft geen diagnose te hebben. [Meer over mij.](https://www.adhdoula.nl/over-mij.html)
+Ik heb ADHD en autisme. Daarom heet de praktijk ADHDoula.
+
+ADHDoula is er met en voor neurodivergente mensen. Ik heb zelf ADHD en autisme. Iedereen is welkom. Een diagnose is niet nodig.
+
+[Meer over mij.](https://www.adhdoula.nl/over-mij.html)
 
 ## Werk je thuis en in het ziekenhuis?
 

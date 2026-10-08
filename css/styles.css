@@ -781,3 +781,32 @@ button.button {
     scroll-behavior: auto;
   }
 }
+
+.cite-block {
+  margin: 1.25rem 0;
+  padding: 0 0 0 1rem;
+  border-left: 3px solid var(--apple);
+  font-style: normal;
+  color: var(--ink);
+}
+
+.cite-block p {
+  margin: 0;
+}
+
+.cite-block footer {
+  margin: 0;
+}
+
+.cite-block cite {
+  display: block;
+  margin-top: 0.5rem;
+  font-size: 0.9em;
+  font-style: normal;
+  color: var(--ink-soft);
+  opacity: 0.85;
+}
+
+.prose .cite-block {
+  max-width: var(--content);
+}

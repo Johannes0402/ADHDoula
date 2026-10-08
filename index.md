@@ -6,13 +6,13 @@
 - Language: nl
 - Markdown: https://www.adhdoula.nl/index.md
 
+[Kennismaking](https://www.adhdoula.nl/kennismaking.html)
+
 ## Start op 1 december 2026
 
-Tot die datum ben ik beschikbaar voor een kennismaking en voor informatie.
+Ik start op 1 december 2026. Tot die datum kun je een kennismaking plannen en informatie vragen. Begeleiding bij de bevalling, postpartum en last-minute gaat in vanaf die datum.
 
-Begeleiding bij de bevalling en na de kraamweek begint op die datum. Last-minute kan ook pas daarna. Die optie blijft bij de [tarieven](https://www.adhdoula.nl/tarieven.html) staan.
-
-[Kennismaking](https://www.adhdoula.nl/kennismaking.html)
+De last-minute optie blijft bij de [tarieven](https://www.adhdoula.nl/tarieven.html) staan.
 
 ## Wat je van mij kunt verwachten
 
@@ -29,6 +29,8 @@ We doen één onderwerp tegelijk. Wat we afspreken, kun je later nog eens naleze
 ### Naast de zorg die er al is
 
 Ik werk samen met je verloskundige en de kraamzorg. Medische beslissingen blijven bij hen. [Wat ik wel en niet doe](https://www.adhdoula.nl/wel-en-niet.html) staat apart.
+
+Ik blijf bij je, met korte stappen en afspraken die blijven staan.
 
 ## Geboorte en postpartum
 

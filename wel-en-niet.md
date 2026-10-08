@@ -1,10 +1,12 @@
 # Wat een doula wel en niet doet
 
-> ADHDoula is de praktijk van [Kayleigh Huijbregts](https://www.adhdoula.nl/over-mij.html). Ik geef steun. De medische zorg blijft bij de verloskundige of de arts.
+> ADHDoula is de praktijk van [Kayleigh Huijbregts](https://www.adhdoula.nl/over-mij.html).
 
 - URL: https://www.adhdoula.nl/wel-en-niet.html
 - Language: nl
 - Markdown: https://www.adhdoula.nl/wel-en-niet.md
+
+Ik geef steun. De medische zorg blijft bij de verloskundige of de arts.
 
 ## Wat een doula is
 
@@ -26,6 +28,8 @@ De steun bij de bevalling, thuis of in het ziekenhuis, staat op [geboorte](https
 - Samenwerken met je verloskundige en de kraamzorg
 
 ## Dit doe ik niet
+
+Ik doe geen medische handelingen, beslis niet over ingrepen, en vervang de verloskundige, de gynaecoloog of de kraamzorg niet.
 
 - Medische handelingen of onderzoek
 - Beslissen over inleiden, pijnstilling of een keizersnede
