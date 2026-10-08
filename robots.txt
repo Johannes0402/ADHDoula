@@ -3,3 +3,8 @@ Allow: /
 Disallow: /scripts/
 
 Sitemap: https://www.adhdoula.nl/sitemap.xml
+
+# AI discovery (llmstxt.org)
+# https://www.adhdoula.nl/llms.txt
+# https://www.adhdoula.nl/llms-full.txt
+# https://www.adhdoula.nl/ai-knowledge-pack.md
