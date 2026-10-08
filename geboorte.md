@@ -28,7 +28,7 @@ We hebben een nagesprek. Je kunt vertellen hoe het was, in jouw tempo.
 
 Voor gezinnen die rust en een vaste lijn willen rond de geboorte. ADHDoula is er met en voor neurodivergente mensen. Iedereen is welkom. [Ik ben Kayleigh Huijbregts.](https://www.adhdoula.nl/over-mij.html)
 
-Je partner of een andere naaste mag erbij zijn. Een pauze is een gewone keuze.
+We doen één onderwerp tegelijk; een pauze is een gewone keuze, en je partner of een andere naaste is welkom.
 
 ## Thuis of in het ziekenhuis
 

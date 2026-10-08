@@ -8,7 +8,9 @@
 
 ## Waarom ADHDoula
 
-Ik heb ADHD en autisme. Daarom heet de praktijk ADHDoula. Ik bouw begeleiding zoals ik zelf graag geholpen word: gewone woorden, een vaste volgorde, en afspraken die blijven staan.
+Ik heb ADHD en autisme. Daarom heet de praktijk ADHDoula.
+
+Ik bouw begeleiding zoals ik zelf graag geholpen word: gewone woorden, een vaste volgorde, en afspraken die blijven staan.
 
 Die duidelijkheid is er voor neurodivergente gezinnen. Ze is er ook als je gewoon iemand zoekt die rust brengt bij de geboorte of in de weken daarna.
 
@@ -25,6 +27,8 @@ Ik ben opgeleid voor begeleiding bij de geboorte en in de postpartum periode. Ik
 De begeleiding zelf staat op [geboorte](https://www.adhdoula.nl/geboorte.html) en [postpartum](https://www.adhdoula.nl/postpartum.html). [Wat ik wel en niet doe](https://www.adhdoula.nl/wel-en-niet.html) staat apart.
 
 ### Zo werk ik
+
+We doen één onderwerp tegelijk; een pauze is een gewone keuze, en je partner of een andere naaste is welkom.
 
 - Je hoort vooraf wat een afspraak inhoudt.
 - We doen één onderwerp tegelijk.

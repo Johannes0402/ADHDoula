@@ -95,13 +95,13 @@ Er is één formulier op de kennismaking. Berichten gaan naar kayleigh@adhdoula.
 - Language: nl
 - Markdown: https://www.adhdoula.nl/index.md
 
+[Kennismaking](https://www.adhdoula.nl/kennismaking.html)
+
 ## Start op 1 december 2026
 
-Tot die datum ben ik beschikbaar voor een kennismaking en voor informatie.
+Ik start op 1 december 2026. Tot die datum kun je een kennismaking plannen en informatie vragen. Begeleiding bij de bevalling, postpartum en last-minute gaat in vanaf die datum.
 
-Begeleiding bij de bevalling en na de kraamweek begint op die datum. Last-minute kan ook pas daarna. Die optie blijft bij de [tarieven](https://www.adhdoula.nl/tarieven.html) staan.
-
-[Kennismaking](https://www.adhdoula.nl/kennismaking.html)
+De last-minute optie blijft bij de [tarieven](https://www.adhdoula.nl/tarieven.html) staan.
 
 ## Wat je van mij kunt verwachten
 
@@ -118,6 +118,8 @@ We doen één onderwerp tegelijk. Wat we afspreken, kun je later nog eens naleze
 ### Naast de zorg die er al is
 
 Ik werk samen met je verloskundige en de kraamzorg. Medische beslissingen blijven bij hen. [Wat ik wel en niet doe](https://www.adhdoula.nl/wel-en-niet.html) staat apart.
+
+Ik blijf bij je, met korte stappen en afspraken die blijven staan.
 
 ## Geboorte en postpartum
 
@@ -196,7 +198,7 @@ We hebben een nagesprek. Je kunt vertellen hoe het was, in jouw tempo.
 
 Voor gezinnen die rust en een vaste lijn willen rond de geboorte. ADHDoula is er met en voor neurodivergente mensen. Iedereen is welkom. [Ik ben Kayleigh Huijbregts.](https://www.adhdoula.nl/over-mij.html)
 
-Je partner of een andere naaste mag erbij zijn. Een pauze is een gewone keuze.
+We doen één onderwerp tegelijk; een pauze is een gewone keuze, en je partner of een andere naaste is welkom.
 
 ## Thuis of in het ziekenhuis
 
@@ -327,7 +329,9 @@ Ik kom bij je langs in [Tilburg en tot 30 kilometer](https://www.adhdoula.nl/wer
 
 ## Waarom ADHDoula
 
-Ik heb ADHD en autisme. Daarom heet de praktijk ADHDoula. Ik bouw begeleiding zoals ik zelf graag geholpen word: gewone woorden, een vaste volgorde, en afspraken die blijven staan.
+Ik heb ADHD en autisme. Daarom heet de praktijk ADHDoula.
+
+Ik bouw begeleiding zoals ik zelf graag geholpen word: gewone woorden, een vaste volgorde, en afspraken die blijven staan.
 
 Die duidelijkheid is er voor neurodivergente gezinnen. Ze is er ook als je gewoon iemand zoekt die rust brengt bij de geboorte of in de weken daarna.
 
@@ -344,6 +348,8 @@ Ik ben opgeleid voor begeleiding bij de geboorte en in de postpartum periode. Ik
 De begeleiding zelf staat op [geboorte](https://www.adhdoula.nl/geboorte.html) en [postpartum](https://www.adhdoula.nl/postpartum.html). [Wat ik wel en niet doe](https://www.adhdoula.nl/wel-en-niet.html) staat apart.
 
 ### Zo werk ik
+
+We doen één onderwerp tegelijk; een pauze is een gewone keuze, en je partner of een andere naaste is welkom.
 
 - Je hoort vooraf wat een afspraak inhoudt.
 - We doen één onderwerp tegelijk.
@@ -366,11 +372,13 @@ We beginnen met een kennismaking. Daarin bespreken we wat je zoekt, hoe je dagen
 
 # Wat een doula wel en niet doet
 
-> ADHDoula is de praktijk van [Kayleigh Huijbregts](https://www.adhdoula.nl/over-mij.html). Ik geef steun. De medische zorg blijft bij de verloskundige of de arts.
+> ADHDoula is de praktijk van [Kayleigh Huijbregts](https://www.adhdoula.nl/over-mij.html).
 
 - URL: https://www.adhdoula.nl/wel-en-niet.html
 - Language: nl
 - Markdown: https://www.adhdoula.nl/wel-en-niet.md
+
+Ik geef steun. De medische zorg blijft bij de verloskundige of de arts.
 
 ## Wat een doula is
 
@@ -392,6 +400,8 @@ De steun bij de bevalling, thuis of in het ziekenhuis, staat op [geboorte](https
 - Samenwerken met je verloskundige en de kraamzorg
 
 ## Dit doe ik niet
+
+Ik doe geen medische handelingen, beslis niet over ingrepen, en vervang de verloskundige, de gynaecoloog of de kraamzorg niet.
 
 - Medische handelingen of onderzoek
 - Beslissen over inleiden, pijnstilling of een keizersnede
@@ -417,15 +427,21 @@ Dat is precies waar de kennismaking voor is. Je legt nog niets vast.
 
 # Doula in Tilburg en tot 30 kilometer
 
-> ADHDoula is de praktijk van Kayleigh Huijbregts. Ik begeleid geboorte en postpartum in Tilburg en tot 30 kilometer daaromheen. Daarbuiten is bespreekbaar.
+> ADHDoula is de praktijk van Kayleigh Huijbregts.
 
 - URL: https://www.adhdoula.nl/werkgebied.html
 - Language: nl
 - Markdown: https://www.adhdoula.nl/werkgebied.md
 
+Ik begeleid geboorte en postpartum in Tilburg en tot 30 kilometer daaromheen. Daarbuiten is bespreekbaar.
+
 ## Waar ik werk
 
-Mijn basis is Tilburg. Ik kom bij gezinnen in de stad en tot 30 kilometer daaromheen. We kijken naar de afstand vanaf Tilburg, niet naar een vaste lijst van plaatsen. In de [kennismaking](https://www.adhdoula.nl/kennismaking.html) kijken we naar jouw adres en of de reistijd past.
+Mijn basis is Tilburg. Ik kom bij gezinnen in de stad en tot 30 kilometer daaromheen.
+
+We kijken naar de afstand vanaf Tilburg, niet naar een vaste lijst van plaatsen.
+
+In de [kennismaking](https://www.adhdoula.nl/kennismaking.html) kijken we naar jouw adres en of de reistijd past.
 
 Woon je daarbuiten, dan is het bespreekbaar. Ik zeg in dat gesprek of ik ruimte en reistijd heb. Een plek buiten de 30 kilometer is geen automatische ja.
 
@@ -450,7 +466,9 @@ De verloskundige blijft verantwoordelijk voor de medische zorg. [Wat ik wel en n
 
 ## Wanneer start ADHDoula?
 
-Ik start op 1 december 2026. Tot die datum kun je een kennismaking plannen en informatie vragen. Begeleiding bij de bevalling, postpartum en last-minute gaat in vanaf die datum. De last-minute optie blijft bij de [tarieven](https://www.adhdoula.nl/tarieven.html) staan.
+Ik start op 1 december 2026. Tot die datum kun je een kennismaking plannen en informatie vragen. Begeleiding bij de bevalling, postpartum en last-minute gaat in vanaf die datum.
+
+De last-minute optie blijft bij de [tarieven](https://www.adhdoula.nl/tarieven.html) staan.
 
 ## Wat doet een doula?
 
@@ -462,11 +480,17 @@ Eerst een afspraak met de verloskundige of de huisarts. Daarna mag je drie gedac
 
 ## Wat doe je niet?
 
-Ik doe geen medische handelingen en ik beslis niet over ingrepen. Ik vervang de verloskundige, de gynaecoloog en de kraamzorg niet. [De volledige grens staat op een eigen pagina.](https://www.adhdoula.nl/wel-en-niet.html)
+Ik doe geen medische handelingen, beslis niet over ingrepen, en vervang de verloskundige, de gynaecoloog of de kraamzorg niet.
+
+[De volledige grens staat op een eigen pagina.](https://www.adhdoula.nl/wel-en-niet.html)
 
 ## Voor wie is ADHDoula?
 
-De praktijk is er met en voor neurodivergente mensen. Ik heb zelf ADHD en autisme. Iedereen is welkom. Je hoeft geen diagnose te hebben. [Meer over mij.](https://www.adhdoula.nl/over-mij.html)
+Ik heb ADHD en autisme. Daarom heet de praktijk ADHDoula.
+
+ADHDoula is er met en voor neurodivergente mensen. Ik heb zelf ADHD en autisme. Iedereen is welkom. Een diagnose is niet nodig.
+
+[Meer over mij.](https://www.adhdoula.nl/over-mij.html)
 
 ## Werk je thuis en in het ziekenhuis?
 
