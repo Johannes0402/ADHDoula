@@ -12,7 +12,7 @@ Staat er “Niet in dit pakket”, dan zit dat punt er niet in. Je hoeft niet te
 
 ### Geboorte compact
 
-€ 1.550
+€ 1.250
 
 Inclusief btw
 
@@ -72,9 +72,9 @@ Standaardpakket
 
 ### Geboorte helder
 
-€ 1.850
+€ 1.550
 
-Inclusief btw. Startprijs voor de eerste drie gezinnen: € 1.350
+Inclusief btw. Startprijs voor de eerste drie gezinnen: € 1.050
 
 Voor wie
 
@@ -130,7 +130,7 @@ Na de kraamweek
 
 ### Geboorte en postpartum
 
-€ 2.350
+€ 2.050
 
 Inclusief btw
 
@@ -238,7 +238,7 @@ Na de kraamweek
 
 De kennismaking is gratis. Je legt daar nog niets vast. We kijken of het klikt, wat je nodig hebt, en of ik ruimte heb.
 
-Voor de eerste drie gezinnen die Geboorte helder afspreken, is de prijs € 1.350. Daarna is het € 1.850. Het pakket is hetzelfde. Geen haast. De kennismaking blijft gratis.
+Voor de eerste drie gezinnen die Geboorte helder afspreken, is de prijs € 1.050. Daarna is het € 1.550. Het pakket is hetzelfde. Geen haast. De kennismaking blijft gratis.
 
 In de zwangerschap is er tijd voor gesprekken. We kijken samen hoe we die verdelen. Een paar langere gesprekken mag. Meer korte gesprekken van 45 tot 60 minuten mag ook. Een lang gesprek is niet nodig.
 
@@ -264,7 +264,7 @@ Of in twee termijnen. De eerste voor de eerste afspraak, na de kennismaking. De 
 
 Reiskosten binnen [Tilburg en 30 kilometer](https://www.adhdoula.nl/werkgebied.html) zitten in de prijs. Daarbuiten reken ik € 0,25 per kilometer. Parkeerkosten bij het ziekenhuis reken ik apart.
 
-Last-minute blijft beschikbaar. Die optie gaat in vanaf 1 december 2026, vanaf week 37, en alleen als mijn agenda het toelaat. Dat kost € 1.200. Er is dan één voorbereidingssessie, als dat nog kan.
+Last-minute blijft beschikbaar. Die optie gaat in vanaf 1 december 2026, vanaf week 37, en alleen als mijn agenda het toelaat. Dat kost € 900. Er is dan één voorbereidingssessie, als dat nog kan.
 
 ## Vergoeding
 

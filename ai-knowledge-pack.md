@@ -43,11 +43,11 @@ Tilburg en tot 30 kilometer daaromheen. Daarbuiten is bespreekbaar in de kennism
 
 Prijzen staan op https://www.adhdoula.nl/tarieven.html. Alle bedragen inclusief 21% btw. Reiskosten binnen 30 km zitten erin. Daarbuiten € 0,25 per km. Parkeerkosten bij het ziekenhuis apart.
 
-- Geboorte compact: € 1.550. Gratis kennismaking, ongeveer 6 uur aan gesprekken tijdens de zwangerschap, samen verdeeld. Continu WhatsApp, telefonisch als het gezin dat wil. Continu bij de bevalling, zonder klok of extra uurprijs. Twee bezoeken erna: één in de eerste week, één na 6 weken. Cordring via Kayleigh als het gezin dat wil: https://dalalounatuurlijk.nl/product/cordring/ TENS inclusief plakkers à € 18, foto's als het gezin dat wil, on-call van week 37 tot en met week 42.
-- Geboorte helder: € 1.850. Het standaardpakket. Startprijs voor de eerste drie gezinnen die dit pakket afspreken: € 1.350. Daarna € 1.850. Ongeveer 8 uur aan gesprekken tijdens de zwangerschap. Meegaan naar één controle als het gezin dat wil, en 1 extra bezoek na de kraamweek. Verder als compact.
-- Geboorte en postpartum: € 2.350. Helder, plus 3 bezoeken van 3 uur na de kraamweek.
+- Geboorte compact: € 1.250. Gratis kennismaking, ongeveer 6 uur aan gesprekken tijdens de zwangerschap, samen verdeeld. Continu WhatsApp, telefonisch als het gezin dat wil. Continu bij de bevalling, zonder klok of extra uurprijs. Twee bezoeken erna: één in de eerste week, één na 6 weken. Cordring via Kayleigh als het gezin dat wil: https://dalalounatuurlijk.nl/product/cordring/ TENS inclusief plakkers à € 18, foto's als het gezin dat wil, on-call van week 37 tot en met week 42.
+- Geboorte helder: € 1.550. Het standaardpakket. Startprijs voor de eerste drie gezinnen die dit pakket afspreken: € 1.050. Daarna € 1.550. Ongeveer 8 uur aan gesprekken tijdens de zwangerschap. Meegaan naar één controle als het gezin dat wil, en 1 extra bezoek na de kraamweek. Verder als compact.
+- Geboorte en postpartum: € 2.050. Helder, plus 3 bezoeken van 3 uur na de kraamweek.
 - Postpartum los: € 60 per uur, minimaal 3 uur. Drie bezoeken (9 uur) € 525. Vier bezoeken (12 uur) € 680.
-- Last-minute, vanaf 1 december 2026, vanaf week 37 en alleen als de agenda het toelaat: € 1.200, met één voorbereidingssessie als dat nog kan. Geen klok en geen extra uurprijs bij de bevalling. De optie blijft op de site staan.
+- Last-minute, vanaf 1 december 2026, vanaf week 37 en alleen als de agenda het toelaat: € 900, met één voorbereidingssessie als dat nog kan. Geen klok en geen extra uurprijs bij de bevalling. De optie blijft op de site staan.
 - Betaling op de site: het hele bedrag in één keer bij het afspreken, of twee termijnen. Eerste termijn voor de eerste afspraak na de kennismaking. Tweede termijn voor week 37. Een derde termijn, voor 6 weken na de bevalling, staat niet op de site. Die mag Kayleigh in de kennismaking noemen als de eerste twee echt niet lukken.
 - Appen mag altijd. Kayleigh reageert wanneer ze tijd heeft. Op wacht reageert ze meteen als ze het ziet. Als ze moet komen, bellen. Dat bespreekt ze in een voorbereidend gesprek.
 - Eén gezin per uitgerekende periode.
