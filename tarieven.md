@@ -64,10 +64,6 @@ Cordring
 
 Als je dat wilt, via mij. [Zo ziet die eruit](https://dalalounatuurlijk.nl/product/cordring/)
 
-Nagesprek
-
-1 gesprek, in jouw tempo
-
 Na de kraamweek
 
 Niet extra in dit pakket
@@ -128,10 +124,6 @@ Cordring
 
 Als je dat wilt, via mij. [Zo ziet die eruit](https://dalalounatuurlijk.nl/product/cordring/)
 
-Nagesprek
-
-1 gesprek, in jouw tempo
-
 Na de kraamweek
 
 1 bezoek
@@ -189,10 +181,6 @@ Na de bevalling
 Cordring
 
 Als je dat wilt, via mij. [Zo ziet die eruit](https://dalalounatuurlijk.nl/product/cordring/)
-
-Nagesprek
-
-1 gesprek, in jouw tempo
 
 Na de kraamweek
 
