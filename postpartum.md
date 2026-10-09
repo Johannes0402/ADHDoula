@@ -28,7 +28,9 @@ Je weet wanneer ik kom. We doen één onderwerp tegelijk, en een pauze mag.
 
 Ik kom naar je toe. We kijken eerst hoe de dag is. Dan doen we één ding. Een pauze mag.
 
-Dat kan een luisterend oor zijn. Het kan ook praktisch zijn: overzicht maken, een lijstje, of even de lijn vasthouden als het huis vol is. Jij zegt wat eerst mag. Ik plak mijn lijst niet op jouw dag.
+We bespreken samen wat voor jullie fijn is. Dat is niet vast. Het kan praten zijn. Het kan ook praktisch zijn: eten opwarmen, de andere kinderen of de baby even vermaken zodat mama of papa een dutje kan doen, de wc een keertje extra doen, of de hond uitlaten.
+
+Ik doe geen medische handelingen. Ik doe geen zwaar huishouden. De kraamzorg blijft de kraamzorg.
 
 Je partner mag erbij zijn, als je dat wilt. Je weet van tevoren wanneer ik kom, en hoe lang.
 
