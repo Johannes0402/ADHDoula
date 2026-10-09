@@ -42,5 +42,5 @@ Markdown-spiegels (llmstxt.org): hetzelfde pad plus `.md`. Home is `/index.md`. 
 - [Werkgebied](https://www.adhdoula.nl/werkgebied.md): Kayleigh Huijbregts van ADHDoula werkt in Tilburg en tot 30 kilometer daaromheen. Daarbuiten is bespreekbaar.
 - [Vragen](https://www.adhdoula.nl/vragen.md): Antwoorden van Kayleigh Huijbregts over doula-begeleiding in Tilburg: wat een doula doet, voor wie ADHDoula is, en hoe een kennismaking gaat.
 - [Tarieven](https://www.adhdoula.nl/tarieven.md): Geboortepakketten van € 1.250, € 1.550 en € 2.050 inclusief btw. Postpartum los vanaf € 60 per uur. Reiskosten binnen 30 km rond Tilburg zitten erin.
-- [Vrouwen die ik ken](https://www.adhdoula.nl/vrouwen-die-ik-ken.md): Kayleigh Huijbregts deelt vrouwen die zij kent: voetreflex, een zwangerschapscursus, en steun tijdens en na de zwangerschap.
+- [Tips](https://www.adhdoula.nl/tips.md): Tips van Kayleigh Huijbregts voor hulp die zij zelf niet geeft. Voetreflex, een zwangerschapscursus, en steun tijdens en na de zwangerschap. Zij heeft er zelf goede ervaring mee.
 - [Kennismaking](https://www.adhdoula.nl/kennismaking.md): Kennismaken met Kayleigh Huijbregts van ADHDoula in Tilburg. Bel of WhatsApp +31 6 44 00 55 69, of mail kayleigh@adhdoula.nl. Je legt nog niets vast.
