@@ -190,6 +190,8 @@ Na de kraamweek
 
 Dit is voor wie geen geboortepakket neemt. De steun is na de kraamweek, naast de kraamzorg. Ik neem de kraamzorg niet over.
 
+Een bezoek is steun in huis. Eerst kijken hoe de dag is. Dan één ding. Dat kan praten zijn, of praktisch: overzicht, een lijstje, de lijn vasthouden. Jij zegt wat eerst mag. [Zo ziet postpartumbegeleiding eruit.](https://www.adhdoula.nl/postpartum.html)
+
 ### Per uur
 
 € 60
