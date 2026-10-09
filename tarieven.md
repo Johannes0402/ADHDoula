@@ -228,11 +228,9 @@ Ik neem een TENS mee. Die vervangt geen beslissing over pijnstilling. Foto's maa
 
 Je kunt op twee manieren betalen. Allebei zijn er om geldstress klein te houden.
 
-Optie 1. Het hele bedrag in één keer, als we de afspraak maken. Dan hoef je er niet meer over na te denken.
+Het hele bedrag in één keer, als we de afspraak maken. Dan hoef je er niet meer over na te denken.
 
-Optie 2. In twee termijnen. De eerste voor de eerste afspraak, na de kennismaking. De tweede voor week 37.
-
-Lukt optie 1 en 2 echt niet, dan is er een derde termijn. Die betaal je voor 6 weken na de bevalling. Dat bespreken we van tevoren, niet op de dag zelf.
+Of in twee termijnen. De eerste voor de eerste afspraak, na de kennismaking. De tweede voor week 37.
 
 Reiskosten binnen [Tilburg en 30 kilometer](https://www.adhdoula.nl/werkgebied.html) zitten in de prijs. Daarbuiten reken ik € 0,25 per kilometer. Parkeerkosten bij het ziekenhuis reken ik apart.
 

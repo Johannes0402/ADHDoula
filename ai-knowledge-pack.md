@@ -48,7 +48,7 @@ Prijzen staan op https://www.adhdoula.nl/tarieven.html. Alle bedragen inclusief 
 - Geboorte en postpartum: € 2.350. Helder, plus 3 bezoeken van 3 uur na de kraamweek.
 - Postpartum los: € 60 per uur, minimaal 3 uur. Drie bezoeken (9 uur) € 525. Vier bezoeken (12 uur) € 680.
 - Last-minute, vanaf 1 december 2026, vanaf week 37 en alleen als de agenda het toelaat: € 1.200, met één voorbereidingssessie als dat nog kan. Geen klok en geen extra uurprijs bij de bevalling. De optie blijft op de site staan.
-- Betaling: het hele bedrag in één keer bij het afspreken, of twee termijnen. Eerste termijn voor de eerste afspraak na de kennismaking. Tweede termijn voor week 37. Alleen als die twee echt niet lukken: een derde termijn, te betalen voor 6 weken na de bevalling. Dat wordt van tevoren besproken.
+- Betaling op de site: het hele bedrag in één keer bij het afspreken, of twee termijnen. Eerste termijn voor de eerste afspraak na de kennismaking. Tweede termijn voor week 37. Een derde termijn, voor 6 weken na de bevalling, staat niet op de site. Die mag Kayleigh in de kennismaking noemen als de eerste twee echt niet lukken.
 - Appen mag altijd. Kayleigh reageert wanneer ze tijd heeft. Op wacht reageert ze meteen als ze het ziet. Als ze moet komen, bellen. Dat bespreekt ze in een voorbereidend gesprek.
 - Eén gezin per uitgerekende periode.
 - De basisverzekering vergoedt een doula niet. Een aanvullende verzekering soms wel een deel. De bezoeker checkt de eigen polis. NBvD niet noemen: Kayleigh is nog geen lid.
