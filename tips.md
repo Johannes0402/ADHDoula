@@ -16,9 +16,11 @@ Als je lijf zwaar voelt, en je zoekt rust in een behandeling. Praktijk Mezi zit 
 
 ## Acupunctuur
 
-Als je acupunctuur zoekt, ook bij een kinderwens of als zwanger worden niet vanzelf gaat. Naomi Welkens zit in Tilburg. Zij werkt met acupunctuur, en ook met vruchtbaarheidsmassage. Ik heb er zelf goede ervaring mee.
+Als je acupunctuur zoekt. In Tilburg zijn er twee waar ik zelf goede ervaring mee heb.
 
-[acupunctuur-tilburg.nl](https://www.acupunctuur-tilburg.nl)
+Naomi Welkens, ook bij een kinderwens of als zwanger worden niet vanzelf gaat. Zij werkt met acupunctuur, en ook met vruchtbaarheidsmassage. [acupunctuur-tilburg.nl](https://www.acupunctuur-tilburg.nl)
+
+Nikki van JUNO, ook tijdens en na de zwangerschap. [junohealthandwellness.nl](https://junohealthandwellness.nl)
 
 ## Zwangerschapscursus
 
