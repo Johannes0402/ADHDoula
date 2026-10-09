@@ -1,0 +1,2 @@
+Composio push-test — 2026-10-09.
+Dit bestand staat in scripts/ (niet in de sitemap) en mag weer weg.
