@@ -8,7 +8,7 @@
 
 ## Waarom ADHDoula
 
-Ik heb ADHD en autisme. Daarom heet de praktijk ADHDoula.
+Ik heb ADHD en autisme. Daarom ben ik de ADHDoula.
 
 Ik bouw begeleiding zoals ik zelf graag geholpen word: gewone woorden, een vaste volgorde, en afspraken die blijven staan.
 

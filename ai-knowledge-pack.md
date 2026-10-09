@@ -9,13 +9,13 @@
 
 ## Wie
 
-ADHDoula is de praktijk van Kayleigh Huijbregts, doula voor geboorte en postpartum. Ze is moeder van drie jonge kinderen. Publieke zin, in de ik-vorm: “Ik heb ADHD en autisme. Daarom heet de praktijk ADHDoula.” Eten is voor haar niet vanzelfsprekend. Dat heet ARFID. Dat staat op Over mij, niet als lijstje.
+Kayleigh Huijbregts is de ADHDoula, voor geboorte en postpartum. Ze is moeder van drie jonge kinderen. Ze komt naar mensen toe. Publieke zin, in de ik-vorm: “Ik heb ADHD en autisme. Daarom ben ik de ADHDoula.” Eten is voor haar niet vanzelfsprekend. Dat heet ARFID. Dat staat op Over mij, niet als lijstje.
 
-De praktijk is er met en voor neurodivergente mensen. Iedereen is welkom. Een diagnose is niet nodig.
+Zij is er met en voor neurodivergente mensen. Iedereen is welkom. Een diagnose is niet nodig.
 
 Ze is opgeleid als doula. De naam van de opleiding staat nog nergens, ook niet hier.
 
-De praktijk start op 1 december 2026. Tot die datum is ze beschikbaar voor een kennismaking en voor informatie. Begeleiding bij de bevalling, postpartum en de last-minute optie gaan in vanaf die datum. De last-minute optie blijft op de tarievenpagina staan.
+De begeleiding start op 1 december 2026. Tot die datum is ze beschikbaar voor een kennismaking en voor informatie. Begeleiding bij de bevalling, postpartum en de last-minute optie gaan in vanaf die datum. De last-minute optie blijft op de tarievenpagina staan.
 
 ## Wat ze doet
 

@@ -1,6 +1,6 @@
 # Vragen over een doula in Tilburg
 
-> ADHDoula is de praktijk van Kayleigh Huijbregts. Hier staan de vragen die gezinnen het eerst stellen.
+> Ik ben Kayleigh Huijbregts, de ADHDoula. Hier staan de vragen die gezinnen het eerst stellen.
 
 - URL: https://www.adhdoula.nl/vragen.html
 - Language: nl
@@ -28,7 +28,7 @@ Ik doe geen medische handelingen, beslis niet over ingrepen, en vervang de verlo
 
 ## Voor wie is ADHDoula?
 
-Ik heb ADHD en autisme. Daarom heet de praktijk ADHDoula.
+Ik heb ADHD en autisme. Daarom ben ik de ADHDoula.
 
 ADHDoula is er met en voor neurodivergente mensen. Ik heb zelf ADHD en autisme. Iedereen is welkom. Een diagnose is niet nodig.
 

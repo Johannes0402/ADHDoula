@@ -1,6 +1,6 @@
 # Wat een doula wel en niet doet
 
-> ADHDoula is de praktijk van [Kayleigh Huijbregts](https://www.adhdoula.nl/over-mij.html).
+> [Kayleigh Huijbregts](https://www.adhdoula.nl/over-mij.html) is de ADHDoula.
 
 - URL: https://www.adhdoula.nl/wel-en-niet.html
 - Language: nl

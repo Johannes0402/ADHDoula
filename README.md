@@ -1,6 +1,6 @@
 # ADHDoula
 
-Praktijkwebsite van Kayleigh Huijbregts, doula voor geboorte en postpartum. Live op [https://www.adhdoula.nl/](https://www.adhdoula.nl/). `www` is de canonieke host. Het kale domein stuurt daarheen door.
+Website van Kayleigh Huijbregts, de ADHDoula, voor geboorte en postpartum. Live op [https://www.adhdoula.nl/](https://www.adhdoula.nl/). `www` is de canonieke host. Het kale domein stuurt daarheen door.
 
 Andere agents: lees [AGENTS.md](./AGENTS.md) voordat je iets wijzigt. Dat bestand legt uit voor wie de site is, en waarom neurodivergentie de bouw stuurt. Het staat ook live op https://www.adhdoula.nl/AGENTS.md. Hieronder staan dezelfde afspraken, plus de kleuren. Citeerbare feiten staan in [ai-knowledge-pack.md](./ai-knowledge-pack.md). De korte index voor taalmodellen is [llms.txt](./llms.txt).
 
@@ -51,9 +51,9 @@ Daarna: http://127.0.0.1:8765/
 
 ### Eigenaar
 
-- Eigenaar van praktijk en website: **Kayleigh Huijbregts**. Moeder van drie jonge kinderen.
-- Praktijknaam = websitenaam: **ADHDoula**.
-- Publieke zin, ik-vorm, niet herschrijven naar een diagnose-pagina: “Ik heb ADHD en autisme. Daarom heet de praktijk ADHDoula.” Niet “klassiek autisme”.
+- Eigenaar van de website: **Kayleigh Huijbregts**. Moeder van drie jonge kinderen. Zij is de ADHDoula. Geen praktijk, geen locatie. Ze komt naar mensen toe.
+- Naam = websitenaam: **ADHDoula**.
+- Publieke zin, ik-vorm, niet herschrijven naar een diagnose-pagina: “Ik heb ADHD en autisme. Daarom ben ik de ADHDoula.” Niet “praktijk”. Niet “klassiek autisme”.
 - Iedereen is welkom. Neurodivergentie is een specialisatie, geen gesloten doelgroep. Een diagnose is niet nodig.
 - De site blijft voor Kayleigh behapbaar: weinig pagina's, dezelfde opbouw, één volgende stap (kennismaking), geen CMS. Er is één contactformulier, op de kennismaking, met vier velden en een bevestigingspagina.
 
