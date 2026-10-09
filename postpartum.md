@@ -28,7 +28,9 @@ Je weet wanneer ik kom. We doen één onderwerp tegelijk, en een pauze mag.
 
 Ik kom naar je toe. We kijken eerst hoe de dag is. Dan doen we één ding. Een pauze mag.
 
-We bespreken samen wat voor jullie fijn is. Dat is niet vast. Het kan praten zijn. Het kan ook praktisch zijn: eten opwarmen, de andere kinderen of de baby even vermaken zodat mama of papa een dutje kan doen, de wc een keertje extra doen, of de hond uitlaten.
+We bespreken samen wat voor jullie fijn is. Dat is niet vast. Er is meer bespreekbaar dan dit lijstje.
+
+Voorbeelden zijn: praten, eten opwarmen, de andere kinderen of de baby even vermaken zodat mama of papa een dutje kan doen, de wc een keertje extra doen, of de hond uitlaten. Past iets anders beter, dan kijken we daarnaar.
 
 Ik doe geen medische handelingen. Ik doe geen zwaar huishouden. De kraamzorg blijft de kraamzorg.
 

@@ -190,7 +190,7 @@ Na de kraamweek
 
 Dit is voor wie geen geboortepakket neemt. De steun is na de kraamweek, naast de kraamzorg. Ik neem de kraamzorg niet over.
 
-We bespreken samen wat voor jullie fijn is. Geen medische handelingen, en geen zwaar huishouden. Eten opwarmen, even de kinderen vermaken, of de hond uitlaten mag wel, als dat voor jullie werkt. [Zo ziet postpartumbegeleiding eruit.](https://www.adhdoula.nl/postpartum.html)
+We bespreken samen wat voor jullie fijn is. Geen medische handelingen, en geen zwaar huishouden. Eten opwarmen of de hond uitlaten zijn voorbeelden. Er is meer bespreekbaar. [Zo ziet postpartumbegeleiding eruit.](https://www.adhdoula.nl/postpartum.html)
 
 ### Per uur
 
