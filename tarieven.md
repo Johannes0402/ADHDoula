@@ -24,9 +24,9 @@ Kennismaking
 
 Gratis. Je legt nog niets vast
 
-Afspraken tijdens de zwangerschap
+Gesprekken tijdens de zwangerschap
 
-Ongeveer 4 uur. We verdelen dat samen
+Ongeveer 6 uur. We verdelen dat samen
 
 Geboorteplan
 
@@ -48,9 +48,21 @@ On-call
 
 Week 37 tot en met week 42, 24 uur per dag
 
+Bereikbaar
+
+Continu via WhatsApp. Telefonisch als je dat wilt
+
 Bij de bevalling
 
-Ik blijf bij je. Thuis of in het ziekenhuis
+Continu. Thuis of in het ziekenhuis
+
+Na de bevalling
+
+2 bezoeken. Eén in de eerste week. Eén na 6 weken
+
+Cordring
+
+Als je dat wilt, via mij. [Zo ziet die eruit](https://dalalounatuurlijk.nl/product/cordring/)
 
 Nagesprek
 
@@ -58,7 +70,7 @@ Nagesprek
 
 Na de kraamweek
 
-Niet in dit pakket
+Niet extra in dit pakket
 
 Standaardpakket
 
@@ -76,9 +88,9 @@ Kennismaking
 
 Gratis. Je legt nog niets vast
 
-Afspraken tijdens de zwangerschap
+Gesprekken tijdens de zwangerschap
 
-Ongeveer 6 uur. We verdelen dat samen
+Ongeveer 8 uur. We verdelen dat samen
 
 Geboorteplan
 
@@ -100,9 +112,21 @@ On-call
 
 Week 37 tot en met week 42, 24 uur per dag
 
+Bereikbaar
+
+Continu via WhatsApp. Telefonisch als je dat wilt
+
 Bij de bevalling
 
-Ik blijf bij je. Thuis of in het ziekenhuis
+Continu. Thuis of in het ziekenhuis
+
+Na de bevalling
+
+2 bezoeken. Eén in de eerste week. Eén na 6 weken
+
+Cordring
+
+Als je dat wilt, via mij. [Zo ziet die eruit](https://dalalounatuurlijk.nl/product/cordring/)
 
 Nagesprek
 
@@ -126,9 +150,9 @@ Kennismaking
 
 Gratis. Je legt nog niets vast
 
-Afspraken tijdens de zwangerschap
+Gesprekken tijdens de zwangerschap
 
-Ongeveer 6 uur. We verdelen dat samen
+Ongeveer 8 uur. We verdelen dat samen
 
 Geboorteplan
 
@@ -150,9 +174,21 @@ On-call
 
 Week 37 tot en met week 42, 24 uur per dag
 
+Bereikbaar
+
+Continu via WhatsApp. Telefonisch als je dat wilt
+
 Bij de bevalling
 
-Ik blijf bij je. Thuis of in het ziekenhuis
+Continu. Thuis of in het ziekenhuis
+
+Na de bevalling
+
+2 bezoeken. Eén in de eerste week. Eén na 6 weken
+
+Cordring
+
+Als je dat wilt, via mij. [Zo ziet die eruit](https://dalalounatuurlijk.nl/product/cordring/)
 
 Nagesprek
 
@@ -214,13 +250,17 @@ De kennismaking is gratis. Je legt daar nog niets vast. We kijken of het klikt, 
 
 Voor de eerste drie gezinnen die Geboorte helder afspreken, is de prijs € 1.350. Daarna is het € 1.850. Het pakket is hetzelfde. Geen haast. De kennismaking blijft gratis.
 
-In de zwangerschap is er tijd voor afspraken. We kijken samen hoe we die verdelen. Een paar langere gesprekken mag. Meer korte afspraken van 45 tot 60 minuten mag ook. Een lang gesprek is niet nodig.
+In de zwangerschap is er tijd voor gesprekken. We kijken samen hoe we die verdelen. Een paar langere gesprekken mag. Meer korte gesprekken van 45 tot 60 minuten mag ook. Een lang gesprek is niet nodig.
 
-Je mag me altijd appen als je een vraag hebt. Ik reageer wanneer ik tijd heb. In de weken dat ik op wacht sta, reageer ik meteen als ik het zie. Wil je dat ik kom, dan bel je. Dat spreken we van tevoren af.
+Je mag me continu appen. Telefonisch mag ook, als je dat wilt. Ik reageer wanneer ik tijd heb. In de weken dat ik op wacht sta, reageer ik meteen als ik het zie. Wil je dat ik kom, dan bel je. Dat spreken we van tevoren af.
 
 Ik ben bereikbaar van week 37 tot en met week 42, 24 uur per dag. Ik neem één gezin aan per uitgerekende periode.
 
-Ik blijf bij je tijdens de bevalling. Thuis of in het ziekenhuis. Er staat geen klok op die dag.
+Tijdens de bevalling blijf ik continu bij je. Thuis of in het ziekenhuis. Er staat geen klok op die dag.
+
+Na de bevalling kom ik twee keer. Eén keer in de eerste week. Eén keer na 6 weken.
+
+Wil je een cordring, dan regel ik die. [Hier zie je hoe die eruitziet.](https://dalalounatuurlijk.nl/product/cordring/)
 
 Ik neem een TENS mee. Die vervangt geen beslissing over pijnstilling. Foto's maak ik als je dat wilt. Een geboorteverslag schrijf ik niet. [Wat ik wel en niet doe](https://www.adhdoula.nl/wel-en-niet.html) staat apart. [Zo ziet de geboortebegeleiding eruit.](https://www.adhdoula.nl/geboorte.html)
 
