@@ -38,7 +38,7 @@ Niet in dit pakket
 
 TENS mee
 
-Wel
+Wel, inclusief plakkers à € 18
 
 Foto's tijdens de bevalling
 
@@ -102,7 +102,7 @@ Wel, naar één controle, als je dat wilt
 
 TENS mee
 
-Wel
+Wel, inclusief plakkers à € 18
 
 Foto's tijdens de bevalling
 
@@ -164,7 +164,7 @@ Wel, naar één controle, als je dat wilt
 
 TENS mee
 
-Wel
+Wel, inclusief plakkers à € 18
 
 Foto's tijdens de bevalling
 
@@ -262,7 +262,7 @@ Na de bevalling kom ik twee keer. Eén keer in de eerste week. Eén keer na 6 we
 
 Wil je een cordring, dan regel ik die. [Hier zie je hoe die eruitziet.](https://dalalounatuurlijk.nl/product/cordring/)
 
-Ik neem een TENS mee. Die vervangt geen beslissing over pijnstilling. Foto's maak ik als je dat wilt. Een geboorteverslag schrijf ik niet. [Wat ik wel en niet doe](https://www.adhdoula.nl/wel-en-niet.html) staat apart. [Zo ziet de geboortebegeleiding eruit.](https://www.adhdoula.nl/geboorte.html)
+Ik neem een TENS mee, inclusief plakkers à € 18. Die vervangt geen beslissing over pijnstilling. Foto's maak ik als je dat wilt. Een geboorteverslag schrijf ik niet. [Wat ik wel en niet doe](https://www.adhdoula.nl/wel-en-niet.html) staat apart. [Zo ziet de geboortebegeleiding eruit.](https://www.adhdoula.nl/geboorte.html)
 
 ## Betalen en reizen
 
