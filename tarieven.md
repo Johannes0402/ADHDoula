@@ -66,7 +66,7 @@ Standaardpakket
 
 € 1.850
 
-Inclusief btw
+Inclusief btw. Startprijs voor de eerste drie gezinnen: € 1.350
 
 Voor wie
 
@@ -211,6 +211,8 @@ Na de kraamweek
 ## Wat voor elk geboortepakket geldt
 
 De kennismaking is gratis. Je legt daar nog niets vast. We kijken of het klikt, wat je nodig hebt, en of ik ruimte heb.
+
+Voor de eerste drie gezinnen die Geboorte helder afspreken, is de prijs € 1.350. Daarna is het € 1.850. Het pakket is hetzelfde. Geen haast. De kennismaking blijft gratis.
 
 In de zwangerschap is er tijd voor afspraken. We kijken samen hoe we die verdelen. Een paar langere gesprekken mag. Meer korte afspraken van 45 tot 60 minuten mag ook. Een lang gesprek is niet nodig.
 

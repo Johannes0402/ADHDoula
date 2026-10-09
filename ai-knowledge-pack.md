@@ -44,7 +44,7 @@ Tilburg en tot 30 kilometer daaromheen. Daarbuiten is bespreekbaar in de kennism
 Prijzen staan op https://www.adhdoula.nl/tarieven.html. Alle bedragen inclusief 21% btw. Reiskosten binnen 30 km zitten erin. Daarbuiten € 0,25 per km. Parkeerkosten bij het ziekenhuis apart.
 
 - Geboorte compact: € 1.550. Gratis kennismaking, ongeveer 4 uur aan afspraken tijdens de zwangerschap, samen verdeeld in korte of langere gesprekken, TENS, foto's als het gezin dat wil, on-call van week 37 tot en met week 42, aanwezig bij de bevalling zonder klok of extra uurprijs, 1 nagesprek.
-- Geboorte helder: € 1.850. Het standaardpakket. Ongeveer 6 uur aan afspraken tijdens de zwangerschap, samen verdeeld. Meegaan naar één controle als het gezin dat wil, en 1 bezoek na de kraamweek. Verder als compact.
+- Geboorte helder: € 1.850. Het standaardpakket. Startprijs voor de eerste drie gezinnen die dit pakket afspreken: € 1.350. Daarna € 1.850. Geen staffelkorting en geen haast. Ongeveer 6 uur aan afspraken tijdens de zwangerschap, samen verdeeld. Meegaan naar één controle als het gezin dat wil, en 1 bezoek na de kraamweek. Verder als compact.
 - Geboorte en postpartum: € 2.350. Helder, plus 3 bezoeken van 3 uur na de kraamweek.
 - Postpartum los: € 60 per uur, minimaal 3 uur. Drie bezoeken (9 uur) € 525. Vier bezoeken (12 uur) € 680.
 - Last-minute, vanaf 1 december 2026, vanaf week 37 en alleen als de agenda het toelaat: € 1.200, met één voorbereidingssessie als dat nog kan. Geen klok en geen extra uurprijs bij de bevalling. De optie blijft op de site staan.
