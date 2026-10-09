@@ -19,7 +19,7 @@ De begeleiding start op 1 december 2026. Tot die datum is ze beschikbaar voor ee
 
 ## Wat ze doet
 
-- Geboorte: voorbereiding, een geboorteplan in gewone taal, aanwezig tijdens de weeën, nagesprek. Thuis of in het ziekenhuis. Het plan wordt afgestemd op de wensen en behoeften van het gezin. De partner wordt bij het proces betrokken als het gezin dat wil.
+- Geboorte: voorbereiding, een geboorteplan in gewone taal, aanwezig tijdens de weeën, nagesprek. Thuis, in het ziekenhuis of in het kraamhotel. Het plan wordt afgestemd op de wensen en behoeften van het gezin. De partner wordt bij het proces betrokken als het gezin dat wil.
 - Net zwanger: ze vervangt de verloskundige of huisarts niet. Het advies is om meteen een afspraak te maken met een verloskundige, het liefst voor 9 weken. Daarna kan ze helpen om gedachten te ordenen, één stap tegelijk, en later met voorbereiding, de bevalling en postpartum.
 - Postpartum, ook wel kraamdoula: steun in huis na de kraamweek, op een vast moment, naast de kraamzorg.
 - Eén onderwerp tegelijk. Een pauze is een gewone keuze. Partner of een andere naaste is welkom.

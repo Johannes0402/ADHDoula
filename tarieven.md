@@ -54,7 +54,7 @@ Continu via WhatsApp. Telefonisch als je dat wilt
 
 Bij de bevalling
 
-Continu. Thuis of in het ziekenhuis
+Continu. Thuis, in het ziekenhuis of in het kraamhotel
 
 Na de bevalling
 
@@ -118,7 +118,7 @@ Continu via WhatsApp. Telefonisch als je dat wilt
 
 Bij de bevalling
 
-Continu. Thuis of in het ziekenhuis
+Continu. Thuis, in het ziekenhuis of in het kraamhotel
 
 Na de bevalling
 
@@ -180,7 +180,7 @@ Continu via WhatsApp. Telefonisch als je dat wilt
 
 Bij de bevalling
 
-Continu. Thuis of in het ziekenhuis
+Continu. Thuis, in het ziekenhuis of in het kraamhotel
 
 Na de bevalling
 
@@ -256,7 +256,7 @@ Je mag me continu appen. Telefonisch mag ook, als je dat wilt. Ik reageer wannee
 
 Ik ben bereikbaar van week 37 tot en met week 42, 24 uur per dag. Ik neem één gezin aan per uitgerekende periode.
 
-Tijdens de bevalling blijf ik continu bij je. Thuis of in het ziekenhuis. Er staat geen klok op die dag.
+Tijdens de bevalling blijf ik continu bij je. Thuis, in het ziekenhuis of in het kraamhotel. Er staat geen klok op die dag.
 
 Na de bevalling kom ik twee keer. Eén keer in de eerste week. Eén keer na 6 weken.
 
