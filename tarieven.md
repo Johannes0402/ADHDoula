@@ -48,9 +48,9 @@ On-call
 
 Week 37 tot en met week 42, 24 uur per dag
 
-Uren bij de bevalling
+Bij de bevalling
 
-12 uur daarna € 75 per uur
+Ik blijf bij je. Thuis of in het ziekenhuis
 
 Nagesprek
 
@@ -100,9 +100,9 @@ On-call
 
 Week 37 tot en met week 42, 24 uur per dag
 
-Uren bij de bevalling
+Bij de bevalling
 
-15 uur daarna € 75 per uur
+Ik blijf bij je. Thuis of in het ziekenhuis
 
 Nagesprek
 
@@ -150,9 +150,9 @@ On-call
 
 Week 37 tot en met week 42, 24 uur per dag
 
-Uren bij de bevalling
+Bij de bevalling
 
-15 uur daarna € 75 per uur
+Ik blijf bij je. Thuis of in het ziekenhuis
 
 Nagesprek
 
@@ -214,7 +214,7 @@ De kennismaking is gratis. Je legt daar nog niets vast. We kijken of het klikt, 
 
 Ik ben bereikbaar van week 37 tot en met week 42, 24 uur per dag. Ik neem één gezin aan per uitgerekende periode. Tijdens die weken kun je me appen. Daarbuiten spreken we een moment af.
 
-De uren bij de bevalling gaan in als ik bij je ben in de actieve fase, en lopen door tot ongeveer twee uur na de geboorte. Thuis of in het ziekenhuis. Zit daar meer tijd in dan het pakket, dan is dat € 75 per uur. Dat plafond hoor je hier, en nog eens in de kennismaking. Niet pas op de dag zelf.
+Ik blijf bij je tijdens de bevalling. Thuis of in het ziekenhuis. Er staat geen klok op die dag.
 
 Ik neem een TENS mee. Die vervangt geen beslissing over pijnstilling. Foto's maak ik als je dat wilt. Een geboorteverslag schrijf ik niet. [Wat ik wel en niet doe](https://www.adhdoula.nl/wel-en-niet.html) staat apart. [Zo ziet de geboortebegeleiding eruit.](https://www.adhdoula.nl/geboorte.html)
 
@@ -224,7 +224,7 @@ Je betaalt de helft als we de afspraak maken, en de helft rond week 36.
 
 Reiskosten binnen [Tilburg en 30 kilometer](https://www.adhdoula.nl/werkgebied.html) zitten in de prijs. Daarbuiten reken ik € 0,25 per kilometer. Parkeerkosten bij het ziekenhuis reken ik apart.
 
-Last-minute blijft beschikbaar. Die optie gaat in vanaf 1 december 2026, vanaf week 37, en alleen als mijn agenda het toelaat. Dat kost € 1.200. Er is dan één voorbereidingssessie, als dat nog kan. Er zitten 12 uur bij de bevalling in, daarna € 75 per uur.
+Last-minute blijft beschikbaar. Die optie gaat in vanaf 1 december 2026, vanaf week 37, en alleen als mijn agenda het toelaat. Dat kost € 1.200. Er is dan één voorbereidingssessie, als dat nog kan.
 
 ## Vergoeding
 
