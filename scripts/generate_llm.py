@@ -34,6 +34,7 @@ PAGES = [
     ("werkgebied.html", "Werkgebied"),
     ("vragen.html", "Vragen"),
     ("tarieven.html", "Tarieven"),
+    ("vrouwen-die-ik-ken.html", "Vrouwen die ik ken"),
     ("kennismaking.html", "Kennismaking"),
     ("bericht-verstuurd.html", "Bericht verstuurd"),
 ]
