@@ -33,7 +33,7 @@ De begeleiding start op 1 december 2026. Tot die datum is ze beschikbaar voor ee
 - Geen belofte over hoe een bevalling zal lopen.
 - Geen geboorteverslag.
 
-Een Cochrane-review uit 2017 (CD003766) beschrijft een verband tussen continue steun en vaker een spontane vaginale bevalling, een kortere bevalling en minder keizersnedes. Het bewijs is van lage kwaliteit. Het is geen voorspelling voor één gezin. Bron: https://www.cochrane.org/evidence/CD003766_continuous-support-women-during-childbirth
+Een Cochrane-review uit 2017 (CD003766) beschrijft een verband tussen continue steun en vaker een spontane vaginale bevalling, een kortere bevalling en minder keizersnedes. Dat is geen voorspelling voor één gezin, en geen reden om een ziekenhuis af te raden. Bron: https://www.cochrane.org/evidence/CD003766_continuous-support-women-during-childbirth
 
 ## Werkgebied
 

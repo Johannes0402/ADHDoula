@@ -47,11 +47,9 @@ Ik doe geen medische handelingen, beslis niet over ingrepen, en vervang de verlo
 - Beloven hoe jouw bevalling zal lopen
 - Een geboorteverslag maken
 
-## Wat onderzoek zegt, en wat het niet zegt
+## Waarom iemand naast je kan helpen
 
-Een grote Cochrane-review uit 2017 keek naar continue steun tijdens de bevalling. Vrouwen met zo'n steun hadden vaker een spontane vaginale bevalling, een kortere bevalling, en minder vaak een keizersnede. Het bewijs is van lage kwaliteit. Het is geen voorspelling voor één gezin.
-
-[Cochrane: Continuous support for women during childbirth (2017)](https://www.cochrane.org/evidence/CD003766_continuous-support-women-during-childbirth)
+Continue steun tijdens een bevalling kan helpen. Niet in plaats van de verloskundige, en niet in plaats van je partner. Naast hen. Studies laten zien dat vrouwen dan vaker tevreden terugkijken. De bevalling kan korter zijn. Er is vaker een vaginale geboorte, en minder vaak een keizersnede, een tang of een vacuüm. Dat is geen belofte voor jouw geboorte. Een ziekenhuis is geen tegenpool. Thuis of in het ziekenhuis, de zorg blijft bij de verloskundige of de arts.
 
 ## Twijfel je of dit bij je past?
 
