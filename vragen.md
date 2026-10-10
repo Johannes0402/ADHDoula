@@ -12,7 +12,7 @@ Ik start op 1 december 2026. Tot die datum kun je een kennismaking plannen en in
 
 ## Wat doet een doula?
 
-Een doula is iemand naast je. Geen verloskundige. Ik bereid je voor, ik blijf bij je tijdens de bevalling, en ik kom daarna twee keer langs. Continue steun kan helpen. Dat is geen belofte. [Wat dat precies inhoudt, staat op de geboortepagina.](https://www.adhdoula.nl/geboorte.html)
+Een doula is iemand die naast je blijft, zodat je niet alles alleen hoeft te dragen. Ik ben geen verloskundige. We praten vooraf, ik blijf bij je tijdens de bevalling, en ik kom daarna nog twee keer langs. Continue steun kan helpen. Dat is geen belofte. [Op de geboortepagina schrijf ik hoe dat bij mij voelt.](https://www.adhdoula.nl/geboorte.html)
 
 ## Ik ben net zwanger. Wat nu?
 

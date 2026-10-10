@@ -32,17 +32,17 @@ We doen één onderwerp tegelijk; een pauze is een gewone keuze, en je partner o
 
 ## Wat een doula kan betekenen
 
-Een doula is iemand naast je. Geen extra arts. Ik doe geen medische handelingen, en ik beslis niet over inleiden, pijnstilling of een keizersnede.
+Een doula is iemand die naast je blijft. Niet om de zorg over te nemen. Wel zodat je niet alles alleen hoeft te dragen.
 
-Voor de bevalling praten we, in gewone taal. We maken een geboorteplan dat je kunt nalezen. Je partner mag meelezen, als je dat wilt. We doen één ding tegelijk. Een pauze is normaal. De gesprekken verdelen we samen. Kort mag. Langer mag ook.
+Voor de bevalling praten we rustig. Over wat je hoopt, wat spannend voelt, en wat je wilt dat er gebeurt als het zover is. Daar maken we een geboorteplan van, in gewone taal, dat je later nog kunt nalezen. Je partner mag meelezen, als je dat wilt. We doen één ding tegelijk. Als je hoofd vol is, pauzeren we. Dat is geen probleem.
 
-Tussen de afspraken mag je me appen. Telefonisch mag ook, als je dat wilt. In de weken dat ik op wacht sta, reageer ik meteen als ik het zie. Wil je dat ik kom, dan bel je. Dat spreken we van tevoren af.
+Tussen de afspraken mag je me appen. Bellen mag ook, als je dat liever doet. In de weken dat ik op wacht sta, reageer ik meteen als ik het zie. Wil je dat ik kom, dan bel je. Dat spreken we van tevoren af, zodat je het niet hoeft te onthouden op de dag zelf.
 
-Tijdens de bevalling blijf ik continu bij je. Thuis, in het ziekenhuis of in het kraamhotel. Ik help met houding, adem en overzicht. Ik neem een TENS mee, inclusief plakkers. Foto's maak ik als je dat wilt. Een geboorteverslag schrijf ik niet. Er staat geen klok op die dag.
+Als de bevalling begint, blijf ik bij je. Thuis, in het ziekenhuis of in het kraamhotel. Ik help je een houding te vinden, met je adem, en met overzicht als er veel gebeurt. Ik neem een TENS mee, met plakkers. Foto's maak ik alleen als je dat wilt. Ik schrijf geen verslag. En er staat geen klok op die dag. Ik ga niet weg omdat de uren op zijn.
 
-Na de bevalling kom ik twee keer. Eén keer in de eerste week. Eén keer na 6 weken. Dan kijken we samen wat voor jullie fijn is. Geen zwaar huishouden. Geen medische zorg.
+Daarna kom ik nog twee keer langs. Eén keer in de eerste week, en één keer na zes weken. Dan is er ruimte om te vertellen hoe het was, en om te kijken wat jullie op dat moment fijn vinden. Geen zwaar huishouden. Geen medische zorg.
 
-Continue steun bij een bevalling kan helpen. Dat is geen belofte. Wel een reden dat mensen iemand naast zich willen. De verloskundige of de arts blijft de zorg.
+Continue steun bij een bevalling kan helpen. Dat is geen belofte over hoe jouw geboorte loopt. Wel een reden dat mensen iemand naast zich willen. De verloskundige of de arts blijft verantwoordelijk voor de zorg. Ik beslis niet over inleiden, pijnstilling of een keizersnede.
 
 ## Thuis, ziekenhuis of kraamhotel
 
