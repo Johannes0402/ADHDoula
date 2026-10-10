@@ -1,4 +1,4 @@
-# Wat een doula wel en niet doet
+# Wat ik als doula wel en niet doe
 
 > [Kayleigh Huijbregts](https://www.adhdoula.nl/over-mij.html) is de ADHDoula.
 
