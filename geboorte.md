@@ -42,7 +42,7 @@ Als de bevalling begint, blijf ik bij je. Thuis, in het ziekenhuis of in het kra
 
 Daarna kom ik nog twee keer langs. Eén keer in de eerste week, en één keer na zes weken. Dan is er ruimte om te vertellen hoe het was, en om te kijken wat jullie op dat moment fijn vinden. Geen zwaar huishouden. Geen medische zorg.
 
-Continue steun bij een bevalling kan helpen. Dat is geen belofte over hoe jouw geboorte loopt. Wel een reden dat mensen iemand naast zich willen. De verloskundige of de arts blijft verantwoordelijk voor de zorg. Ik beslis niet over inleiden, pijnstilling of een keizersnede.
+Onderzoek naar continue steun tijdens een bevalling, los van de verloskundige en los van je partner, laat zien dat die steun kan helpen. De bevalling kan iets korter voelen. Er is iets vaker een vaginale geboorte, en iets minder vaak een keizersnede, een tang of een vacuüm. Mensen vragen soms minder om pijnstilling, en ze kijken vaker tevreden terug. Dat komt uit een grote samenvatting van studies, van Cochrane. Het is geen belofte over hoe jouw geboorte loopt. De verloskundige of de arts blijft verantwoordelijk voor de zorg. Ik beslis niet over inleiden, pijnstilling of een keizersnede.
 
 ## Thuis, ziekenhuis of kraamhotel
 
