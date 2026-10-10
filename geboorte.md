@@ -38,7 +38,7 @@ Voor de bevalling praten we rustig. Over wat je hoopt, wat spannend voelt, en wa
 
 Tussen de afspraken mag je me appen. Bellen mag ook, als je dat liever doet. In de weken dat ik op wacht sta, reageer ik meteen als ik het zie. Wil je dat ik kom, dan bel je. Dat spreken we van tevoren af, zodat je het niet hoeft te onthouden op de dag zelf.
 
-Als de bevalling begint, blijf ik bij je. Thuis, in het ziekenhuis of in het kraamhotel. Ik help je een houding te vinden, met je adem, en met overzicht als er veel gebeurt. Ik neem een TENS mee, met plakkers. Foto's maak ik alleen als je dat wilt. Ik schrijf geen verslag. En er staat geen klok op die dag. Ik ga niet weg omdat de uren op zijn.
+Als de bevalling begint, blijf ik bij je. Thuis, in het ziekenhuis of in het kraamhotel. Ik help je een houding te vinden, met je adem, en met overzicht als er veel gebeurt. Ik neem een TENS mee, met plakkers, en een bevalbal van 75 centimeter. Daar kun je op zitten of tegenaan leunen als een wee komt. Het is een hulpmiddel, geen belofte. Foto's maak ik alleen als je dat wilt. Ik schrijf geen verslag. En er staat geen klok op die dag. Ik ga niet weg omdat de uren op zijn.
 
 Daarna kom ik nog twee keer langs. Eén keer in de eerste week, en één keer na zes weken. Dan is er ruimte om te vertellen hoe het was, en om te kijken wat jullie op dat moment fijn vinden. Geen zwaar huishouden. Geen medische zorg.
 
