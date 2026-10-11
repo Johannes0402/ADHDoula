@@ -34,7 +34,7 @@ We doen één onderwerp tegelijk; een pauze is een gewone keuze, en je partner o
 
 Een doula is iemand die naast je blijft. Niet om de zorg over te nemen. Wel zodat je niet alles alleen hoeft te dragen.
 
-Voor de bevalling praten we rustig. Over wat je hoopt, wat spannend voelt, en wat je wilt dat er gebeurt als het zover is. Daar maken we een geboorteplan van, in gewone taal, dat je later nog kunt nalezen. Je partner mag meelezen, als je dat wilt. We doen één ding tegelijk. Als je hoofd vol is, pauzeren we. Dat is geen probleem.
+Voor de bevalling praten we rustig. Over wat je hoopt, wat spannend voelt, en wat je wilt dat er gebeurt als het zover is. Daar maken we een geboorteplan van, in gewone taal, dat je later nog kunt nalezen. Soms gebruiken we daar kaartjes bij. Wat je op de foto ziet, zijn voorbeelden. Er zijn meer opties. Jij kiest. Het is geen voorschrift. Je partner mag meelezen, als je dat wilt. We doen één ding tegelijk. Als je hoofd vol is, pauzeren we. Dat is geen probleem.
 
 Tussen de afspraken mag je me appen. Bellen mag ook, als je dat liever doet. In de weken dat ik op wacht sta, reageer ik meteen als ik het zie. Wil je dat ik kom, dan bel je. Dat spreken we van tevoren af, zodat je het niet hoeft te onthouden op de dag zelf.
 
