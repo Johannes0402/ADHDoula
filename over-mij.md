@@ -36,7 +36,7 @@ We doen één onderwerp tegelijk; een pauze is een gewone keuze, en je partner o
 - We doen één onderwerp tegelijk.
 - Een pauze is een gewone keuze.
 - Je partner of een andere naaste is welkom.
-- Ik werk samen met je verloskundige. Medische beslissingen blijven bij de verloskundige of de arts.
+- Ik werk samen met je verloskundige.
 
 ## Online
 

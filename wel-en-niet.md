@@ -12,13 +12,13 @@ Ik geef steun. De medische zorg blijft bij de verloskundige of de arts.
 
 Een doula blijft bij je. Niet alleen een uurtje, maar door de bevalling heen. Ik ben geen verloskundige en geen kraamverzorgende. Ik neem hun plek niet in.
 
-Ik vervang je partner ook niet. Jij, je partner en ik zijn een team, als je dat wilt. We willen hetzelfde: dat de geboorte zo prettig mogelijk voelt. Hoe die loopt, kan ik niet beloven.
+Ik vervang je partner ook niet. Jij, je partner en ik zijn een team, als je dat wilt. We willen hetzelfde: dat de geboorte zo prettig mogelijk voelt.
 
 Een verloskundige of gynaecoloog kan niet altijd de hele tijd blijven. Dan is het fijn als er iemand is die wel blijft. Thuis, in het ziekenhuis of in het kraamhotel. Dat ben ik.
 
-Soms is een bevalling spannend. Soms is een eerdere geboorte zwaar geweest. Dan praten we daarover, vooraf, in een paar gesprekken. Wat je hoopt. Wat je nodig hebt. Wat ik daarin kan betekenen. Daar maken we een geboorteplan van, met jouw wensen en jouw grenzen. Tijdens de bevalling help ik die lijn vasthouden. De medische beslissing blijft bij de verloskundige of de arts.
+Soms is een bevalling spannend. Soms is een eerdere geboorte zwaar geweest. Dan praten we daarover, vooraf, in een paar gesprekken. Wat je hoopt. Wat je nodig hebt. Wat ik daarin kan betekenen. Daar maken we een geboorteplan van, met jouw wensen en jouw grenzen. Tijdens de bevalling help ik die lijn vasthouden.
 
-Ik neem een TENS mee, met plakkers, en een bevalbal van 75 centimeter. Daar kun je op zitten of tegenaan leunen als een wee komt. Het zijn hulpmiddelen om te ontspannen. Geen pijnstilling, en geen belofte. Foto's maak ik alleen als je dat wilt.
+De TENS geef ik af bij de laatste afspraak, of als ik op wacht sta, met plakkers. Dan heb je hem al. De bevalbal van 75 centimeter neem ik mee. Daar kun je op zitten of tegenaan leunen als een wee komt. Foto's maak ik alleen als je dat wilt.
 
 Hoe dat er bij mij uitziet, staat op [geboorte](https://www.adhdoula.nl/geboorte.html). De steun na de bevalling staat op [postpartum](https://www.adhdoula.nl/postpartum.html). Het gebied is [Tilburg en tot 30 kilometer](https://www.adhdoula.nl/werkgebied.html).
 
@@ -29,7 +29,7 @@ Hoe dat er bij mij uitziet, staat op [geboorte](https://www.adhdoula.nl/geboorte
 - Dat plan afstemmen op jouw wensen en behoeften
 - Je partner betrekken bij het proces, als je dat wilt
 - Aanwezig zijn tijdens de bevalling
-- Een TENS meenemen naar de bevalling, met plakkers
+- Een TENS afgeven voor ik op wacht sta, met plakkers
 - Een bevalbal van 75 centimeter meenemen
 - Foto's maken tijdens de bevalling, als je dat wilt
 - Steun in de weken na de kraamweek
@@ -49,7 +49,7 @@ Ik doe geen medische handelingen, beslis niet over ingrepen, en vervang de verlo
 
 ## Waarom iemand naast je kan helpen
 
-Continue steun tijdens een bevalling kan helpen. Niet in plaats van de verloskundige, en niet in plaats van je partner. Naast hen. Studies laten zien dat vrouwen dan vaker tevreden terugkijken. De bevalling kan korter zijn. Er is vaker een vaginale geboorte, en minder vaak een keizersnede, een tang of een vacuüm. Dat is geen belofte voor jouw geboorte. Een ziekenhuis is geen tegenpool. Thuis of in het ziekenhuis, de zorg blijft bij de verloskundige of de arts.
+Continue steun tijdens een bevalling kan helpen. Naast je partner, en naast de verloskundige. Studies laten zien dat vrouwen dan vaker tevreden terugkijken. De bevalling kan korter zijn. Er is vaker een vaginale geboorte, en minder vaak een keizersnede, een tang of een vacuüm. Een ziekenhuis is geen tegenpool.
 
 ## Twijfel je of dit bij je past?
 

@@ -38,7 +38,7 @@ Je partner mag erbij zijn, als je dat wilt. Je weet van tevoren wanneer ik kom, 
 
 ## Naast de kraamzorg
 
-De kraamzorg doet haar eigen werk. Ik neem dat niet over. Ik doe geen medische handelingen. De verloskundige of de arts blijft de zorg.
+De kraamzorg doet haar eigen werk. Ik kom ernaast, voor jou.
 
 In een geboortepakket kom ik twee keer na de bevalling. Eén keer in de eerste week. Eén keer na 6 weken. Losse postpartumbegeleiding is na de kraamweek, als het huis weer voller wordt. [Wat ik wel en niet doe](https://www.adhdoula.nl/wel-en-niet.html) staat apart.
 

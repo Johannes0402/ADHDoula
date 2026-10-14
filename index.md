@@ -28,7 +28,7 @@ We doen één onderwerp tegelijk. Wat we afspreken, kun je later nog eens naleze
 
 ### Naast de zorg die er al is
 
-Ik werk samen met je verloskundige en de kraamzorg. Medische beslissingen blijven bij hen. [Wat ik wel en niet doe](https://www.adhdoula.nl/wel-en-niet.html) staat apart.
+Ik werk samen met je verloskundige en de kraamzorg. [Wat ik wel en niet doe](https://www.adhdoula.nl/wel-en-niet.html) staat apart.
 
 Ik blijf bij je, met korte stappen en afspraken die blijven staan.
 
@@ -58,7 +58,7 @@ Na de kraamweek gaat het leven door. Ik bied dan steun, naast de kraamzorg.
 
 ## Wat een doula doet
 
-Een doula geeft praktische en emotionele steun rond de geboorte en in de weken erna. Ik bereid je voor, ik ben bij de bevalling, en ik kan daarna langskomen. De verloskundige blijft verantwoordelijk voor de medische zorg.
+Een doula geeft praktische en emotionele steun rond de geboorte en in de weken erna. Ik bereid je voor, ik ben bij de bevalling, en ik kan daarna langskomen.
 
 Bij de geboorte kom ik [thuis of in het ziekenhuis](https://www.adhdoula.nl/geboorte.html). Na de kraamweek is er [steun in huis, naast de kraamzorg](https://www.adhdoula.nl/postpartum.html).
 

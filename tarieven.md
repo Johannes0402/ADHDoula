@@ -264,7 +264,7 @@ Na de bevalling kom ik twee keer. Eén keer in de eerste week. Eén keer na 6 we
 
 Wil je een cordring, dan regel ik die. [Hier zie je hoe die eruitziet.](https://dalalounatuurlijk.nl/product/cordring/)
 
-Ik neem een TENS mee, inclusief plakkers à € 18, en een bevalbal van 75 centimeter. De TENS vervangt geen beslissing over pijnstilling. Foto's maak ik als je dat wilt. Een geboorteverslag schrijf ik niet. [Wat ik wel en niet doe](https://www.adhdoula.nl/wel-en-niet.html) staat apart. [Zo ziet de geboortebegeleiding eruit.](https://www.adhdoula.nl/geboorte.html)
+De Elle TENS 2 geef ik af bij de laatste afspraak, of als ik op wacht sta, inclusief plakkers à € 18. De bevalbal van 75 centimeter neem ik mee. Foto's maak ik als je dat wilt. Een geboorteverslag schrijf ik niet. [Wat ik wel en niet doe](https://www.adhdoula.nl/wel-en-niet.html) staat apart. [Zo ziet de geboortebegeleiding eruit.](https://www.adhdoula.nl/geboorte.html)
 
 ## Betalen en reizen
 
@@ -284,6 +284,6 @@ De basisverzekering vergoedt een doula niet. Een aanvullende verzekering vergoed
 
 ## Welk pakket bij je past, zien we in de kennismaking
 
-Je legt daar nog niets vast. De verloskundige en de kraamzorg blijven verantwoordelijk voor de zorg.
+Je legt daar nog niets vast.
 
 [Kennismaking](https://www.adhdoula.nl/kennismaking.html)

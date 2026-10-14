@@ -18,7 +18,7 @@ We leren elkaar kennen. We maken een geboorteplan in gewone taal, dat je later n
 
 ### Tijdens de bevalling
 
-Ik blijf continu bij je. Thuis, in het ziekenhuis of in het kraamhotel. Ik help met houding, adem en overzicht. De verloskundige blijft de zorg.
+Ik blijf continu bij je. Thuis, in het ziekenhuis of in het kraamhotel. Ik help met houding, adem en overzicht.
 
 ### Na de bevalling
 
@@ -38,11 +38,11 @@ Voor de bevalling praten we rustig. Over wat je hoopt, wat spannend voelt, en wa
 
 Tussen de afspraken mag je me appen. Bellen mag ook, als je dat liever doet. In de weken dat ik op wacht sta, reageer ik meteen als ik het zie. Wil je dat ik kom, dan bel je. Dat spreken we van tevoren af, zodat je het niet hoeft te onthouden op de dag zelf.
 
-Als de bevalling begint, blijf ik bij je. Thuis, in het ziekenhuis of in het kraamhotel. Ik help je een houding te vinden, met je adem, en met overzicht als er veel gebeurt. Ik neem een Elle TENS 2 mee, met plakkers, en een bevalbal van 75 centimeter. Daar kun je op zitten of tegenaan leunen als een wee komt. Het is een hulpmiddel, geen belofte. Foto's maak ik alleen als je dat wilt. Ik schrijf geen verslag. En er staat geen klok op die dag. Ik ga niet weg omdat de uren op zijn.
+Als de bevalling begint, blijf ik bij je. Thuis, in het ziekenhuis of in het kraamhotel. Ik help je een houding te vinden, met je adem, en met overzicht als er veel gebeurt. De Elle TENS 2 geef ik af bij de laatste afspraak, of als ik op wacht sta, met plakkers. Dan heb je hem al, ook als het snel gaat. De bevalbal van 75 centimeter neem ik mee. Daar kun je op zitten of tegenaan leunen als een wee komt. Foto's maak ik alleen als je dat wilt. Ik schrijf geen verslag. En er staat geen klok op die dag. Ik ga niet weg omdat de uren op zijn.
 
-Daarna kom ik nog twee keer langs. Eén keer in de eerste week, en één keer na zes weken. Dan is er ruimte om te vertellen hoe het was, en om te kijken wat jullie op dat moment fijn vinden. Geen zwaar huishouden. Geen medische zorg.
+Daarna kom ik nog twee keer langs. Eén keer in de eerste week, en één keer na zes weken. Dan is er ruimte om te vertellen hoe het was, en om te kijken wat jullie op dat moment fijn vinden. Geen zwaar huishouden.
 
-Onderzoek naar continue steun tijdens een bevalling, los van de verloskundige en los van je partner, laat zien dat die steun kan helpen. De bevalling kan iets korter voelen. Er is iets vaker een vaginale geboorte, en iets minder vaak een keizersnede, een tang of een vacuüm. Mensen vragen soms minder om pijnstilling, en ze kijken vaker tevreden terug. Dat komt uit een grote samenvatting van studies, van Cochrane. Het is geen belofte over hoe jouw geboorte loopt. De verloskundige of de arts blijft verantwoordelijk voor de zorg. Ik beslis niet over inleiden, pijnstilling of een keizersnede.
+Onderzoek naar continue steun tijdens een bevalling, los van de verloskundige en los van je partner, laat zien dat die steun kan helpen. De bevalling kan iets korter voelen. Er is iets vaker een vaginale geboorte, en iets minder vaak een keizersnede, een tang of een vacuüm. Mensen vragen soms minder om pijnstilling, en ze kijken vaker tevreden terug. Dat komt uit een grote samenvatting van studies, van Cochrane. Hoe jouw geboorte loopt, is van jou.
 
 ## Thuis, ziekenhuis of kraamhotel
 

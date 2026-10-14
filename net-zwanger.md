@@ -54,7 +54,7 @@ Je hoeft niet te wachten tot de laatste weken. In de kennismaking kijken we of h
 
 Daarna, als je verder wilt, bereid ik je voor. We maken een geboorteplan in gewone taal en stemmen dat af op jouw wensen en behoeften. Ik ben bij de bevalling, [thuis of in het ziekenhuis](https://www.adhdoula.nl/geboorte.html). Na de kraamweek is er [steun in huis, naast de kraamzorg](https://www.adhdoula.nl/postpartum.html).
 
-Ik vervang de verloskundige en de kraamzorg niet. [Wat ik wel en niet doe](https://www.adhdoula.nl/wel-en-niet.html) staat apart. Het gebied is [Tilburg en tot 30 kilometer](https://www.adhdoula.nl/werkgebied.html). Daarbuiten is bespreekbaar.
+[Wat ik wel en niet doe](https://www.adhdoula.nl/wel-en-niet.html) staat apart. Het gebied is [Tilburg en tot 30 kilometer](https://www.adhdoula.nl/werkgebied.html). Daarbuiten is bespreekbaar.
 
 ## Wil je dat ik ernaast sta?
 

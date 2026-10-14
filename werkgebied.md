@@ -22,6 +22,6 @@ Woon je daarbuiten, dan is het bespreekbaar. Ik zeg in dat gesprek of ik ruimte 
 
 Bij een [geboorte](https://www.adhdoula.nl/geboorte.html) ben ik bij je thuis of in het ziekenhuis, zolang die plek binnen dit gebied valt of we de reis vooraf hebben afgesproken. Bij [postpartum](https://www.adhdoula.nl/postpartum.html) kom ik bij je langs, naast de kraamzorg.
 
-De verloskundige blijft verantwoordelijk voor de medische zorg. [Wat ik wel en niet doe](https://www.adhdoula.nl/wel-en-niet.html) staat apart. Korte antwoorden staan bij de [vragen](https://www.adhdoula.nl/vragen.html). [Wie ik ben](https://www.adhdoula.nl/over-mij.html) lees je op een eigen pagina.
+[Wat ik wel en niet doe](https://www.adhdoula.nl/wel-en-niet.html) staat apart. Korte antwoorden staan bij de [vragen](https://www.adhdoula.nl/vragen.html). [Wie ik ben](https://www.adhdoula.nl/over-mij.html) lees je op een eigen pagina.
 
 [Kennismaking](https://www.adhdoula.nl/kennismaking.html)
