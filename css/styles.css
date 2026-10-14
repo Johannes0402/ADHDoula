@@ -267,7 +267,7 @@ h3 {
 }
 
 .page-photo {
-  margin: 1.4rem 0 0.4rem;
+  margin: 1.8rem 0 2rem;
 }
 
 .page-photo img {
@@ -275,6 +275,22 @@ h3 {
   height: auto;
   border-radius: 1.4rem;
   display: block;
+}
+
+.page-photo figcaption {
+  max-width: 28rem;
+  margin: 0.55rem 0 0;
+  color: var(--ink-soft);
+  font-size: 0.95rem;
+  line-height: 1.45;
+}
+
+.page-geboorte .prose p {
+  margin: 0 0 1.35rem;
+}
+
+.page-geboorte .prose .page-photo {
+  margin: 0.4rem 0 2.2rem;
 }
 
 .portrait img.portrait-photo {
