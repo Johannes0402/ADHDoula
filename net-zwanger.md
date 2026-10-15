@@ -40,6 +40,14 @@ Pak een briefje. Schrijf drie zinnen, niet meer.
 
 Dat briefje is van jou. Je hoeft het aan niemand te laten zien. Later kan dat briefje het begin zijn van een [geboorteplan](https://www.adhdoula.nl/geboorte.html), als je dat wilt.
 
+## Als je hoofd al veel deed
+
+Blij. Bang. Dan weer blij. Dan leeg. Soms binnen een uur. Dat mag er allemaal zijn, net nadat je het weet.
+
+Als je ADHD hebt, kan dat harder gaan. Niet omdat je het verkeerd doet. Je hoofd deed al veel tegelijk. Dit komt er nog bij. Een beslissing voelt groot. Een appje beantwoorden ook. Je bent niet de enige.
+
+Je hoeft het vandaag niet te snappen. Drie zinnen op een briefje is genoeg. Een pauze mag.
+
 ## Eén klein stapje
 
 De rest wacht echt. Eén telefoontje naar de verloskundige. Of één zin op dat briefje. Of één mens die het van je hoort, als je dat al wilt vertellen.
